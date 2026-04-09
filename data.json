@@ -1,445 +1,200 @@
 {
-  "business": "AMITT.AI",
-  "tagline": "AI That Works for Your Business",
-  "updated": "2026-04-09T10:06:36Z",
-  "stats": {
-    "total_leads": 20,
-    "hot_leads": 5,
-    "pipeline_value": 18875,
-    "potential_value": 23875,
-    "leads_this_week": 20,
-    "conversion_rate": 0.15
-  },
-  "pipeline": {
-    "new": 8,
-    "contacted": 6,
-    "qualified": 4,
-    "proposal": 2
-  },
-  "top_leads": [
-    {
-      "name": "Momentum Recrutement Inc.",
-      "city": "Montreal",
-      "industry": "Recruitment Agency",
-      "score": 4.7,
-      "contact": "Fran\u00e7ois Olivier",
-      "title": "Partner / Director",
-      "email": "folivier@momentumrecrutement.ca",
-      "linkedin": "https://www.linkedin.com/in/francoisolivierrecruteur/",
-      "channel": "LinkedIn",
-      "package": "Pro",
-      "pain_point": "High-volume candidate sourcing and screening for engineering and tech roles \u2014 recruiters spending 60...",
-      "language": "FR",
-      "next_action": "Send LinkedIn connection with personalized intro"
-    },
-    {
-      "name": "Century 21 Borman & Associates",
-      "city": "Toronto",
-      "industry": "Real Estate Brokerage",
-      "score": 4.6,
-      "contact": "Sandra Borman",
-      "title": "Broker of Record / Owner",
-      "email": "sandra@century21borman.ca",
-      "linkedin": "https://www.linkedin.com/in/sandra-borman-broker/",
-      "channel": "LinkedIn",
-      "package": "Growth",
-      "pain_point": "Managing 200+ active listings with manual CRM updates, showing scheduling, and client follow-ups acr...",
-      "language": "EN",
-      "next_action": "Send LinkedIn connection with personalized intro"
-    },
-    {
-      "name": "\u00c9clat Clinique M\u00e9dico-Esth\u00e9tique",
-      "city": "Montreal",
-      "industry": "Medical-Aesthetic Clinic",
-      "score": 4.5,
-      "contact": "Camille Ducharme",
-      "title": "Medical Director / Owner",
-      "email": "info@eclatclinique.ca",
-      "linkedin": "https://www.linkedin.com/in/dr-camille-ducharme/",
-      "channel": "Email + Instagram DM",
-      "package": "Starter",
-      "pain_point": "High-touch patient booking, pre/post-treatment instructions, skincare product follow-ups, and review...",
-      "language": "FR",
-      "next_action": "Send Email + Instagram DM connection with personalized intro"
-    },
-    {
-      "name": "REMIX Studio Immobilier",
-      "city": "Montreal",
-      "industry": "Real Estate Brokerage",
-      "score": 4.4,
-      "contact": "Claudine Beaumont",
-      "title": "Founding Broker / Owner",
-      "email": "claudine@remixstudio.ca",
-      "linkedin": "https://www.linkedin.com/in/claudine-beaumont/",
-      "channel": "LinkedIn",
-      "package": "Pro",
-      "pain_point": "Fast-growing boutique brokerage struggling with repetitive client onboarding, listing input workflow...",
-      "language": "FR",
-      "next_action": "Send LinkedIn connection with personalized intro"
-    },
-    {
-      "name": "Halcyon Digital Agency",
-      "city": "Toronto",
-      "industry": "Digital Marketing Agency",
-      "score": 4.4,
-      "contact": "Kai Moreau",
-      "title": "Founder / Creative Director",
-      "email": "kai@halcyondigital.ca",
-      "linkedin": "https://www.linkedin.com/in/kai-moreau-creative/",
-      "channel": "LinkedIn",
-      "package": "Pro",
-      "pain_point": "Managing 30+ client accounts with repetitive reporting, social posting, and campaign performance upd...",
-      "language": "EN",
-      "next_action": "Send LinkedIn connection with personalized intro"
-    }
+  "generated_at": "2026-04-09T08:55:32.529361",
+  "total_leads": 40,
+  "new_this_run": 20,
+  "avg_score": 4.12,
+  "min_score": 3.5,
+  "max_score": 4.7,
+  "top_industries": [
+    [
+      "Real Estate Brokerage",
+      6
+    ],
+    [
+      "Insurance Brokerage",
+      3
+    ],
+    [
+      "Dental Clinic",
+      3
+    ],
+    [
+      "Property Management",
+      2
+    ],
+    [
+      "Management Consulting",
+      2
+    ]
   ],
-  "all_leads": [
-    {
-      "name": "Momentum Recrutement Inc.",
-      "city": "Montreal",
-      "industry": "Recruitment Agency",
-      "score": 4.7,
-      "contact": "Fran\u00e7ois Olivier",
-      "title": "Partner / Director",
-      "email": "folivier@momentumrecrutement.ca",
-      "linkedin": "https://www.linkedin.com/in/francoisolivierrecruteur/",
-      "channel": "LinkedIn",
-      "package": "Pro",
-      "pain_point": "High-volume candidate sourcing and screening for engineering and tech roles \u2014 recruiters spending 60% of time on resume ...",
-      "language": "FR"
-    },
-    {
-      "name": "Century 21 Borman & Associates",
-      "city": "Toronto",
-      "industry": "Real Estate Brokerage",
-      "score": 4.6,
-      "contact": "Sandra Borman",
-      "title": "Broker of Record / Owner",
-      "email": "sandra@century21borman.ca",
-      "linkedin": "https://www.linkedin.com/in/sandra-borman-broker/",
-      "channel": "LinkedIn",
-      "package": "Growth",
-      "pain_point": "Managing 200+ active listings with manual CRM updates, showing scheduling, and client follow-ups across a large agent te...",
-      "language": "EN"
-    },
-    {
-      "name": "\u00c9clat Clinique M\u00e9dico-Esth\u00e9tique",
-      "city": "Montreal",
-      "industry": "Medical-Aesthetic Clinic",
-      "score": 4.5,
-      "contact": "Camille Ducharme",
-      "title": "Medical Director / Owner",
-      "email": "info@eclatclinique.ca",
-      "linkedin": "https://www.linkedin.com/in/dr-camille-ducharme/",
-      "channel": "Email + Instagram DM",
-      "package": "Starter",
-      "pain_point": "High-touch patient booking, pre/post-treatment instructions, skincare product follow-ups, and review solicitation \u2014 clin...",
-      "language": "FR"
-    },
-    {
-      "name": "REMIX Studio Immobilier",
-      "city": "Montreal",
-      "industry": "Real Estate Brokerage",
-      "score": 4.4,
-      "contact": "Claudine Beaumont",
-      "title": "Founding Broker / Owner",
-      "email": "claudine@remixstudio.ca",
-      "linkedin": "https://www.linkedin.com/in/claudine-beaumont/",
-      "channel": "LinkedIn",
-      "package": "Pro",
-      "pain_point": "Fast-growing boutique brokerage struggling with repetitive client onboarding, listing input workflows, and agent coordin...",
-      "language": "FR"
-    },
-    {
-      "name": "Halcyon Digital Agency",
-      "city": "Toronto",
-      "industry": "Digital Marketing Agency",
-      "score": 4.4,
-      "contact": "Kai Moreau",
-      "title": "Founder / Creative Director",
-      "email": "kai@halcyondigital.ca",
-      "linkedin": "https://www.linkedin.com/in/kai-moreau-creative/",
-      "channel": "LinkedIn",
-      "package": "Pro",
-      "pain_point": "Managing 30+ client accounts with repetitive reporting, social posting, and campaign performance update creation \u2014 junio...",
-      "language": "EN"
-    },
-    {
-      "name": "Ascend Accounting Partners",
-      "city": "Ottawa",
-      "industry": "Accounting Firm",
-      "score": 4.3,
-      "contact": "Jennifer Oduya",
-      "title": "Managing Partner",
-      "email": "joduya@ascendaccounting.ca",
-      "linkedin": "https://www.linkedin.com/in/jennifer-oduya-cpa/",
-      "channel": "LinkedIn",
-      "package": "Growth",
-      "pain_point": "Tax season creates massive spikes in client communication, document collection, and filing follow-ups \u2014 year-round, rout...",
-      "language": "EN"
-    },
-    {
-      "name": "L'Orignal & Partners Notary LLP",
-      "city": "Ottawa",
-      "industry": "Notary Public",
-      "score": 4.3,
-      "contact": "Sophie Lajeunesse",
-      "title": "Senior Notary / Managing Partner",
-      "email": "slajeunesse@lorignalnotary.ca",
-      "linkedin": "https://www.linkedin.com/in/sophie-lajeunesse-notary/",
-      "channel": "LinkedIn",
-      "package": "Starter",
-      "pain_point": "Real estate transaction closings require extensive document checklists, client intake forms, and title search follow-ups...",
-      "language": "EN/FR"
-    },
-    {
-      "name": "Summit Wealth Advisors Inc.",
-      "city": "Toronto",
-      "industry": "Financial Planning & Wealth Management",
-      "score": 4.3,
-      "contact": "Christopher Lam",
-      "title": "Senior Advisor / Partner",
-      "email": "clam@summitwealth.ca",
-      "linkedin": "https://www.linkedin.com/in/christopher-lam-summitwealth/",
-      "channel": "LinkedIn",
-      "package": "Pro",
-      "pain_point": "Quarterly portfolio review preparation, client meeting follow-ups, and investment policy statement updates \u2014 advisors sp...",
-      "language": "EN"
-    },
-    {
-      "name": "Property Management Collective Inc.",
-      "city": "Ottawa",
-      "industry": "Property Management",
-      "score": 4.2,
-      "contact": "David Leblanc",
-      "title": "Director of Operations",
-      "email": "dleblanc@pmcollective.ca",
-      "linkedin": "https://www.linkedin.com/in/david-leblanc-pm/",
-      "channel": "LinkedIn",
-      "package": "Growth",
-      "pain_point": "Managing 500+ rental units across multiple properties \u2014 tenant communications, maintenance ticket routing, lease renewal...",
-      "language": "EN"
-    },
-    {
-      "name": "Mercury eCommerce Solutions",
-      "city": "Toronto",
-      "industry": "eCommerce Agency",
-      "score": 4.2,
-      "contact": "Amanda St. James",
-      "title": "CEO / Founder",
-      "email": "astjames@mercurycommerce.ca",
-      "linkedin": "https://www.linkedin.com/in/amanda-st-james-ecommerce/",
-      "channel": "LinkedIn",
-      "package": "Pro",
-      "pain_point": "Managing 40+ Shopify client stores with repetitive order workflow updates, inventory sync issues, and customer service r...",
-      "language": "EN"
-    },
-    {
-      "name": "Crescendo Insurance Group",
-      "city": "Montreal",
-      "industry": "Insurance Brokerage (Life & Group Benefits)",
-      "score": 4.2,
-      "contact": "Karima Benali",
-      "title": "Broker Principal / Owner",
-      "email": "kbenali@crescendoinsurance.ca",
-      "linkedin": "https://www.linkedin.com/in/karima-benali-insurance/",
-      "channel": "LinkedIn",
-      "package": "Growth",
-      "pain_point": "Group benefits renewals and employee enrollment campaigns create massive administrative spikes \u2014 policy administration, ...",
-      "language": "FR"
-    },
-    {
-      "name": "Nexus Law Partners LLP",
-      "city": "Toronto",
-      "industry": "Law Firm (Corporate & Commercial)",
-      "score": 4.1,
-      "contact": "Priya Nair",
-      "title": "Managing Partner",
-      "email": "pnair@nexuslaw.ca",
-      "linkedin": "https://www.linkedin.com/in/priya-nair-nexuslaw/",
-      "channel": "LinkedIn",
-      "package": "Strategic",
-      "pain_point": "Corporate law practice overwhelmed by client intake, due-diligence checklists, and routine contract review \u2014 junior asso...",
-      "language": "EN"
-    },
-    {
-      "name": "Crestview Homes Ltd.",
-      "city": "Ottawa",
-      "industry": "Residential Construction",
-      "score": 4.1,
-      "contact": "Tom Berglund",
-      "title": "VP Operations / Co-Founder",
-      "email": "tberglund@crestviewhomes.ca",
-      "linkedin": "https://www.linkedin.com/in/tom-berglund-crestview/",
-      "channel": "LinkedIn",
-      "package": "Growth",
-      "pain_point": "Managing buyer inquiries, lot-release communications, warranty service requests, and contractor coordination across mult...",
-      "language": "EN"
-    },
-    {
-      "name": "ParalloX Technologies Inc.",
-      "city": "Toronto",
-      "industry": "IT Services",
-      "score": 4.1,
-      "contact": "Jordan Lee",
-      "title": "COO / Co-Founder",
-      "email": "jlee@parallox.tech",
-      "linkedin": "https://www.linkedin.com/in/jordan-lee-parallox/",
-      "channel": "LinkedIn",
-      "package": "Pro",
-      "pain_point": "Managing 60+ SMB client accounts with ticket routing, maintenance reporting, and quarterly business review preparation \u2014...",
-      "language": "EN"
-    },
-    {
-      "name": "TrueNorth Insurance Brokers",
-      "city": "Toronto",
-      "industry": "Insurance Brokerage",
-      "score": 4.0,
-      "contact": "Marcus Webb",
-      "title": "President / Broker of Record",
-      "email": "mwebb@truenorthinsurance.ca",
-      "linkedin": "https://www.linkedin.com/in/marcus-webb-truenorth/",
-      "channel": "LinkedIn",
-      "package": "Starter",
-      "pain_point": "Renewal follow-ups, policy change requests, and claims status updates handled manually across hundreds of active policie...",
-      "language": "EN"
-    },
-    {
-      "name": "Borealis Clinics Group",
-      "city": "Ottawa",
-      "industry": "Multi-Discipline Healthcare Clinic",
-      "score": 4.0,
-      "contact": "Ravi Anand",
-      "title": "Clinical Director / Owner",
-      "email": "ranand@borealisclinics.ca",
-      "linkedin": "https://www.linkedin.com/in/dr-ravi-anand/",
-      "channel": "LinkedIn",
-      "package": "Growth",
-      "pain_point": "Multi-location clinic managing patient bookings, treatment reminders, intake forms, and insurance billing follow-ups acr...",
-      "language": "EN"
-    },
-    {
-      "name": "Wellness Collective Health Group",
-      "city": "Ottawa",
-      "industry": "Physiotherapy & Wellness Clinic",
-      "score": 4.0,
-      "contact": "Nina Kowalski",
-      "title": "Clinical Director",
-      "email": "nkowalski@wellnesscollective.ca",
-      "linkedin": "https://www.linkedin.com/in/dr-nina-kowalski/",
-      "channel": "Email",
-      "package": "Starter",
-      "pain_point": "Treatment progress note documentation, insurance claim submissions, and patient recall campaigns for re-bookings \u2014 pract...",
-      "language": "EN"
-    },
-    {
-      "name": "BlueLine Logistics Consulting",
-      "city": "Toronto",
-      "industry": "Logistics & Supply Chain Consulting",
-      "score": 3.9,
-      "contact": "Natasha Osei",
-      "title": "Managing Partner",
-      "email": "nosei@bluelinelogistics.ca",
-      "linkedin": "https://www.linkedin.com/in/natasha-osei-logistics/",
-      "channel": "LinkedIn",
-      "package": "Pro",
-      "pain_point": "Consulting engagements involve heavy proposal writing, client reporting, and project status update cycles \u2014 consultants ...",
-      "language": "EN"
-    },
-    {
-      "name": "Canadien Consulting Group",
-      "city": "Montreal",
-      "industry": "Management Consulting",
-      "score": 3.8,
-      "contact": "Alexandre Trudeau",
-      "title": "Managing Director",
-      "email": "atudeau@canadienconsulting.ca",
-      "linkedin": "https://www.linkedin.com/in/alexandre-trudeau-consultant/",
-      "channel": "LinkedIn",
-      "package": "Strategic",
-      "pain_point": "Proposal generation for new client engagements takes 15-20 hours per bid \u2014 senior consultants writing from scratch what ...",
-      "language": "FR"
-    },
-    {
-      "name": "GreenSpace Architecture & Design",
-      "city": "Toronto",
-      "industry": "Architecture & Interior Design",
-      "score": 3.7,
-      "contact": "Lena Fischer",
-      "title": "Principal / Founder",
-      "email": "lfischer@greenspacedesign.ca",
-      "linkedin": "https://www.linkedin.com/in/lena-fischer-architect/",
-      "channel": "Email",
-      "package": "Starter",
-      "pain_point": "Client proposal generation, project scope documentation, and design revision request tracking \u2014 principals spending 15+ ...",
-      "language": "EN"
-    }
+  "top_regions": [
+    [
+      "Toronto, ON",
+      15
+    ],
+    [
+      "Montreal, QC",
+      12
+    ],
+    [
+      "Ottawa, ON",
+      10
+    ],
+    [
+      "Brampton, ON",
+      2
+    ],
+    [
+      "Mississauga, ON",
+      1
+    ]
   ],
-  "social": {
-    "linkedin": {
-      "followers": 0,
-      "posts_this_week": 0,
-      "engagement": 0,
-      "leads": 0,
-      "status": "pending_setup"
-    },
-    "instagram": {
-      "followers": 0,
-      "posts_this_week": 0,
-      "engagement": 0,
-      "leads": 0,
-      "status": "pending_setup"
-    },
-    "tiktok": {
-      "followers": 0,
-      "videos_this_week": 0,
-      "views": 0,
-      "leads": 0,
-      "status": "pending_setup"
-    }
+  "language_breakdown": {
+    "EN": 26,
+    "FR": 8,
+    "EN/FR": 1,
+    "FR/EN": 5
   },
-  "agents": {
-    "lead_hunter": {
-      "status": "active",
-      "schedule": "6h",
-      "last_run": "2026-04-09T10:06:36Z",
-      "next_run": "2026-04-09T16:06:36Z",
-      "leads_per_run": 20
-    },
-    "kaizen": {
-      "status": "scheduled",
-      "schedule": "Weekly",
-      "next_run": "2026-04-11T09:00:00Z"
-    }
+  "channel_breakdown": {
+    "LinkedIn": 30,
+    "Email + Instagram DM": 1,
+    "Email": 9
   },
-  "services": [
-    {
-      "name": "AI Starter Setup",
-      "price_min": 750,
-      "price_max": 1200,
-      "leads_interested": 5
-    },
-    {
-      "name": "AI Workflow Automation",
-      "price_min": 1500,
-      "price_max": 2500,
-      "leads_interested": 7
-    },
-    {
-      "name": "AI Readiness Audit",
-      "price_min": 2000,
-      "price_max": 3000,
-      "leads_interested": 2
-    }
-  ],
-  "activity": [
-    {
-      "action": "Lead Hunter completed - 20 leads found",
-      "timestamp": "2026-04-09T10:06:36Z"
-    },
-    {
-      "action": "Lead report saved to data.json and deployed",
-      "timestamp": "2026-04-09T10:06:36Z"
-    }
-  ]
+  "package_breakdown": {
+    "Growth": 6,
+    "Pro": 7,
+    "Strategic": 2,
+    "Starter": 5,
+    "AI Starter Setup": 12,
+    "AI Workflow Automation": 8
+  },
+  "leads_by_score_band": {
+    "4.0+": 31,
+    "3.5-3.9": 9,
+    "3.0-3.4": 0
+  },
+  "this_run_summary": {
+    "new_leads": [
+      {
+        "name": "The Agency Montreal Agence Immobiliere",
+        "industry": "Real Estate Brokerage",
+        "location": "Montreal, QC",
+        "score": 3.8
+      },
+      {
+        "name": "REALTA Immobilier",
+        "industry": "Real Estate Brokerage",
+        "location": "Montreal, QC",
+        "score": 4.0
+      },
+      {
+        "name": "Vaugeois D'Aragon Immobilier",
+        "industry": "Real Estate Brokerage",
+        "location": "Montreal, QC",
+        "score": 4.1
+      },
+      {
+        "name": "Lachine Real Estate Group",
+        "industry": "Real Estate Brokerage",
+        "location": "Montreal, QC",
+        "score": 3.7
+      },
+      {
+        "name": "Cowie Hernandez Notaires",
+        "industry": "Notary / Legal Services",
+        "location": "Montreal, QC",
+        "score": 4.3
+      },
+      {
+        "name": "Novipro Technologies",
+        "industry": "IT Consulting",
+        "location": "Montreal, QC",
+        "score": 3.5
+      },
+      {
+        "name": "Lachapelle Consulting Group",
+        "industry": "Management Consulting",
+        "location": "Montreal, QC",
+        "score": 3.6
+      },
+      {
+        "name": "Riverview Dental Centre",
+        "industry": "Dental Clinic",
+        "location": "Ottawa, ON",
+        "score": 4.4
+      },
+      {
+        "name": "Capital Staffing Solutions",
+        "industry": "Recruitment & Staffing",
+        "location": "Ottawa, ON",
+        "score": 4.2
+      },
+      {
+        "name": "Westboro Family Dentistry",
+        "industry": "Dental Clinic",
+        "location": "Ottawa, ON",
+        "score": 4.3
+      },
+      {
+        "name": "Meridian Law Partners",
+        "industry": "Law Firm",
+        "location": "Toronto, ON",
+        "score": 4.5
+      },
+      {
+        "name": "North York Dental Group",
+        "industry": "Dental Clinic",
+        "location": "Toronto, ON",
+        "score": 4.2
+      },
+      {
+        "name": "CityPlace Insurance Brokers",
+        "industry": "Insurance Brokerage",
+        "location": "Toronto, ON",
+        "score": 4.1
+      },
+      {
+        "name": "Liberty Village Marketing Agency",
+        "industry": "Marketing & Digital Agency",
+        "location": "Toronto, ON",
+        "score": 4.0
+      },
+      {
+        "name": "Etobicoke Professional Accountants",
+        "industry": "Accounting & Bookkeeping",
+        "location": "Toronto, ON",
+        "score": 4.4
+      },
+      {
+        "name": "Mississauga E-Commerce Solutions",
+        "industry": "E-Commerce",
+        "location": "Mississauga, ON",
+        "score": 3.9
+      },
+      {
+        "name": "GTA Property Management Group",
+        "industry": "Property Management",
+        "location": "Brampton, ON",
+        "score": 4.3
+      },
+      {
+        "name": "Brampton Insurance Group",
+        "industry": "Insurance Brokerage",
+        "location": "Brampton, ON",
+        "score": 4.0
+      },
+      {
+        "name": "Scarborough Digital Recruitment",
+        "industry": "Recruitment & Staffing",
+        "location": "Toronto, ON",
+        "score": 4.1
+      },
+      {
+        "name": "Ottawa Digital Marketing Collective",
+        "industry": "Marketing & Digital Agency",
+        "location": "Ottawa, ON",
+        "score": 3.8
+      }
+    ]
+  }
 }
