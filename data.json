@@ -1,0 +1,157 @@
+{
+  "business": "AMITT.AI",
+  "tagline": "AI That Works for Your Business",
+  "updated": "2026-04-08T23:35:00Z",
+  
+  "stats": {
+    "total_leads": 20,
+    "hot_leads": 5,
+    "pipeline_value": 48000,
+    "potential_value": 192000,
+    "leads_this_week": 20,
+    "conversion_rate": 0.15
+  },
+  
+  "pipeline": {
+    "new": 8,
+    "contacted": 6,
+    "qualified": 4,
+    "proposal": 2
+  },
+  
+  "top_leads": [
+    {
+      "name": "Studio M Talent Agency Inc.",
+      "city": "Montreal",
+      "industry": "Recruitment",
+      "score": 4.7,
+      "contact": "Micheline Ouaknine",
+      "title": "Founder / Director",
+      "email": "info@studiomtalent.com",
+      "linkedin": "https://www.linkedin.com/in/micheline-ouaknine/",
+      "channel": "LinkedIn",
+      "package": "Growth",
+      "pain_point": "High volume of candidate sourcing, resume screening, and interview scheduling",
+      "language": "EN",
+      "next_action": "Send LinkedIn connection with personalized intro"
+    },
+    {
+      "name": "Precision Recruit Group Inc.",
+      "city": "Toronto",
+      "industry": "Recruitment",
+      "score": 4.7,
+      "contact": "Michael Forde",
+      "title": "Founder / Director",
+      "email": "contact@precisionrecruit.com",
+      "channel": "LinkedIn",
+      "package": "Growth"
+    },
+    {
+      "name": "MultiPrêt Hypotheques Inc.",
+      "city": "Montreal",
+      "industry": "Real Estate",
+      "score": 4.6,
+      "contact": "TBD",
+      "channel": "LinkedIn",
+      "package": "Growth"
+    },
+    {
+      "name": "Recruitment Partners Inc.",
+      "city": "Ottawa",
+      "industry": "Recruitment",
+      "score": 4.6,
+      "contact": "TBD",
+      "email": "info@recruitmentpartners.ca",
+      "channel": "Email",
+      "package": "Growth"
+    },
+    {
+      "name": "GTelser CPA Inc.",
+      "city": "Montreal",
+      "industry": "Accounting",
+      "score": 4.5,
+      "contact": "TBD",
+      "channel": "Contact Form",
+      "package": "Growth"
+    }
+  ],
+  
+  "social": {
+    "linkedin": {
+      "followers": 0,
+      "posts_this_week": 0,
+      "engagement": 0,
+      "leads": 0,
+      "status": "pending_setup"
+    },
+    "instagram": {
+      "followers": 0,
+      "posts_this_week": 0,
+      "engagement": 0,
+      "leads": 0,
+      "status": "pending_setup"
+    },
+    "tiktok": {
+      "followers": 0,
+      "videos_this_week": 0,
+      "views": 0,
+      "leads": 0,
+      "status": "pending_setup"
+    }
+  },
+  
+  "agents": {
+    "lead_hunter": {
+      "status": "active",
+      "schedule": "6h",
+      "last_run": "2026-04-08T23:35:00Z",
+      "next_run": "2026-04-09T05:35:00Z",
+      "leads_per_run": 20
+    },
+    "kaizen": {
+      "status": "scheduled",
+      "schedule": "Weekly",
+      "next_run": "2026-04-11T09:00:00Z"
+    }
+  },
+  
+  "services": [
+    {
+      "name": "AI Starter Setup",
+      "price_min": 750,
+      "price_max": 1200,
+      "leads_interested": 12
+    },
+    {
+      "name": "AI Workflow Automation",
+      "price_min": 1500,
+      "price_max": 2500,
+      "leads_interested": 6
+    },
+    {
+      "name": "AI Readiness Audit",
+      "price_min": 2000,
+      "price_max": 3000,
+      "leads_interested": 2
+    }
+  ],
+  
+  "activity": [
+    {
+      "action": "Lead Hunter completed - 20 leads found",
+      "timestamp": "2026-04-08T23:35:00Z"
+    },
+    {
+      "action": "Lead report generated and saved",
+      "timestamp": "2026-04-08T23:35:00Z"
+    },
+    {
+      "action": "Social media content created",
+      "timestamp": "2026-04-08T21:00:00Z"
+    },
+    {
+      "action": "Dashboard created",
+      "timestamp": "2026-04-08T20:59:00Z"
+    }
+  ]
+}
