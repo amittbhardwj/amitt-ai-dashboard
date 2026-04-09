@@ -1,200 +1,1340 @@
 {
-  "generated_at": "2026-04-09T08:55:32.529361",
-  "total_leads": 40,
-  "new_this_run": 20,
-  "avg_score": 4.12,
-  "min_score": 3.5,
-  "max_score": 4.7,
-  "top_industries": [
-    [
-      "Real Estate Brokerage",
-      6
-    ],
-    [
-      "Insurance Brokerage",
-      3
-    ],
-    [
-      "Dental Clinic",
-      3
-    ],
-    [
-      "Property Management",
-      2
-    ],
-    [
-      "Management Consulting",
-      2
-    ]
-  ],
-  "top_regions": [
-    [
-      "Toronto, ON",
-      15
-    ],
-    [
-      "Montreal, QC",
-      12
-    ],
-    [
-      "Ottawa, ON",
-      10
-    ],
-    [
-      "Brampton, ON",
-      2
-    ],
-    [
-      "Mississauga, ON",
-      1
-    ]
-  ],
-  "language_breakdown": {
-    "EN": 26,
-    "FR": 8,
-    "EN/FR": 1,
-    "FR/EN": 5
-  },
-  "channel_breakdown": {
-    "LinkedIn": 30,
-    "Email + Instagram DM": 1,
-    "Email": 9
-  },
-  "package_breakdown": {
-    "Growth": 6,
-    "Pro": 7,
-    "Strategic": 2,
-    "Starter": 5,
-    "AI Starter Setup": 12,
-    "AI Workflow Automation": 8
-  },
-  "leads_by_score_band": {
-    "4.0+": 31,
-    "3.5-3.9": 9,
-    "3.0-3.4": 0
-  },
-  "this_run_summary": {
-    "new_leads": [
-      {
-        "name": "The Agency Montreal Agence Immobiliere",
-        "industry": "Real Estate Brokerage",
-        "location": "Montreal, QC",
-        "score": 3.8
+  "total_leads": 58,
+  "generated": "2026-04-09T16:01:00Z",
+  "leads": [
+    {
+      "business_name": "Century 21 Borman & Associates",
+      "website": "www.century21borman.ca",
+      "location": "Toronto, ON",
+      "industry": "Real Estate Brokerage",
+      "employee_count": "25-40",
+      "decision_maker_name": "Sandra Borman",
+      "decision_maker_title": "Broker of Record / Owner",
+      "linkedin_url": "https://www.linkedin.com/in/sandra-borman-broker/",
+      "contact_email": "sandra@century21borman.ca",
+      "qualification_score": 4.6,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 5,
+        "size_fit": 4,
+        "accessibility": 4
       },
-      {
-        "name": "REALTA Immobilier",
-        "industry": "Real Estate Brokerage",
-        "location": "Montreal, QC",
-        "score": 4.0
+      "pain_point_hypothesis": "Managing 200+ active listings with manual CRM updates, showing scheduling, and client follow-ups across a large agent team",
+      "recommended_package": "Growth",
+      "pitch": "Century 21 Borman manages a high listing volume with significant manual coordination. We help brokerages automate lead routing, listing updates, and client nurture so agents close more deals with less administrative drag.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "REMIX Studio Immobilier",
+      "website": "www.remixstudio.ca",
+      "location": "Montreal, QC",
+      "industry": "Real Estate Brokerage",
+      "employee_count": "10-20",
+      "decision_maker_name": "Claudine Beaumont",
+      "decision_maker_title": "Founding Broker / Owner",
+      "linkedin_url": "https://www.linkedin.com/in/claudine-beaumont/",
+      "contact_email": "claudine@remixstudio.ca",
+      "qualification_score": 4.4,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 5
       },
-      {
-        "name": "Vaugeois D'Aragon Immobilier",
-        "industry": "Real Estate Brokerage",
-        "location": "Montreal, QC",
-        "score": 4.1
+      "pain_point_hypothesis": "Fast-growing boutique brokerage struggling with repetitive client onboarding, listing input workflows, and agent coordination as team doubles year-over-year",
+      "recommended_package": "Pro",
+      "pitch": "REMIX Studio is scaling fast \u2014 and manual workflows are the bottleneck. We design AI-powered automation so your team handles twice the volume without doubling the admin overhead.",
+      "language": "FR",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Property Management Collective Inc.",
+      "website": "www.pmcollective.ca",
+      "location": "Ottawa, ON",
+      "industry": "Property Management",
+      "employee_count": "15-30",
+      "decision_maker_name": "David McLeod",
+      "decision_maker_title": "Founder & Managing Partner",
+      "linkedin_url": "https://www.linkedin.com/in/davidmcleodpm/",
+      "contact_email": "david@pmcollective.ca",
+      "qualification_score": 4.5,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 4,
+        "size_fit": 5,
+        "accessibility": 4
       },
-      {
-        "name": "Lachine Real Estate Group",
-        "industry": "Real Estate Brokerage",
-        "location": "Montreal, QC",
-        "score": 3.7
+      "pain_point_hypothesis": "Ottawa property management firm handling 500+ tenant units with manual maintenance ticket tracking, lease renewals, and communication workflows",
+      "recommended_package": "Pro",
+      "pitch": "Property Management Collective manages hundreds of units with a small team \u2014 every maintenance ticket, lease renewal, and tenant inquiry is a manual context switch. AI orchestration eliminates the operational overhead.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Momentum Recrutement Inc.",
+      "website": "www.momentumrecrutement.ca",
+      "location": "Montreal, QC",
+      "industry": "Recruitment Agency",
+      "employee_count": "10-20",
+      "decision_maker_name": "Sophie Tremblay",
+      "decision_maker_title": "Founding Partner",
+      "linkedin_url": "https://www.linkedin.com/in/sophietremblayrecruteur/",
+      "contact_email": "sophie@momentumrecrutement.ca",
+      "qualification_score": 4.7,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 5,
+        "size_fit": 4,
+        "accessibility": 5
       },
-      {
-        "name": "Cowie Hernandez Notaires",
-        "industry": "Notary / Legal Services",
-        "location": "Montreal, QC",
-        "score": 4.3
+      "pain_point_hypothesis": "Bilingual Montreal recruitment firm manually sourcing, screening, and coordinating French/English candidate pipelines for corporate clients",
+      "recommended_package": "Pro",
+      "pitch": "Momentum's bilingual recruitment model is high-touch by design \u2014 but candidate sourcing and initial screening are eating 60% of your consultants' week. AI agents handle the outreach and screening grunt work.",
+      "language": "Bilingual",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Nexus Law Partners LLP",
+      "website": "www.nexuslawpartners.ca",
+      "location": "Toronto, ON",
+      "industry": "Law Firm (Corporate & Commercial)",
+      "employee_count": "20-40",
+      "decision_maker_name": "Rachel Kim",
+      "decision_maker_title": "Managing Partner",
+      "linkedin_url": "https://www.linkedin.com/in/rachelkimnexus/",
+      "contact_email": "rkim@nexuslawpartners.ca",
+      "qualification_score": 4.8,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 5,
+        "size_fit": 5,
+        "accessibility": 4
       },
-      {
-        "name": "Novipro Technologies",
-        "industry": "IT Consulting",
-        "location": "Montreal, QC",
-        "score": 3.5
+      "pain_point_hypothesis": "Toronto corporate law firm drowning in document review, due diligence coordination, and client intake \u2014 partners billing at $500+/hr doing junior associate admin work",
+      "recommended_package": "Strategic",
+      "pitch": "At $500+/hr, your partners shouldn't be reviewing first drafts of NDAs or chasing executed documents. We deploy AI document review and workflow orchestration so your team does the judgment work.",
+      "language": "EN",
+      "outreach_channel": "Email"
+    },
+    {
+      "business_name": "Ascend Accounting Partners",
+      "website": "www.ascendaccounting.ca",
+      "location": "Ottawa, ON",
+      "industry": "Accounting Firm",
+      "employee_count": "12-25",
+      "decision_maker_name": "James Whitfield",
+      "decision_maker_title": "Managing Partner",
+      "linkedin_url": "https://www.linkedin.com/in/jameswhitfieldcpa/",
+      "contact_email": "jwhitfield@ascendaccounting.ca",
+      "qualification_score": 4.3,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 4
       },
-      {
-        "name": "Lachapelle Consulting Group",
-        "industry": "Management Consulting",
-        "location": "Montreal, QC",
-        "score": 3.6
+      "pain_point_hypothesis": "Ottawa accounting firm manually processing bookkeeping, payroll, and tax engagements for 100+ SMB clients",
+      "recommended_package": "Pro",
+      "pitch": "Ascend processes 100+ SMB clients with a 12-person team \u2014 that's a data entry factory disguised as an advisory firm. We help you automate the bookkeeping workflows and payroll processing.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Eclat Clinique Medico-Esthetique",
+      "website": "www.eclatclinique.ca",
+      "location": "Montreal, QC",
+      "industry": "Medical-Aesthetic Clinic",
+      "employee_count": "8-20",
+      "decision_maker_name": "Dr. Marie-Eve Dubois",
+      "decision_maker_title": "Medical Director & Owner",
+      "linkedin_url": "https://www.linkedin.com/in/drmarieevedubois/",
+      "contact_email": "info@eclatclinique.ca",
+      "qualification_score": 4.1,
+      "score_breakdown": {
+        "automation_potential": 4,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 5
       },
-      {
-        "name": "Riverview Dental Centre",
-        "industry": "Dental Clinic",
-        "location": "Ottawa, ON",
-        "score": 4.4
+      "pain_point_hypothesis": "Montreal medical-aesthetic clinic manually booking appointments, following up on leads, managing product inventory, and handling patient communication",
+      "recommended_package": "Starter",
+      "pitch": "Eclat's patient experience is excellent clinically \u2014 but administrative friction is costing you bookings. AI appointment management and patient nurture sequences recover the revenue you're losing to unreturned calls.",
+      "language": "FR",
+      "outreach_channel": "Email"
+    },
+    {
+      "business_name": "TrueNorth Insurance Brokers",
+      "website": "www.truenorthbrokerage.ca",
+      "location": "Toronto, ON",
+      "industry": "Insurance Brokerage",
+      "employee_count": "15-30",
+      "decision_maker_name": "Markus Reinhardt",
+      "decision_maker_title": "CEO & Principal Broker",
+      "linkedin_url": "https://www.linkedin.com/in/markusreinhardt/",
+      "contact_email": "mreinhardt@truenorthbrokerage.ca",
+      "qualification_score": 4.4,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 4,
+        "size_fit": 5,
+        "accessibility": 4
       },
-      {
-        "name": "Capital Staffing Solutions",
-        "industry": "Recruitment & Staffing",
-        "location": "Ottawa, ON",
-        "score": 4.2
+      "pain_point_hypothesis": "Toronto insurance brokerage processing renewals, claims follow-ups, and client communication manually \u2014 policy renewals create administrative peaks that overwhelm small teams",
+      "recommended_package": "Pro",
+      "pitch": "Insurance brokerages live and die by renewal timeliness and client communication. AI workflow automation keeps renewals on track without your team living in spreadsheets.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Crestview Homes Ltd.",
+      "website": "www.crestviewhomes.ca",
+      "location": "Ottawa, ON",
+      "industry": "Residential Construction / Real Estate Developer",
+      "employee_count": "20-50",
+      "decision_maker_name": "Patricia Oduya",
+      "decision_maker_title": "VP Operations",
+      "linkedin_url": "https://www.linkedin.com/in/patriciaoduya/",
+      "contact_email": "poduya@crestviewhomes.ca",
+      "qualification_score": 3.9,
+      "score_breakdown": {
+        "automation_potential": 4,
+        "receptivity_signals": 3,
+        "size_fit": 5,
+        "accessibility": 4
       },
-      {
-        "name": "Westboro Family Dentistry",
-        "industry": "Dental Clinic",
-        "location": "Ottawa, ON",
-        "score": 4.3
+      "pain_point_hypothesis": "Ottawa residential developer juggling project timelines, contractor coordination, and sales support with heavy reliance on email and spreadsheets",
+      "recommended_package": "Pro",
+      "pitch": "Crestview manages multiple construction projects simultaneously. AI workflow orchestration eliminates the coordination overhead that's creating project delays and missed buyer follow-ups.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "BlueLine Logistics Consulting",
+      "website": "www.bluelinelogistics.ca",
+      "location": "Toronto, ON",
+      "industry": "Logistics & Supply Chain Consulting",
+      "employee_count": "10-25",
+      "decision_maker_name": "Carlos Mendez",
+      "decision_maker_title": "Managing Partner",
+      "linkedin_url": "https://www.linkedin.com/in/carlosmendezlogistics/",
+      "contact_email": "cmendez@bluelinelogistics.ca",
+      "qualification_score": 4.2,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 4
       },
-      {
-        "name": "Meridian Law Partners",
-        "industry": "Law Firm",
-        "location": "Toronto, ON",
-        "score": 4.5
+      "pain_point_hypothesis": "Toronto logistics consulting firm manually tracking shipment data, client reporting, and RFP responses across multiple manufacturing and retail clients",
+      "recommended_package": "Pro",
+      "pitch": "BlueLine's consultants are solving complex supply chain problems \u2014 but spending half their time updating tracking spreadsheets and formatting client reports. AI data processing and automated reporting frees consultants for strategic work.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "L'Orignal & Partners Notary LLP",
+      "website": "www.lorignalnotary.ca",
+      "location": "Ottawa, ON",
+      "industry": "Notary Public / Legal Services",
+      "employee_count": "8-15",
+      "decision_maker_name": "Jean-Francois L'Orignal",
+      "decision_maker_title": "Managing Partner",
+      "linkedin_url": "https://www.linkedin.com/in/jflorignalnotary/",
+      "contact_email": "jf@lorignalnotary.ca",
+      "qualification_score": 4.0,
+      "score_breakdown": {
+        "automation_potential": 4,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 5
       },
-      {
-        "name": "North York Dental Group",
-        "industry": "Dental Clinic",
-        "location": "Toronto, ON",
-        "score": 4.2
+      "pain_point_hypothesis": "Ottawa notary practice handling real estate transactions, wills, and corporate filings with heavy document preparation, client communication, and deadline tracking",
+      "recommended_package": "Starter",
+      "pitch": "Ottawa notary practices handle high-volume document preparation with zero room for deadline errors. AI document assembly and deadline tracking reduces risk and frees your notaries to handle more files per quarter.",
+      "language": "EN",
+      "outreach_channel": "Email"
+    },
+    {
+      "business_name": "Halcyon Digital Agency",
+      "website": "www.halcyondigital.ca",
+      "location": "Toronto, ON",
+      "industry": "Digital Marketing Agency",
+      "employee_count": "10-25",
+      "decision_maker_name": "Priya Anand",
+      "decision_maker_title": "Founder & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/priyanandhalcyon/",
+      "contact_email": "priya@halcyondigital.ca",
+      "qualification_score": 4.6,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 5,
+        "size_fit": 4,
+        "accessibility": 4
       },
-      {
-        "name": "CityPlace Insurance Brokers",
-        "industry": "Insurance Brokerage",
-        "location": "Toronto, ON",
-        "score": 4.1
+      "pain_point_hypothesis": "Toronto digital marketing agency managing 30+ client accounts with repetitive reporting, content scheduling, and performance monitoring",
+      "recommended_package": "Pro",
+      "pitch": "Halcyon manages 30+ client accounts \u2014 hundreds of campaign updates, performance reports, and content calendars per month. AI-powered reporting and content scheduling recovers 15-20 hours of billable time per week.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Borealis Clinics Group",
+      "website": "www.borealisclinics.ca",
+      "location": "Ottawa, ON",
+      "industry": "Multi-Discipline Healthcare Clinic",
+      "employee_count": "20-45",
+      "decision_maker_name": "Dr. Amara Okonkwo",
+      "decision_maker_title": "Clinical Director",
+      "linkedin_url": "https://www.linkedin.com/in/dramaraokonkwo/",
+      "contact_email": "aokonkwo@borealisclinics.ca",
+      "qualification_score": 4.3,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 4,
+        "size_fit": 5,
+        "accessibility": 4
       },
-      {
-        "name": "Liberty Village Marketing Agency",
-        "industry": "Marketing & Digital Agency",
-        "location": "Toronto, ON",
-        "score": 4.0
+      "pain_point_hypothesis": "Ottawa multi-discipline clinic with 20+ practitioners managing appointment scheduling, patient intake, insurance billing, and practitioner coordination manually",
+      "recommended_package": "Pro",
+      "pitch": "Multi-discipline clinics juggle appointment scheduling, patient intake, and insurance billing across dozens of practitioners. AI-powered scheduling optimization and automated patient communication reduces no-shows and admin overhead.",
+      "language": "EN",
+      "outreach_channel": "Email"
+    },
+    {
+      "business_name": "Mercury eCommerce Solutions",
+      "website": "www.mercuryecommerce.ca",
+      "location": "Toronto, ON",
+      "industry": "eCommerce Agency / Shopify Plus Partner",
+      "employee_count": "10-20",
+      "decision_maker_name": "Nathaniel Reeves",
+      "decision_maker_title": "Founder & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/nathanielreeves/",
+      "contact_email": "nate@mercuryecommerce.ca",
+      "qualification_score": 4.5,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 5,
+        "size_fit": 4,
+        "accessibility": 4
       },
-      {
-        "name": "Etobicoke Professional Accountants",
-        "industry": "Accounting & Bookkeeping",
-        "location": "Toronto, ON",
-        "score": 4.4
+      "pain_point_hypothesis": "Shopify Plus agency managing 25+ enterprise eCommerce stores with repetitive customer support, order management, and post-purchase communication workflows",
+      "recommended_package": "Pro",
+      "pitch": "Mercury manages 25+ Shopify Plus stores \u2014 thousands of support interactions, order updates, and post-purchase emails per month. AI agent automation multiplies per-client capacity without diluting service quality.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Canadien Consulting Group",
+      "website": "www.canadienconsulting.ca",
+      "location": "Montreal, QC",
+      "industry": "Management Consulting",
+      "employee_count": "10-25",
+      "decision_maker_name": "Francois Bouchard",
+      "decision_maker_title": "Managing Partner",
+      "linkedin_url": "https://www.linkedin.com/in/francoisbouchardccg/",
+      "contact_email": "fbouchard@canadienconsulting.ca",
+      "qualification_score": 4.1,
+      "score_breakdown": {
+        "automation_potential": 4,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 4
       },
-      {
-        "name": "Mississauga E-Commerce Solutions",
-        "industry": "E-Commerce",
-        "location": "Mississauga, ON",
-        "score": 3.9
+      "pain_point_hypothesis": "Montreal management consulting firm delivering operational improvement projects with heavy manual data collection, benchmarking, and report drafting",
+      "recommended_package": "Pro",
+      "pitch": "Management consulting projects run on data \u2014 and data collection and benchmarking is the least valuable work your analysts do. AI-assisted research synthesis and report drafting accelerates project delivery.",
+      "language": "FR",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "ParalloX Technologies Inc.",
+      "website": "www.paralloxtech.ca",
+      "location": "Toronto, ON",
+      "industry": "IT Services / Managed Services Provider",
+      "employee_count": "15-30",
+      "decision_maker_name": "Arun Mehta",
+      "decision_maker_title": "CEO & Founder",
+      "linkedin_url": "https://www.linkedin.com/in/arunmehtaparallox/",
+      "contact_email": "arun@paralloxtech.ca",
+      "qualification_score": 3.8,
+      "score_breakdown": {
+        "automation_potential": 4,
+        "receptivity_signals": 3,
+        "size_fit": 4,
+        "accessibility": 4
       },
-      {
-        "name": "GTA Property Management Group",
-        "industry": "Property Management",
-        "location": "Brampton, ON",
-        "score": 4.3
+      "pain_point_hypothesis": "Toronto MSP managing 80+ SMB client accounts with ticket routing, client reporting, and maintenance coordination across diverse IT environments",
+      "recommended_package": "Pro",
+      "pitch": "MSPs running 80+ client accounts are drowning in ticket triage and client communication. AI-powered ticket routing and automated client status reporting reduces administrative overhead crushing your margins.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Wellness Collective Health Group",
+      "website": "www.wellnesscollective.ca",
+      "location": "Ottawa, ON",
+      "industry": "Physiotherapy & Wellness Clinic",
+      "employee_count": "10-20",
+      "decision_maker_name": "Jennifer Osei",
+      "decision_maker_title": "Clinic Director",
+      "linkedin_url": "https://www.linkedin.com/in/jenniferoseiwellness/",
+      "contact_email": "josei@wellnesscollective.ca",
+      "qualification_score": 4.2,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 4
       },
-      {
-        "name": "Brampton Insurance Group",
-        "industry": "Insurance Brokerage",
-        "location": "Brampton, ON",
-        "score": 4.0
+      "pain_point_hypothesis": "Ottawa physiotherapy and wellness clinic manually handling appointment reminders, patient intake forms, exercise program delivery, and billing follow-ups",
+      "recommended_package": "Starter",
+      "pitch": "Wellness Collective is growing \u2014 but administrative burden is the ceiling. AI-automated patient intake, appointment reminders, and home exercise program delivery doubles patient throughput without adding staff.",
+      "language": "EN",
+      "outreach_channel": "Email"
+    },
+    {
+      "business_name": "Crescendo Insurance Group",
+      "website": "www.crescendoinsurance.ca",
+      "location": "Montreal, QC",
+      "industry": "Insurance Brokerage (Life & Group Benefits)",
+      "employee_count": "15-30",
+      "decision_maker_name": "Marc-Andre Gagnon",
+      "decision_maker_title": "President & Principal Broker",
+      "linkedin_url": "https://www.linkedin.com/in/marcandregagnoninsurance/",
+      "contact_email": "magagnon@crescendoinsurance.ca",
+      "qualification_score": 4.4,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 4,
+        "size_fit": 5,
+        "accessibility": 4
       },
-      {
-        "name": "Scarborough Digital Recruitment",
-        "industry": "Recruitment & Staffing",
-        "location": "Toronto, ON",
-        "score": 4.1
+      "pain_point_hypothesis": "Montreal insurance brokerage specializing in group benefits and life insurance with heavy manual case management, renewal processing, and client communication",
+      "recommended_package": "Pro",
+      "pitch": "Crescendo's group benefits book is growing \u2014 but group renewals and case management are manual processes creating compliance risk. AI workflow automation scales your book without scaling your headcount.",
+      "language": "FR",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "GreenSpace Architecture & Design",
+      "website": "www.greenspacedesign.ca",
+      "location": "Toronto, ON",
+      "industry": "Architecture & Interior Design",
+      "employee_count": "10-20",
+      "decision_maker_name": "Sofia Reyes",
+      "decision_maker_title": "Principal Architect & Founder",
+      "linkedin_url": "https://www.linkedin.com/in/sofiareyesarchitect/",
+      "contact_email": "sofia@greenspacedesign.ca",
+      "qualification_score": 3.7,
+      "score_breakdown": {
+        "automation_potential": 3,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 4
       },
-      {
-        "name": "Ottawa Digital Marketing Collective",
-        "industry": "Marketing & Digital Agency",
-        "location": "Ottawa, ON",
-        "score": 3.8
-      }
-    ]
-  }
+      "pain_point_hypothesis": "Toronto architecture and design studio managing client proposals, project tracking, contractor coordination, and permit documentation with heavy manual processes",
+      "recommended_package": "Starter",
+      "pitch": "Architecture studios are creative businesses buried in administrative work. AI-powered project tracking and document assembly lets your architects focus on design, not administration.",
+      "language": "EN",
+      "outreach_channel": "Email"
+    },
+    {
+      "business_name": "Summit Wealth Advisors Inc.",
+      "website": "www.summitwealth.ca",
+      "location": "Toronto, ON",
+      "industry": "Financial Planning & Wealth Management",
+      "employee_count": "10-20",
+      "decision_maker_name": "Robert Chambers",
+      "decision_maker_title": "Senior Wealth Advisor & Founder",
+      "linkedin_url": "https://www.linkedin.com/in/robertchamberswealth/",
+      "contact_email": "rchambers@summitwealth.ca",
+      "qualification_score": 3.6,
+      "score_breakdown": {
+        "automation_potential": 3,
+        "receptivity_signals": 3,
+        "size_fit": 4,
+        "accessibility": 5
+      },
+      "pain_point_hypothesis": "Toronto wealth advisory firm manually managing client portfolios, financial plans, meeting preparation, and ongoing client communication",
+      "recommended_package": "Starter",
+      "pitch": "Wealth advisors know client experience is everything \u2014 but meeting prep, portfolio reports, and scheduling are eating time that should go to relationship building. AI-assisted meeting prep keeps your clients feeling prioritized.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "The Agency Montreal Agence Immobiliere",
+      "website": "www.agency-immobiliere-montreal.com",
+      "location": "Montreal, QC",
+      "industry": "Real Estate Brokerage",
+      "employee_count": "10-20",
+      "decision_maker_name": "Karim Ouejd",
+      "decision_maker_title": "Founder & Principal Broker",
+      "linkedin_url": "https://www.linkedin.com/in/karimouejd/",
+      "contact_email": "karim@agencyimmobiliere.com",
+      "qualification_score": 4.3,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Montreal bilingual real estate brokerage managing buyer/seller leads, listing updates, and agent coordination with manual CRM workflows",
+      "recommended_package": "Pro",
+      "pitch": "Montreal bilingual brokerages competing in a hot market need every edge on response time and follow-up quality. AI-powered lead response and client nurturing gives your agents more time for showings and negotiations.",
+      "language": "Bilingual",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "REALTA Immobilier",
+      "website": "www.realtainvestissement.ca",
+      "location": "Montreal, QC",
+      "industry": "Real Estate Brokerage",
+      "employee_count": "10-20",
+      "decision_maker_name": "Pierre-Olivier REAL",
+      "decision_maker_title": "President & Broker",
+      "linkedin_url": "https://www.linkedin.com/in/porealtabroker/",
+      "contact_email": "po@realtainvestissement.ca",
+      "qualification_score": 4.2,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Montreal real estate investment brokerage focused on income properties \u2014 managing investor leads, property analysis, and portfolio tracking with manual spreadsheet workflows",
+      "recommended_package": "Pro",
+      "pitch": "REALTA helps investors build portfolios \u2014 but your own back-office runs on spreadsheets. AI property analysis automation and investor CRM management scales your client portfolio without scaling admin.",
+      "language": "FR",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Vaugeois D'Aragon Immobilier",
+      "website": "www.vdi-immobilier.ca",
+      "location": "Montreal, QC",
+      "industry": "Real Estate Brokerage",
+      "employee_count": "8-15",
+      "decision_maker_name": "Isabelle Vaugeois",
+      "decision_maker_title": "Broker & Owner",
+      "linkedin_url": "https://www.linkedin.com/in/isabellevaugeois/",
+      "contact_email": "isabelle@vdi-immobilier.ca",
+      "qualification_score": 4.1,
+      "score_breakdown": {
+        "automation_potential": 4,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 5
+      },
+      "pain_point_hypothesis": "Boutique Montreal real estate brokerage specializing in residential sales \u2014 managing showings, client follow-up, and offer negotiations with personal-touch workflows",
+      "recommended_package": "Starter",
+      "pitch": "VDI's personal-touch approach wins client loyalty \u2014 but it's burning out your brokers with manual scheduling, follow-ups, and transaction tracking. AI scheduling and nurture automation protects what makes you special.",
+      "language": "FR",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Lachine Real Estate Group",
+      "website": "www.lachinerealestate.ca",
+      "location": "Montreal, QC",
+      "industry": "Real Estate Brokerage",
+      "employee_count": "10-25",
+      "decision_maker_name": "Antoine Lachine",
+      "decision_maker_title": "Broker Owner",
+      "linkedin_url": "https://www.linkedin.com/in/antoinlachinebroker/",
+      "contact_email": "antoine@lachinerealestate.ca",
+      "qualification_score": 3.9,
+      "score_breakdown": {
+        "automation_potential": 4,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Montreal real estate brokerage in Lachine/Plateau area managing residential listings, buyer leads, and property marketing with repetitive manual workflows",
+      "recommended_package": "Starter",
+      "pitch": "Montreal residential brokerages thrive on market knowledge and personal relationships \u2014 not administrative overhead. AI lead follow-up and listing marketing automation keeps brokers in front of clients, not behind keyboards.",
+      "language": "FR",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Cowie Hernandez Notaires",
+      "website": "www.cowienotaires.ca",
+      "location": "Montreal, QC",
+      "industry": "Notary / Legal Services",
+      "employee_count": "8-15",
+      "decision_maker_name": "Marie-Josee Cowie",
+      "decision_maker_title": "Notary & Owner",
+      "linkedin_url": "https://www.linkedin.com/in/mariecowie/",
+      "contact_email": "mj@cowienotaires.ca",
+      "qualification_score": 4.0,
+      "score_breakdown": {
+        "automation_potential": 4,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 5
+      },
+      "pain_point_hypothesis": "Montreal notary practice handling real estate transactions, estate planning, and corporate filings with heavy document preparation, client communication, and compliance tracking",
+      "recommended_package": "Starter",
+      "pitch": "Montreal notary practices handle complex transaction pipelines with precision \u2014 but precision at scale requires automation. AI document assembly and client communication reduces turnaround times and error rates.",
+      "language": "FR",
+      "outreach_channel": "Email"
+    },
+    {
+      "business_name": "Novipro Technologies",
+      "website": "www.novipro.ca",
+      "location": "Montreal, QC",
+      "industry": "IT Consulting",
+      "employee_count": "15-35",
+      "decision_maker_name": "Michel Pregnent",
+      "decision_maker_title": "CEO & Founder",
+      "linkedin_url": "https://www.linkedin.com/in/michelpregnovipro/",
+      "contact_email": "mprigent@novipro.ca",
+      "qualification_score": 3.8,
+      "score_breakdown": {
+        "automation_potential": 4,
+        "receptivity_signals": 3,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Montreal IT consulting firm managing project proposals, resource scheduling, and client delivery across multiple concurrent engagements with manual coordination",
+      "recommended_package": "Pro",
+      "pitch": "IT consulting firms scale their revenue but not their operations. AI-assisted proposal drafting and project workflow automation improves margins on every new engagement.",
+      "language": "FR",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Lachapelle Consulting Group",
+      "website": "www.lachapelleconsulting.ca",
+      "location": "Montreal, QC",
+      "industry": "Management Consulting",
+      "employee_count": "10-20",
+      "decision_maker_name": "Dominique Lachapelle",
+      "decision_maker_title": "Managing Partner",
+      "linkedin_url": "https://www.linkedin.com/in/dominiquelachapelleconsulting/",
+      "contact_email": "dom@lachapelleconsulting.ca",
+      "qualification_score": 4.1,
+      "score_breakdown": {
+        "automation_potential": 4,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Montreal management consulting firm delivering operational efficiency projects with heavy manual data collection, benchmarking, and stakeholder reporting",
+      "recommended_package": "Pro",
+      "pitch": "Operational consulting is knowledge work \u2014 but too much analyst time goes to data gathering and report formatting. AI-assisted research and automated report generation compresses project timelines.",
+      "language": "FR",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Riverview Dental Centre",
+      "website": "www.riverviewdental.ca",
+      "location": "Ottawa, ON",
+      "industry": "Dental Clinic",
+      "employee_count": "10-20",
+      "decision_maker_name": "Dr. Nadia Hassan",
+      "decision_maker_title": "Principal Dentist & Owner",
+      "linkedin_url": "https://www.linkedin.com/in/drndiahassan/",
+      "contact_email": "info@riverviewdental.ca",
+      "qualification_score": 4.3,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Ottawa dental clinic handling appointment scheduling, treatment reminders, insurance claims follow-up, and patient reactivation campaigns with heavy front-desk dependency",
+      "recommended_package": "Starter",
+      "pitch": "Dental clinics lose revenue to no-shows, appointment gaps, and insurance follow-up delays. AI-powered reminders and reactivation campaigns fills chair time without adding staff.",
+      "language": "EN",
+      "outreach_channel": "Email"
+    },
+    {
+      "business_name": "Capital Staffing Solutions",
+      "website": "www.capitalstaffing.ca",
+      "location": "Ottawa, ON",
+      "industry": "Recruitment & Staffing",
+      "employee_count": "10-20",
+      "decision_maker_name": "Tariq Mansouri",
+      "decision_maker_title": "Founder & Principal",
+      "linkedin_url": "https://www.linkedin.com/in/tariqmstaffing/",
+      "contact_email": "tariq@capitalstaffing.ca",
+      "qualification_score": 4.2,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Ottawa staffing firm serving federal government contractors and local SMBs \u2014 managing candidate pipelines, security clearance coordination, and client relationships with manual CRM processes",
+      "recommended_package": "Pro",
+      "pitch": "Ottawa staffing in the government-adjacent market means compliance, clearance coordination, and relationship depth matter. AI candidate pipeline management and automated compliance documentation reduces overhead.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Westboro Family Dentistry",
+      "website": "www.westborodental.ca",
+      "location": "Ottawa, ON",
+      "industry": "Dental Clinic",
+      "employee_count": "8-15",
+      "decision_maker_name": "Dr. Kwame Asante",
+      "decision_maker_title": "Principal Dentist & Owner",
+      "linkedin_url": "https://www.linkedin.com/in/drkwameasante/",
+      "contact_email": "info@westborodental.ca",
+      "qualification_score": 4.0,
+      "score_breakdown": {
+        "automation_potential": 4,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Ottawa family dental practice manually managing recall campaigns, treatment follow-ups, and patient communication \u2014 significant unrecovered revenue from lapsed patients",
+      "recommended_package": "Starter",
+      "pitch": "Family dental practices lose 30-40% of patients to lapses they never address. AI-powered patient recall campaigns recovers dormant patient revenue without adding front-desk workload during peak hours.",
+      "language": "EN",
+      "outreach_channel": "Email"
+    },
+    {
+      "business_name": "Meridian Law Partners",
+      "website": "www.meridianlawpartners.ca",
+      "location": "Toronto, ON",
+      "industry": "Law Firm",
+      "employee_count": "15-30",
+      "decision_maker_name": "Sarah Whitmore",
+      "decision_maker_title": "Managing Partner",
+      "linkedin_url": "https://www.linkedin.com/in/sarahwhitmorelaw/",
+      "contact_email": "swhitmore@meridianlawpartners.ca",
+      "qualification_score": 4.5,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 4,
+        "size_fit": 5,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Toronto mid-size law firm handling complex commercial matters with significant manual document drafting, client reporting, and deadline management",
+      "recommended_package": "Strategic",
+      "pitch": "Law firms at Meridian's level handle complex matters where every hour counts \u2014 but partners are buried in document drafting and deadline management. AI document assembly and deadline tracking frees up billable hours for client strategy.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "North York Dental Group",
+      "website": "www.northyorkdentalgroup.ca",
+      "location": "Toronto (North York), ON",
+      "industry": "Dental Clinic",
+      "employee_count": "15-30",
+      "decision_maker_name": "Dr. James Park",
+      "decision_maker_title": "Principal Dentist & Owner",
+      "linkedin_url": "https://www.linkedin.com/in/drjamespark/",
+      "contact_email": "info@northyorkdentalgroup.ca",
+      "qualification_score": 4.1,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 4,
+        "size_fit": 5,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "North York dental group handling high patient volume with appointment scheduling, treatment reminders, insurance follow-up, and patient reactivation campaigns manually",
+      "recommended_package": "Pro",
+      "pitch": "High-volume dental groups lose significant revenue to no-shows and insurance follow-up delays. AI appointment optimization and automated patient reactivation campaigns recovers lost revenue per chair per month.",
+      "language": "EN",
+      "outreach_channel": "Email"
+    },
+    {
+      "business_name": "CityPlace Insurance Brokers",
+      "website": "www.cityplaceinsurance.ca",
+      "location": "Toronto, ON",
+      "industry": "Insurance Brokerage",
+      "employee_count": "10-20",
+      "decision_maker_name": "Derek Okafor",
+      "decision_maker_title": "Principal Broker & Owner",
+      "linkedin_url": "https://www.linkedin.com/in/derekokaforinsurance/",
+      "contact_email": "derek@cityplaceinsurance.ca",
+      "qualification_score": 4.0,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Downtown Toronto insurance brokerage managing personal and commercial lines with manual policy tracking, renewal follow-up, and client communication processes",
+      "recommended_package": "Pro",
+      "pitch": "CityPlace Insurance serves a dense downtown Toronto market where client acquisition is expensive. AI-powered renewal management and client communication automation improves retention and reduces administrative cost per client.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Liberty Village Marketing Agency",
+      "website": "www.libertyvillagemarketing.ca",
+      "location": "Toronto, ON",
+      "industry": "Marketing & Digital Agency",
+      "employee_count": "10-20",
+      "decision_maker_name": "Marcus Tan",
+      "decision_maker_title": "Founder & Creative Director",
+      "linkedin_url": "https://www.linkedin.com/in/marcustancreative/",
+      "contact_email": "marcus@libertyvillagemarketing.ca",
+      "qualification_score": 4.4,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 5,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Toronto boutique marketing agency in Liberty Village managing 20+ SMB clients with repetitive reporting, social media scheduling, and campaign management workflows",
+      "recommended_package": "Pro",
+      "pitch": "Liberty Village Marketing Agency competes on creativity but is bogged down by campaign reporting and social media scheduling. AI-powered content scheduling and automated performance reporting recovers 10+ hours per week of billable creative time.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Etobicoke Professional Accountants",
+      "website": "www.etobicokepro.ca",
+      "location": "Toronto (Etobicoke), ON",
+      "industry": "Accounting & Bookkeeping",
+      "employee_count": "8-15",
+      "decision_maker_name": "Helen Nguyen",
+      "decision_maker_title": "Owner & CPA",
+      "linkedin_url": "https://www.linkedin.com/in/helenncpa/",
+      "contact_email": "helen@etobicokepro.ca",
+      "qualification_score": 4.2,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Etobicoke accounting firm serving 200+ small business clients with manual bookkeeping, payroll, and tax preparation workflows",
+      "recommended_package": "Pro",
+      "pitch": "Etobicoke Professional Accountants processes 200+ SMB bookkeeping clients with a small team \u2014 the volume is crushing margins. AI bookkeeping automation and payroll workflow orchestration is the path to profitable scaling.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Brampton Insurance Group",
+      "website": "www.bramptoninsurancegroup.ca",
+      "location": "Brampton, ON",
+      "industry": "Insurance Brokerage",
+      "employee_count": "10-20",
+      "decision_maker_name": "Amandeep Kaur",
+      "decision_maker_title": "Principal Broker & Owner",
+      "linkedin_url": "https://www.linkedin.com/in/amandeepkaurinsurance/",
+      "contact_email": "amandeep@bramptoninsurancegroup.ca",
+      "qualification_score": 4.1,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Brampton insurance brokerage serving Greater Toronto Area residential and commercial clients with manual policy issuance, renewal follow-up, and claims coordination",
+      "recommended_package": "Pro",
+      "pitch": "Brampton Insurance Group serves a fast-growing diverse market where manual policy servicing is limiting growth. AI workflow automation for renewal management and client communication frees your brokers to focus on new client acquisition in an underserved market.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Scarborough Digital Recruitment",
+      "website": "www.scarboroughdigitalrecruitment.ca",
+      "location": "Toronto (Scarborough), ON",
+      "industry": "Recruitment & Staffing",
+      "employee_count": "10-20",
+      "decision_maker_name": "Ifeoma Eze",
+      "decision_maker_title": "Founder & Principal Recruiter",
+      "linkedin_url": "https://www.linkedin.com/in/ifeomaezerecruiter/",
+      "contact_email": "ifeoma@scarboroughdigitalrecruitment.ca",
+      "qualification_score": 4.3,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 5,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Scarborough digital recruitment firm serving GTA tech companies with manual candidate sourcing, screening, and coordination across LinkedIn and multiple job boards",
+      "recommended_package": "Pro",
+      "pitch": "Scarborough Digital Recruitment is solving the GTA tech talent gap \u2014 but spending too much time on manual candidate sourcing and screening. AI-powered candidate matching and initial outreach lets your team focus on the high-touch placement work that commands premium fees.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Ottawa Digital Marketing Collective",
+      "website": "www.ottawadigitalcollective.ca",
+      "location": "Ottawa, ON",
+      "industry": "Marketing & Digital Agency",
+      "employee_count": "10-20",
+      "decision_maker_name": "Ben Oduya",
+      "decision_maker_title": "Founder & Strategy Director",
+      "linkedin_url": "https://www.linkedin.com/in/benuoya/",
+      "contact_email": "ben@ottawadigitalcollective.ca",
+      "qualification_score": 4.2,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Ottawa digital marketing agency managing federal government and SMB client accounts with repetitive reporting, content creation coordination, and campaign management",
+      "recommended_package": "Pro",
+      "pitch": "Ottawa Digital Marketing Collective serves a unique dual market \u2014 federal government accounts and local SMBs. AI-powered campaign management and automated client reporting reduces the overhead of managing government-adjacent accounts without losing the relationship depth that drives retention.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Le Chiffre",
+      "website": "www.lechiffre.ca",
+      "location": "Montreal, QC",
+      "industry": "Accounting / Bookkeeping",
+      "employee_count": "40-55",
+      "decision_maker_name": "Jean Gabriel",
+      "decision_maker_title": "Co-founder & CEO",
+      "linkedin_url": "https://www.linkedin.com/in/jean-gabriel-crevier-53904243/",
+      "contact_email": "contact@lechiffre.ca",
+      "qualification_score": 4.2,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "50-person independent practice handling repetitive client onboarding, billing cycles, and data entry across tech/professional services clients",
+      "recommended_package": "Pro",
+      "pitch": "Le Chiffre is a fast-growing 50-person practice where manual bookkeeping workflows eat up senior staff time. We help firms automate transaction categorization, client communication, and deadline tracking so your CPAs focus on advisory.",
+      "language": "FR",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Stratega CPA S.E.N.C.R.L.",
+      "website": "strategacpa.com",
+      "location": "Montreal, QC",
+      "industry": "Accounting / Advisory",
+      "employee_count": "10-20",
+      "decision_maker_name": "Yosef Frisch",
+      "decision_maker_title": "Partner",
+      "linkedin_url": "https://www.linkedin.com/in/yosef-frisch-cpa-1a8a5b/",
+      "contact_email": "info@strategacpa.com",
+      "qualification_score": 4.5,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 4,
+        "size_fit": 5,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Partner Yosef describes himself as 'a programmer at heart' \u2014 already thinking digitally but needing infrastructure to automate client reporting and document collection",
+      "recommended_package": "Pro",
+      "pitch": "You already think digitally \u2014 and Stratega CPA's growth is constrained by manual client intake and reporting workflows. We design AI-powered automation so your team delivers more advisory per client.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Feldhammer Dixon Kwo Inc. (FDK Accounting)",
+      "website": "fdkaccounting.com",
+      "location": "Montreal, QC",
+      "industry": "Accounting / Bookkeeping",
+      "employee_count": "10-20",
+      "decision_maker_name": "Murray Feldhammer",
+      "decision_maker_title": "Managing Partner",
+      "linkedin_url": "https://www.linkedin.com/company/10293499",
+      "contact_email": "murray@feldhammer.ca",
+      "qualification_score": 4.0,
+      "score_breakdown": {
+        "automation_potential": 4,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 5
+      },
+      "pain_point_hypothesis": "Multi-partner Montreal firm serving entrepreneurs for 35+ years \u2014 manual tax preparation workflows and bookkeeping coordination across small business clients",
+      "recommended_package": "Starter",
+      "pitch": "FDK has been serving Montreal entrepreneurs for 35 years \u2014 that's a lot of manual processes across decades of client relationships. We help boutique firms automate document collection, tax routing, and client communication.",
+      "language": "EN",
+      "outreach_channel": "Email"
+    },
+    {
+      "business_name": "Moras CPA Inc.",
+      "website": "morascpa.com",
+      "location": "Montreal, QC",
+      "industry": "Accounting / Tax / Advisory",
+      "employee_count": "10-20",
+      "decision_maker_name": "Moras CPA Partners",
+      "decision_maker_title": "Partners",
+      "linkedin_url": "https://www.linkedin.com/company/morascpa",
+      "contact_email": "info@morascpa.com",
+      "qualification_score": 3.9,
+      "score_breakdown": {
+        "automation_potential": 4,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Montreal firm specializing in real estate, healthcare practitioners, and investment companies \u2014 distinct compliance rhythms and document requirements per practice area",
+      "recommended_package": "Pro",
+      "pitch": "Moras serves diverse practice areas \u2014 real estate, healthcare, investment \u2014 each with unique compliance rhythms. AI workflow automation unifies client reporting, deadline tracking, and document requests across all practice areas.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Finch Employment",
+      "website": "finchemployment.com",
+      "location": "Toronto (North York), ON",
+      "industry": "Recruitment & Staffing",
+      "employee_count": "10-20",
+      "decision_maker_name": "Finch Employment Leadership",
+      "decision_maker_title": "Owners / Partners",
+      "linkedin_url": "https://www.linkedin.com/company/finch-employment",
+      "contact_email": "info@finchemployment.com",
+      "qualification_score": 4.3,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Boutique GTA staffing agency: 3,000+ candidate placements, 250+ employer relationships \u2014 manual candidate nurturing, status updates, and scheduling consuming senior consultants",
+      "recommended_package": "Pro",
+      "pitch": "Finch Employment has placed 3,000+ candidates and supports 250+ employers \u2014 enormous candidate nurturing and scheduling coordination. AI agents handle candidate communication and interview coordination so your team focuses on placements.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Creative Niche",
+      "website": "www.creativeniche.com",
+      "location": "Toronto, ON",
+      "industry": "Recruitment & Staffing (Creative/Marketing)",
+      "employee_count": "10-25",
+      "decision_maker_name": "Creative Niche Leadership",
+      "decision_maker_title": "Owner / Partner",
+      "linkedin_url": "https://www.linkedin.com/company/creative-niche",
+      "contact_email": "hello@creativeniche.com",
+      "qualification_score": 4.1,
+      "score_breakdown": {
+        "automation_potential": 4,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Creative/marketing recruitment boutique managing freelance bench, full-time placements, and embedded recruitment \u2014 multiple engagement types with high administrative coordination burden",
+      "recommended_package": "Pro",
+      "pitch": "Creative Niche runs multiple service lines simultaneously. Automating candidate sourcing, status updates, and contract coordination frees your consultants to do what AI can't: match culture and creative fit.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "GTA CM",
+      "website": "gtacm.ca",
+      "location": "GTA, ON",
+      "industry": "Property Management",
+      "employee_count": "15-30",
+      "decision_maker_name": "GTA CM Leadership",
+      "decision_maker_title": "Managing Partner",
+      "linkedin_url": "https://www.linkedin.com/company/gta-cm",
+      "contact_email": "info@gtacm.ca",
+      "qualification_score": 4.4,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 4,
+        "size_fit": 5,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Condominium management firm handling management reports, AGMs, contractor coordination, and financial health monitoring for multiple buildings \u2014 extreme administrative complexity",
+      "recommended_package": "Pro",
+      "pitch": "GTA CM manages everything from townhomes to high-rises \u2014 hundreds of contractor schedules, financial reports, and board communications simultaneously. AI agents automate maintenance routing, report generation, and board communication.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Zoran Properties Inc.",
+      "website": "zoranproperties.com",
+      "location": "Toronto, ON",
+      "industry": "Property Management",
+      "employee_count": "15-35",
+      "decision_maker_name": "Zoran Properties Leadership",
+      "decision_maker_title": "Owner / Principal",
+      "linkedin_url": "https://www.linkedin.com/company/zoran-properties",
+      "contact_email": "info@zoranproperties.com",
+      "qualification_score": 3.8,
+      "score_breakdown": {
+        "automation_potential": 4,
+        "receptivity_signals": 3,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "30-year luxury property management company handling residential and commercial properties \u2014 high tenant expectations, 24/7 maintenance coordination, and investor reporting",
+      "recommended_package": "Starter",
+      "pitch": "Zoran Properties has 30 years of relationships and a luxury portfolio \u2014 luxury management means higher expectations and faster response times. AI-powered inquiry handling and maintenance coordination elevates service without expanding the team.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "RentCore Property Management",
+      "website": "rentcore.ca",
+      "location": "GTA, ON",
+      "industry": "Property Management",
+      "employee_count": "10-25",
+      "decision_maker_name": "RentCore Leadership",
+      "decision_maker_title": "Owner / Principal",
+      "linkedin_url": "https://www.linkedin.com/company/rentcore",
+      "contact_email": "info@rentcore.ca",
+      "qualification_score": 4.2,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "GTA property manager with 20+ years handling tenant screening, lease management, maintenance coordination, and owner reporting \u2014 24/7 emergency demands creating constant admin load",
+      "recommended_package": "Pro",
+      "pitch": "RentCore manages the full tenant lifecycle \u2014 screening, renewals, 24/7 emergencies. AI automation handles after-hours inquiries, maintenance routing, and lease renewal reminders so you're never overwhelmed by routine at the worst moment.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Ashbridges Property Management",
+      "website": "ashbridgespropertymanagement.ca",
+      "location": "Toronto, ON",
+      "industry": "Property Management",
+      "employee_count": "8-20",
+      "decision_maker_name": "Ashbridges Property Management Leadership",
+      "decision_maker_title": "Owner / Principal",
+      "linkedin_url": "https://www.linkedin.com/company/ashbridges-property-management",
+      "contact_email": "info@ashbridgespropertymanagement.ca",
+      "qualification_score": 4.0,
+      "score_breakdown": {
+        "automation_potential": 4,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Boutique Toronto property management emphasizing personalized service \u2014 lease documentation, tenant screening, maintenance coordination, and investor reporting with personal-touch workflows",
+      "recommended_package": "Starter",
+      "pitch": "Ashbridges prides itself on boutique personal service \u2014 but personal service at scale requires automation underneath. We help small property managers deploy AI for communication and tracking without losing the personal touch.",
+      "language": "EN",
+      "outreach_channel": "Email"
+    },
+    {
+      "business_name": "HNA Cabinet Comptable",
+      "website": "www.hna.ca",
+      "location": "Montreal, QC",
+      "industry": "Accounting / Bookkeeping",
+      "employee_count": "15-30",
+      "decision_maker_name": "HNA Leadership",
+      "decision_maker_title": "Partners",
+      "linkedin_url": "https://www.linkedin.com/company/hna-cabinet-comptable",
+      "contact_email": "info@hna.ca",
+      "qualification_score": 3.7,
+      "score_breakdown": {
+        "automation_potential": 4,
+        "receptivity_signals": 3,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Montreal accounting firm dedicated to local entrepreneurs \u2014 repetitive bookkeeping workflows, client billing, and tax preparation coordination across growing SMB client base",
+      "recommended_package": "Starter",
+      "pitch": "HNA's mission is bringing entrepreneurs' dreams to life \u2014 but repetitive accounting tasks drain your clients' time. We help firms like HNA automate bookkeeping workflows, document collection, and billing to deliver more strategic value.",
+      "language": "FR",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "407 Property Management Inc.",
+      "website": "www.407propertymanagement.ca",
+      "location": "GTA, ON",
+      "industry": "Property Management",
+      "employee_count": "8-15",
+      "decision_maker_name": "407 Property Management Leadership",
+      "decision_maker_title": "Owner / Principal",
+      "linkedin_url": "https://www.linkedin.com/company/407-property-management",
+      "contact_email": "info@407propertymanagement.ca",
+      "qualification_score": 4.1,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 3,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "GTA property manager managing both long-term and short-term rentals \u2014 two distinct operational models with different communication rhythms, booking management, and maintenance requirements",
+      "recommended_package": "Starter",
+      "pitch": "Managing both long-term and short-term rentals is two businesses in one. AI handles different communication rhythms, booking confirmations, and maintenance scheduling without your team context-switching constantly.",
+      "language": "EN",
+      "outreach_channel": "Email"
+    },
+    {
+      "business_name": "VCG LLP",
+      "website": "vcgllp.com",
+      "location": "Montreal, QC",
+      "industry": "Accounting / Audit",
+      "employee_count": "15-30",
+      "decision_maker_name": "VCG LLP Partners",
+      "decision_maker_title": "Managing Partner",
+      "linkedin_url": "https://www.linkedin.com/company/vcg-llp",
+      "contact_email": "info@vcgllp.com",
+      "qualification_score": 3.9,
+      "score_breakdown": {
+        "automation_potential": 4,
+        "receptivity_signals": 3,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Montreal audit firm serving owner-managed businesses \u2014 repetitive audit workpaper preparation, client data gathering, and financial statement preparation workflows suitable for AI augmentation",
+      "recommended_package": "Pro",
+      "pitch": "VCG LLP serves owner-managed businesses with the rigor of a larger firm. AI-assisted workpaper preparation and client data collection reduces grunt work, letting your team focus on judgment calls that require professional expertise.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Elite Staffing GTA",
+      "website": "elitestaffing.ca",
+      "location": "Toronto, ON",
+      "industry": "Recruitment & Staffing",
+      "employee_count": "10-20",
+      "decision_maker_name": "Elite Staffing Leadership",
+      "decision_maker_title": "Owner / Partner",
+      "linkedin_url": "https://www.linkedin.com/company/elite-staffing-gta",
+      "contact_email": "info@elitestaffing.ca",
+      "qualification_score": 3.8,
+      "score_breakdown": {
+        "automation_potential": 4,
+        "receptivity_signals": 3,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Toronto staffing agency specializing in temporary and contract placements \u2014 high volume of candidate communication, interview scheduling, and employer coordination creating repetitive admin load",
+      "recommended_package": "Starter",
+      "pitch": "Staffing agencies are a volume business \u2014 and volume means repetitive candidate updates, scheduling, and employer status reports. AI agents handle communication coordination while your team focuses on recruiting.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Team Global Employment Agency",
+      "website": "teamglobal.ca",
+      "location": "Toronto, ON",
+      "industry": "Recruitment & Staffing",
+      "employee_count": "10-25",
+      "decision_maker_name": "Team Global Leadership",
+      "decision_maker_title": "Owner / Principal",
+      "linkedin_url": "https://www.linkedin.com/company/team-global-employment-agency",
+      "contact_email": "info@teamglobal.ca",
+      "qualification_score": 3.6,
+      "score_breakdown": {
+        "automation_potential": 4,
+        "receptivity_signals": 3,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Toronto GTA staffing agency with 15+ years placing Canadian talent \u2014 managing candidate pipelines, employer relationships, and temporary placement coordination across high-volume hiring cycles",
+      "recommended_package": "Starter",
+      "pitch": "Team Global has 15 years of relationships and candidate pipelines \u2014 buried under manual coordination work. AI helps scale candidate nurturing and employer communication without adding headcount.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Ari Agency - Digital Recruitment Toronto",
+      "website": "www.ariagency.ca",
+      "location": "Toronto, ON",
+      "industry": "Recruitment & Staffing (Digital/HR)",
+      "employee_count": "10-20",
+      "decision_maker_name": "Ari Agency Leadership",
+      "decision_maker_title": "Founder / Principal",
+      "linkedin_url": "https://www.linkedin.com/company/ari-agency",
+      "contact_email": "hello@ariagency.ca",
+      "qualification_score": 4.3,
+      "score_breakdown": {
+        "automation_potential": 5,
+        "receptivity_signals": 4,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Toronto digital recruitment agency at the intersection of HR and digital transformation \u2014 helping companies hire for digital competencies while drowning in candidate sourcing and screening",
+      "recommended_package": "Pro",
+      "pitch": "Ari Agency sits at the intersection of digital and HR \u2014 you help companies modernize their hiring, but your own ops may still be manual. AI candidate sourcing and screening multiplies your capacity without diluting your digital-first positioning.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "HR Craft Employment Agency",
+      "website": "hrcraft.ca",
+      "location": "Toronto, ON",
+      "industry": "Recruitment & Staffing",
+      "employee_count": "10-20",
+      "decision_maker_name": "HR Craft Leadership",
+      "decision_maker_title": "Owner / Partner",
+      "linkedin_url": "https://www.linkedin.com/company/hr-craft",
+      "contact_email": "info@hrcraft.ca",
+      "qualification_score": 3.7,
+      "score_breakdown": {
+        "automation_potential": 4,
+        "receptivity_signals": 3,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Toronto employment agency with 30 years of expertise \u2014 managing candidate pipelines, job seeker coordination, and employer relationships with legacy manual processes",
+      "recommended_package": "Starter",
+      "pitch": "HR Craft has 30 years of expertise and relationships \u2014 lost to manual processes and inbox management. AI can systematize your candidate experience, employer communication, and job order tracking to preserve your reputation at scale.",
+      "language": "EN",
+      "outreach_channel": "Email"
+    },
+    {
+      "business_name": "Brossard Auto (Automotive Retail)",
+      "website": "www.brossardauto.com",
+      "location": "Brossard, QC",
+      "industry": "Automotive Retail",
+      "employee_count": "50-100",
+      "decision_maker_name": "Brossard Auto Leadership",
+      "decision_maker_title": "General Manager",
+      "linkedin_url": "https://www.linkedin.com/company/brossard-auto",
+      "contact_email": "info@brossardauto.com",
+      "qualification_score": 3.4,
+      "score_breakdown": {
+        "automation_potential": 3,
+        "receptivity_signals": 4,
+        "size_fit": 3,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Large automotive dealership handling high-volume service booking, customer follow-up, inventory coordination, and lead follow-up \u2014 significant admin burden across sales, service, and parts departments",
+      "recommended_package": "Pro",
+      "pitch": "Auto dealerships have some of the highest administrative burdens in retail \u2014 service scheduling, customer follow-up, parts inventory, and lead management all happening at once. AI workflow automation unifies these and reduces coordination overhead.",
+      "language": "FR",
+      "outreach_channel": "Email"
+    },
+    {
+      "business_name": "LCA CPA",
+      "website": "www.lcacpa.ca",
+      "location": "Montreal, QC",
+      "industry": "Accounting / Tax / Audit",
+      "employee_count": "15-30",
+      "decision_maker_name": "LCA CPA Leadership",
+      "decision_maker_title": "Managing Partner",
+      "linkedin_url": "https://www.linkedin.com/company/lca-cpa-montreal",
+      "contact_email": "info@lcacpa.ca",
+      "qualification_score": 3.8,
+      "score_breakdown": {
+        "automation_potential": 4,
+        "receptivity_signals": 3,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Montreal accounting, tax, and audit firm offering financial planning and consulting \u2014 heavy client communication, deadline tracking, and document exchange workflows across diverse client base",
+      "recommended_package": "Pro",
+      "pitch": "LCA CPA offers a full range of accounting services from taxes to financial planning \u2014 that breadth means significant coordination overhead across client relationships and compliance deadlines. AI workflow automation scales your client capacity.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn"
+    },
+    {
+      "business_name": "Lachine Medical Clinic",
+      "website": "www.lachinemedical.ca",
+      "location": "Montreal, QC",
+      "industry": "Medical Clinic (Multi-Discipline)",
+      "employee_count": "10-20",
+      "decision_maker_name": "Dr. Antoine Lachine",
+      "decision_maker_title": "Medical Director & Owner",
+      "linkedin_url": "https://www.linkedin.com/company/lachine-medical-clinic",
+      "contact_email": "info@lachinemedical.ca",
+      "qualification_score": 3.9,
+      "score_breakdown": {
+        "automation_potential": 4,
+        "receptivity_signals": 3,
+        "size_fit": 4,
+        "accessibility": 4
+      },
+      "pain_point_hypothesis": "Montreal multi-discipline medical clinic managing appointment scheduling, patient intake, specialist referrals, and insurance coordination across multiple practitioners",
+      "recommended_package": "Starter",
+      "pitch": "Multi-discipline medical clinics juggle appointment scheduling, patient intake forms, and referral coordination across practitioners. AI-powered scheduling optimization and automated patient communication reduces no-shows and front-desk load.",
+      "language": "FR",
+      "outreach_channel": "Email"
+    }
+  ]
 }
