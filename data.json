@@ -1,186 +1,235 @@
 {
-  "generated_at": "2026-04-10T10:01:00Z",
-  "report_title": "AI Consulting Lead Hunter — Q2 2026 Canadian SMB Pipeline",
-  "run": 4,
-  "total_leads": 20,
-  "pipeline_summary": {
-    "hot": 0,
-    "warm": 20,
-    "cold": 0
-  },
-  "by_industry": {
-    "Real Estate / Residential Brokerage": 1,
-    "Real Estate / Commercial Brokerage": 1,
-    "Law / Boutique Litigation": 1,
-    "Law / Notary Services": 2,
-    "Accounting / Tax & Audit": 1,
-    "Accounting / Bookkeeping & Payroll": 1,
-    "Marketing / Digital Agency": 1,
-    "Marketing / Creative & Advertising": 1,
-    "E-Commerce / Shopify Agency": 1,
-    "E-Commerce / Consumer Products": 1,
-    "Recruitment / Staffing Agency": 1,
-    "Insurance / Commercial & Personal Lines": 1,
-    "Dental / Multi-Location Clinic": 1,
-    "Medical / Walk-in & Family Practice": 1,
-    "Property Management / Residential": 1,
-    "Financial Services / Wealth Management": 1,
-    "IT Consulting / SMB IT Support": 1,
-    "HR Consulting / SMB HR Outsourcing": 1,
-    "Logistics / Freight Brokerage": 1
-  },
-  "by_region": {
-    "Montreal, QC": 5,
-    "Ottawa, ON": 6,
-    "GTA, ON": 9
-  },
-  "by_employee_range": {
-    "5-15": 5,
-    "16-30": 8,
-    "31-50": 7
-  },
-  "by_budget_range": {
-    "$750-$1,200": 4,
-    "$1,500-$2,500": 13,
-    "$2,000-$3,000": 3
-  },
-  "score_distribution": {
-    "3.0-3.2": 5,
-    "3.3-3.5": 9,
-    "3.6-3.8": 6
-  },
-  "top_leads_by_score": [
-    {
-      "rank": 1,
-      "id": "LH-008",
-      "company": "Nexora E-Commerce Solutions",
-      "industry": "E-Commerce / Shopify Agency",
-      "hq": "Ottawa, ON",
-      "employees": 31,
-      "score": 3.8,
-      "recommended_package": "AI Workflow Automation ($2,000–$2,500)",
-      "key_signal": "Recently raised seed funding, hiring automation specialist"
+  "generated_at": "2026-04-10T22:09:51.009114Z",
+  "summary": {
+    "total_leads": 60,
+    "new_leads_today": 60,
+    "avg_qualified_score": 3.67,
+    "high_priority_count": 10,
+    "regions": {
+      "Montreal/QC": 16,
+      "GTA": 28,
+      "Ottawa/ON": 15,
+      "Other": 1
     },
-    {
-      "rank": 2,
-      "id": "LH-019",
-      "company": "Boreal Studio",
-      "industry": "Marketing / Creative Agency",
-      "hq": "Montreal, QC",
-      "employees": 16,
-      "score": 3.7,
-      "recommended_package": "AI Workflow Automation ($2,000–$2,500)",
-      "key_signal": "Bilingual creative agency, tech-forward Montreal scene"
+    "industries": {
+      "Real Estate / Residential Brokerage": 4,
+      "Law / Boutique Litigation Firm": 1,
+      "E-Commerce / Shopify Agency": 1,
+      "Dental / Multi-Location Clinic": 1,
+      "Accounting / Tax & Audit Firm": 1,
+      "Marketing / Digital Agency": 1,
+      "Property Management / Residential": 2,
+      "Recruitment / Staffing Agency": 1,
+      "Law / Notary & Legal Services": 1,
+      "IT Consulting / SMB IT Support": 1,
+      "Real Estate / Commercial Brokerage": 1,
+      "Insurance / Commercial & Personal Lines": 2,
+      "Financial Services / Wealth Management": 1,
+      "Marketing / Creative & Advertising Agency": 1,
+      "E-Commerce / Consumer Products": 1,
+      "HR Consulting / SMB HR Outsourcing": 1,
+      "Law / Notary Services": 1,
+      "Medical / Walk-in & Family Practice": 1,
+      "Accounting / Bookkeeping & Payroll": 1,
+      "Logistics / Freight Brokerage": 1,
+      "Dental / General & Cosmetic Dentistry": 1,
+      "Accounting / Audit & Tax Firm": 1,
+      "Marketing / Digital Creative Agency": 1,
+      "Recruitment / Engineering & Tech Staffing": 1,
+      "Dental / Family & Cosmetic Dentistry": 1,
+      "Law / Boutique Business Law Firm": 1,
+      "Accounting / SMB Bookkeeping & Tax": 1,
+      "Medical / Multi-Physician Clinic": 1,
+      "Logistics / Freight & Transportation Brokerage": 1,
+      "Marketing / Digital Strategy & Content Agency": 1,
+      "IT Consulting / Managed Services Provider": 1,
+      "Consulting / Business Strategy & Operations": 1,
+      "Dental / General & Specialist Dentistry": 1,
+      "Recruitment / Professional & Executive Search": 1,
+      "Property Management / Condominium & Residential": 1,
+      "Consulting / Management & Operations Advisory": 1,
+      "Law / Boutique Law Firm": 1,
+      "Law / Employment & Corporate Law": 1,
+      "Accounting & Bookkeeping": 1,
+      "Accounting & Bookkeeping (Bilingual)": 1,
+      "Marketing & Digital Agency": 2,
+      "E-Commerce / Shopify-Focused Agency": 1,
+      "Recruitment & Staffing Agency": 2,
+      "Marketing & Digital Agency (Bilingual)": 1,
+      "Insurance Brokerage": 1,
+      "Property Management (Residential)": 1,
+      "Professional Consulting / Management Advisory": 1,
+      "Insurance Brokerage (Commercial Lines)": 1,
+      "Property Management (Condo & HOA)": 1,
+      "Dental Clinic (Multi-Practice)": 1,
+      "Logistics & Supply Chain": 1,
+      "Law / Immigration & Corporate Law": 1,
+      "Manufacturing (Custom CNC & Fabrication)": 1
     },
+    "score_distribution": {
+      "5.0-4.5": 2,
+      "4.4-4.0": 8,
+      "3.9-3.5": 34,
+      "3.4-3.0": 16
+    }
+  },
+  "top_leads_this_run": [
     {
-      "rank": 3,
-      "id": "LH-010",
-      "company": "Marquis & Associates Chartered Accountants",
-      "industry": "Accounting / Tax & Audit",
-      "hq": "Montreal, QC",
-      "employees": 22,
-      "score": 3.7,
-      "recommended_package": "AI Readiness Audit + Roadmap ($2,000–$3,000)",
-      "key_signal": "CPA firm in active modernization mode, admin overflow"
-    },
-    {
-      "rank": 4,
-      "id": "LH-011",
-      "company": "Velocity Media Group",
-      "industry": "Marketing / Digital Agency",
+      "id": "LH-062",
+      "company": "Luminos Digital",
       "hq": "Toronto, ON (GTA)",
-      "employees": 28,
-      "score": 3.6,
-      "recommended_package": "AI Workflow Automation ($1,500–$2,500)",
-      "key_signal": "LinkedIn post asking about AI for reporting — warm outreach"
+      "industry": "Marketing & Digital Agency",
+      "qualified_score": 4.6,
+      "ai_readiness_score": 77,
+      "language": "EN",
+      "pain_points": [
+        "Client reporting dashboards require manual data pulls from 6+ platforms each week",
+        "Content approval workflows between 4 designers and clients are handled via endless email threads"
+      ]
     },
     {
-      "rank": 5,
-      "id": "LH-015",
-      "company": "TechBridge Solutions",
-      "industry": "IT Consulting / SMB IT Support",
+      "id": "LH-026",
+      "company": "CDL Dental Clinic",
+      "hq": "Montreal, QC (Côte-des-Neiges)",
+      "industry": "Dental / General & Cosmetic Dentistry",
+      "qualified_score": 4.5,
+      "ai_readiness_score": 72,
+      "language": "EN",
+      "pain_points": [
+        "High-volume appointment scheduling, confirmation and reminder calls",
+        "Insurance pre-authorization paperwork processed manually"
+      ]
+    },
+    {
+      "id": "LH-027",
+      "company": "Lakeshore Property Management",
       "hq": "Mississauga, ON (GTA)",
-      "employees": 34,
-      "score": 3.6,
-      "recommended_package": "AI Workflow Automation ($2,000–$2,500)",
-      "key_signal": "Blog post on AI for IT helpdesks — referral-ready prospect"
+      "industry": "Property Management / Residential",
+      "qualified_score": 4.4,
+      "ai_readiness_score": 75,
+      "language": "EN",
+      "pain_points": [
+        "Manual tenant communication for 250+ residential units via email and phone",
+        "Maintenance request triage and contractor scheduling via spreadsheets"
+      ]
+    },
+    {
+      "id": "LH-058",
+      "company": "Strata Strategy Group",
+      "hq": "Ottawa, ON",
+      "industry": "Professional Consulting / Management Advisory",
+      "qualified_score": 4.4,
+      "ai_readiness_score": 75,
+      "language": "EN",
+      "pain_points": [
+        "Proposal and SOW drafting is 100% manual — 3 partners each use their own Word template",
+        "Client project status reporting takes 2-3 hours per week per engagement to compile manually"
+      ]
+    },
+    {
+      "id": "LH-051",
+      "company": "Frame Creative Agency",
+      "hq": "Toronto, ON (GTA)",
+      "industry": "Marketing & Digital Agency",
+      "qualified_score": 4.3,
+      "ai_readiness_score": 76,
+      "language": "EN",
+      "pain_points": [
+        "Client reporting and analytics aggregation across Google Ads, Meta and LinkedIn is fully manual",
+        "Proposal and SOW creation takes 4-6 hours per new client — template-based but repetitive"
+      ]
     }
   ],
-  "industry_summary": [
+  "recent_activity": [
     {
-      "industry": "Real Estate",
-      "count": 2,
-      "avg_score": 3.35,
-      "top_lead": "Groupe Immobilier Vantage (Montreal, 18 employees)"
+      "id": "LH-056",
+      "company": "Cornerstone Insurance Partners",
+      "hq": "Toronto, ON (GTA)",
+      "industry": "Insurance Brokerage",
+      "status": "new",
+      "qualified_score": 3.6,
+      "created_at": "2026-04-10"
     },
     {
-      "industry": "Law / Notary",
-      "count": 3,
-      "avg_score": 3.17,
-      "top_lead": "Arc Law Partners (Toronto, 24 employees)"
+      "id": "LH-057",
+      "company": "Westdale Property Management Ltd.",
+      "hq": "Hamilton, ON",
+      "industry": "Property Management (Residential)",
+      "status": "new",
+      "qualified_score": 3.4,
+      "created_at": "2026-04-10"
     },
     {
-      "industry": "Accounting / Bookkeeping",
-      "count": 2,
-      "avg_score": 3.60,
-      "top_lead": "Marquis & Associates (Montreal, 22 employees)"
+      "id": "LH-058",
+      "company": "Strata Strategy Group",
+      "hq": "Ottawa, ON",
+      "industry": "Professional Consulting / Management Advisory",
+      "status": "new",
+      "qualified_score": 4.4,
+      "created_at": "2026-04-10"
     },
     {
-      "industry": "Marketing / Creative",
-      "count": 2,
-      "avg_score": 3.65,
-      "top_lead": "Velocity Media Group (Toronto, 28 employees)"
+      "id": "LH-059",
+      "company": "Assurex Partners Inc.",
+      "hq": "Brampton, ON (GTA)",
+      "industry": "Insurance Brokerage (Commercial Lines)",
+      "status": "new",
+      "qualified_score": 3.3,
+      "created_at": "2026-04-10"
     },
     {
-      "industry": "E-Commerce",
-      "count": 2,
-      "avg_score": 3.65,
-      "top_lead": "Nexora E-Commerce Solutions (Ottawa, 31 employees)"
+      "id": "LH-060",
+      "company": "Parc Properties Ltd.",
+      "hq": "Mississauga, ON (GTA)",
+      "industry": "Property Management (Condo & HOA)",
+      "status": "new",
+      "qualified_score": 3.5,
+      "created_at": "2026-04-10"
     },
     {
-      "industry": "Recruitment",
-      "count": 1,
-      "avg_score": 3.50,
-      "top_lead": "Pinnacle Recruitment Group (Toronto, 19 employees)"
+      "id": "LH-061",
+      "company": "Ironwood Dental Care",
+      "hq": "Toronto, ON (GTA)",
+      "industry": "Dental Clinic (Multi-Practice)",
+      "status": "new",
+      "qualified_score": 3.2,
+      "created_at": "2026-04-10"
     },
     {
-      "industry": "Insurance",
-      "count": 1,
-      "avg_score": 3.40,
-      "top_lead": "ClearPath Insurance Brokers (Ottawa, 26 employees)"
+      "id": "LH-062",
+      "company": "Luminos Digital",
+      "hq": "Toronto, ON (GTA)",
+      "industry": "Marketing & Digital Agency",
+      "status": "new",
+      "qualified_score": 4.6,
+      "created_at": "2026-04-10"
     },
     {
-      "industry": "Dental / Medical",
-      "count": 2,
-      "avg_score": 3.15,
-      "top_lead": "Bloom Dental Group (Mississauga, 42 employees)"
+      "id": "LH-063",
+      "company": "NexLogic Supply Chain Solutions",
+      "hq": "Ottawa, ON",
+      "industry": "Logistics & Supply Chain",
+      "status": "new",
+      "qualified_score": 3.9,
+      "created_at": "2026-04-10"
     },
     {
-      "industry": "Property Management",
-      "count": 1,
-      "avg_score": 3.30,
-      "top_lead": "Raeve Property Management (Ottawa, 15 employees)"
+      "id": "LH-064",
+      "company": "Precision Legal Group LLP",
+      "hq": "Montreal, QC",
+      "industry": "Law / Immigration & Corporate Law",
+      "status": "new",
+      "qualified_score": 3.8,
+      "created_at": "2026-04-10"
     },
     {
-      "industry": "IT / HR / Logistics / Finance",
-      "count": 4,
-      "avg_score": 3.45,
-      "top_lead": "TechBridge Solutions (Mississauga, 34 employees)"
+      "id": "LH-065",
+      "company": "CanTech Manufacturing Solutions",
+      "hq": "Brampton, ON (GTA)",
+      "industry": "Manufacturing (Custom CNC & Fabrication)",
+      "status": "new",
+      "qualified_score": 3.7,
+      "created_at": "2026-04-10"
     }
-  ],
-  "outreach_recommendations": [
-    "Lead with LinkedIn connection for Toronto/GTA leads (more LinkedIn-active decision-makers)",
-    "Use French-language intro email for all Montreal leads — respect bilingual market",
-    "Ottawa leads respond well to 'efficiency gains' framing — federal government proximity",
-    "Highest-ROI targets: Nexora (Ottawa, funded + motivated), Boreal Studio (Montreal, tech-forward)",
-    "Legal/notary leads: Lead with compliance-adjacent AI benefits, not raw automation",
-    "All 20 leads score ≥3.0 — every lead is outreach-worthy"
-  ],
-  "data_quality_notes": [
-    "Leads generated from publicly available business directories, job postings, and LinkedIn signals",
-    "Contact names and emails are inferred from firm websites and professional directories",
-    "All leads are SMBs (9–44 employees) in target Canadian metro markets",
-    "All leads meet minimum score threshold of 3.0/5.0",
-    "Verify all contact info before cold outreach — recommend LinkedIn InMail first"
   ]
 }
