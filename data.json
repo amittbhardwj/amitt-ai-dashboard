@@ -1,106 +1,186 @@
 {
-  "generated_at": "2026-04-10T04:02:00Z",
-  "report_title": "AI Consulting Lead Hunter — Q2 2026 Pipeline Report",
+  "generated_at": "2026-04-10T10:01:00Z",
+  "report_title": "AI Consulting Lead Hunter — Q2 2026 Canadian SMB Pipeline",
+  "run": 4,
   "total_leads": 20,
   "pipeline_summary": {
-    "hot": 2,
-    "warm": 11,
-    "cold": 7
+    "hot": 0,
+    "warm": 20,
+    "cold": 0
   },
   "by_industry": {
-    "Healthcare / HealthTech": 2,
-    "Financial Services / Fintech": 1,
-    "Fintech / BNPL": 1,
-    "Manufacturing / Industrial AI": 2,
-    "Enterprise Software / AI Infrastructure": 1,
-    "AI-Powered Business Consulting Software": 1,
-    "Retail / E-commerce AI": 1,
-    "Supply Chain / Logistics": 2,
-    "Legal Tech / AI": 1,
-    "Automotive / Manufacturing": 1,
-    "Pharmaceutical / Drug Discovery AI": 1,
-    "Energy / Smart Grid AI": 1,
-    "HR Tech / Workforce AI": 1,
-    "Insurance / InsurTech": 1,
-    "Media & Entertainment / Content AI": 1,
-    "Construction / PropTech AI": 1,
-    "Logistics / Warehouse AI": 1
+    "Real Estate / Residential Brokerage": 1,
+    "Real Estate / Commercial Brokerage": 1,
+    "Law / Boutique Litigation": 1,
+    "Law / Notary Services": 2,
+    "Accounting / Tax & Audit": 1,
+    "Accounting / Bookkeeping & Payroll": 1,
+    "Marketing / Digital Agency": 1,
+    "Marketing / Creative & Advertising": 1,
+    "E-Commerce / Shopify Agency": 1,
+    "E-Commerce / Consumer Products": 1,
+    "Recruitment / Staffing Agency": 1,
+    "Insurance / Commercial & Personal Lines": 1,
+    "Dental / Multi-Location Clinic": 1,
+    "Medical / Walk-in & Family Practice": 1,
+    "Property Management / Residential": 1,
+    "Financial Services / Wealth Management": 1,
+    "IT Consulting / SMB IT Support": 1,
+    "HR Consulting / SMB HR Outsourcing": 1,
+    "Logistics / Freight Brokerage": 1
   },
-  "by_funding_stage": {
-    "Public Company": 2,
-    "Established Enterprise (no funding)": 3,
-    "Series A": 6,
-    "Series B": 8,
-    "Series C": 1
+  "by_region": {
+    "Montreal, QC": 5,
+    "Ottawa, ON": 6,
+    "GTA, ON": 9
+  },
+  "by_employee_range": {
+    "5-15": 5,
+    "16-30": 8,
+    "31-50": 7
   },
   "by_budget_range": {
-    "$50K-$200K": 5,
-    "$60K-$250K": 2,
-    "$80K-$250K": 3,
-    "$100K-$300K": 2,
-    "$100K-$350K": 1,
-    "$100K-$400K": 1,
-    "$150K-$400K": 1,
-    "$150K-$600K": 1,
-    "$200K-$500K": 1,
-    "$200K-$600K": 1,
-    "$200K-$700K": 1,
-    "$300K-$800K": 1,
-    "$300K-$1M": 1,
-    "$500K-$2M": 2
+    "$750-$1,200": 4,
+    "$1,500-$2,500": 13,
+    "$2,000-$3,000": 3
   },
-  "by_ai_readiness": {
-    "90+ (Advanced)": 2,
-    "80-89 (Strong)": 7,
-    "70-79 (Moderate)": 6,
-    "60-69 (Developing)": 2,
-    "45-59 (Early)": 3
+  "score_distribution": {
+    "3.0-3.2": 5,
+    "3.3-3.5": 9,
+    "3.6-3.8": 6
   },
-  "top_pain_points": [
-    "AI deployment at enterprise scale",
-    "AI governance, compliance, and ethics",
-    "Computer vision for quality control / site monitoring",
-    "AI-driven predictive maintenance",
-    "Workforce AI adoption and change management",
-    "NLP and language AI for enterprise applications",
-    "Real-time ML model operations and monitoring",
-    "AI ROI measurement and business case development"
-  ],
-  "hottest_leads": [
+  "top_leads_by_score": [
     {
       "rank": 1,
-      "company": "Klarna",
-      "reason": "High-profile AI restructuring company publicly acknowledged need for AI governance consulting; massive budget; immediate need"
+      "id": "LH-008",
+      "company": "Nexora E-Commerce Solutions",
+      "industry": "E-Commerce / Shopify Agency",
+      "hq": "Ottawa, ON",
+      "employees": 31,
+      "score": 3.8,
+      "recommended_package": "AI Workflow Automation ($2,000–$2,500)",
+      "key_signal": "Recently raised seed funding, hiring automation specialist"
     },
     {
       "rank": 2,
-      "company": "Stellantis",
-      "reason": "Major automaker with active Palantir AI partnership announced March 2026; multi-brand AI transformation underway"
+      "id": "LH-019",
+      "company": "Boreal Studio",
+      "industry": "Marketing / Creative Agency",
+      "hq": "Montreal, QC",
+      "employees": 16,
+      "score": 3.7,
+      "recommended_package": "AI Workflow Automation ($2,000–$2,500)",
+      "key_signal": "Bilingual creative agency, tech-forward Montreal scene"
+    },
+    {
+      "rank": 3,
+      "id": "LH-010",
+      "company": "Marquis & Associates Chartered Accountants",
+      "industry": "Accounting / Tax & Audit",
+      "hq": "Montreal, QC",
+      "employees": 22,
+      "score": 3.7,
+      "recommended_package": "AI Readiness Audit + Roadmap ($2,000–$3,000)",
+      "key_signal": "CPA firm in active modernization mode, admin overflow"
+    },
+    {
+      "rank": 4,
+      "id": "LH-011",
+      "company": "Velocity Media Group",
+      "industry": "Marketing / Digital Agency",
+      "hq": "Toronto, ON (GTA)",
+      "employees": 28,
+      "score": 3.6,
+      "recommended_package": "AI Workflow Automation ($1,500–$2,500)",
+      "key_signal": "LinkedIn post asking about AI for reporting — warm outreach"
+    },
+    {
+      "rank": 5,
+      "id": "LH-015",
+      "company": "TechBridge Solutions",
+      "industry": "IT Consulting / SMB IT Support",
+      "hq": "Mississauga, ON (GTA)",
+      "employees": 34,
+      "score": 3.6,
+      "recommended_package": "AI Workflow Automation ($2,000–$2,500)",
+      "key_signal": "Blog post on AI for IT helpdesks — referral-ready prospect"
     }
   ],
-  "market_intelligence": {
-    "q1_2026_ai_funding": "$242B into AI startups (80% of all global VC)",
-    "enterprise_ai_adoption_challenge_rate": "79% of executives face AI adoption challenges (Writer.com 2026 survey)",
-    "ai_consulting_market_trend": "60% of clients open to working with new AI consulting firms",
-    "top_ai_sectors_2026": ["Healthcare AI", "Enterprise Automation", "Physical AI / Robotics", "Financial Services AI", "Agentic AI"],
-    "key_drivers": [
-      "AI ROI pressure: 93.7% of Fortune 1000 companies report measurable value from AI (Axis Intelligence 2026)",
-      "Agentic AI: 40% of enterprise applications will embed AI agents by end of 2026",
-      "Average ROI from agentic AI deployments: 171%",
-      "Digital sovereignty and physical AI rising on leadership agenda"
-    ]
-  },
-  "geographic_breakdown": {
-    "USA": 15,
-    "Canada": 1,
-    "UK": 1,
-    "Europe (non-UK)": 2,
-    "Sweden": 1
-  },
-  "recommended_next_actions": [
-    "Immediately reach out to Klarna and Stellantis — both are hot leads with active AI transformation initiatives",
-    "Target the 7 warm Series B leads (Aily Labs, HealthFirst AI, NovaTrade Capital, etc.) with enterprise AI strategy proposals",
-    "Build vertical-specific AI consulting packages for Healthcare and Manufacturing — highest volume segments in this batch",
-    "Leverage the Crunchbase Q1 2026 data showing $242B into AI to justify consulting fees and rapid deployment timelines"
+  "industry_summary": [
+    {
+      "industry": "Real Estate",
+      "count": 2,
+      "avg_score": 3.35,
+      "top_lead": "Groupe Immobilier Vantage (Montreal, 18 employees)"
+    },
+    {
+      "industry": "Law / Notary",
+      "count": 3,
+      "avg_score": 3.17,
+      "top_lead": "Arc Law Partners (Toronto, 24 employees)"
+    },
+    {
+      "industry": "Accounting / Bookkeeping",
+      "count": 2,
+      "avg_score": 3.60,
+      "top_lead": "Marquis & Associates (Montreal, 22 employees)"
+    },
+    {
+      "industry": "Marketing / Creative",
+      "count": 2,
+      "avg_score": 3.65,
+      "top_lead": "Velocity Media Group (Toronto, 28 employees)"
+    },
+    {
+      "industry": "E-Commerce",
+      "count": 2,
+      "avg_score": 3.65,
+      "top_lead": "Nexora E-Commerce Solutions (Ottawa, 31 employees)"
+    },
+    {
+      "industry": "Recruitment",
+      "count": 1,
+      "avg_score": 3.50,
+      "top_lead": "Pinnacle Recruitment Group (Toronto, 19 employees)"
+    },
+    {
+      "industry": "Insurance",
+      "count": 1,
+      "avg_score": 3.40,
+      "top_lead": "ClearPath Insurance Brokers (Ottawa, 26 employees)"
+    },
+    {
+      "industry": "Dental / Medical",
+      "count": 2,
+      "avg_score": 3.15,
+      "top_lead": "Bloom Dental Group (Mississauga, 42 employees)"
+    },
+    {
+      "industry": "Property Management",
+      "count": 1,
+      "avg_score": 3.30,
+      "top_lead": "Raeve Property Management (Ottawa, 15 employees)"
+    },
+    {
+      "industry": "IT / HR / Logistics / Finance",
+      "count": 4,
+      "avg_score": 3.45,
+      "top_lead": "TechBridge Solutions (Mississauga, 34 employees)"
+    }
+  ],
+  "outreach_recommendations": [
+    "Lead with LinkedIn connection for Toronto/GTA leads (more LinkedIn-active decision-makers)",
+    "Use French-language intro email for all Montreal leads — respect bilingual market",
+    "Ottawa leads respond well to 'efficiency gains' framing — federal government proximity",
+    "Highest-ROI targets: Nexora (Ottawa, funded + motivated), Boreal Studio (Montreal, tech-forward)",
+    "Legal/notary leads: Lead with compliance-adjacent AI benefits, not raw automation",
+    "All 20 leads score ≥3.0 — every lead is outreach-worthy"
+  ],
+  "data_quality_notes": [
+    "Leads generated from publicly available business directories, job postings, and LinkedIn signals",
+    "Contact names and emails are inferred from firm websites and professional directories",
+    "All leads are SMBs (9–44 employees) in target Canadian metro markets",
+    "All leads meet minimum score threshold of 3.0/5.0",
+    "Verify all contact info before cold outreach — recommend LinkedIn InMail first"
   ]
 }
