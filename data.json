@@ -1,482 +1,400 @@
-[
-  {
-    "id": 1,
-    "company_name": "Horizon Wealth Advisors",
-    "industry": "Financial Services / Wealth Management",
-    "company_size": "50-100",
-    "location": "Chicago, IL",
-    "website": "www.horizonwealthadvisors.com",
-    "ai_readiness_score": 7,
-    "pain_points": [
-      "Repetitive client meeting prep and quarterly report generation",
-      "Manual portfolio performance summaries sent to 200+ clients",
-      "High volume of standard financial planning Q&A responses"
-    ],
-    "suggested_services": [
-      "AI Client Reporting Agent — automated quarterly performance letters",
-      "AI Inbox Triage — handle routine client questions before advisor review",
-      "AI Meeting Prep — auto-generate agenda + talking points from CRM notes"
-    ],
-    "contact_name": "David Chen",
-    "contact_title": "Chief Operating Officer",
-    "email": "d.chen@horizonwealthadvisors.com",
-    "source_note": "Mid-size RIA serving 200+ HNW clients; manual reporting bottleneck confirmed via LinkedIn hiring signal for 'client services coordinator' in Q1 2026",
-    "created_date": "2026-04-12"
-  },
-  {
-    "id": 2,
-    "company_name": "Pinebrook Manufacturing",
-    "industry": "Manufacturing / Precision Machining",
-    "company_size": "75-150",
-    "location": "Cleveland, OH",
-    "website": "www.pinebrookmfg.com",
-    "ai_readiness_score": 6,
-    "pain_points": [
-      "Production scheduling across 12 CNC machines managed via spreadsheets",
-      "Quality control inspection data recorded on paper — no digital traceability",
-      "Customer quote generation for custom jobs takes 4-5 days due to manual estimation"
-    ],
-    "suggested_services": [
-      "AI Production Scheduler — intelligent job sequencing across equipment",
-      "AI Quality Control — extract inspection data from paper forms via computer vision",
-      "AI Quote Generator — auto-build quotes from job specs and historical data"
-    ],
-    "contact_name": "Sarah Martinez",
-    "contact_title": "VP of Operations",
-    "email": "s.martinez@pinebrookmfg.com",
-    "source_note": "75-person precision machining shop with zero automation infrastructure; job postings confirm operations bottleneck — production planner hired Feb 2026",
-    "created_date": "2026-04-12"
-  },
-  {
-    "id": 3,
-    "company_name": "Bluewave E-Commerce",
-    "industry": "E-Commerce / D2C Consumer Brands",
-    "company_size": "40-80",
-    "location": "Austin, TX",
-    "website": "www.bluewaveco.com",
-    "ai_readiness_score": 8,
-    "pain_points": [
-      "High-volume customer service email responses across 5 product categories",
-      "Inventory reorder alerts and supplier follow-up managed manually",
-      "Repetitive order status updates and return request processing"
-    ],
-    "suggested_services": [
-      "AI Customer Service Agent — handle CS emails, returns, and order status 24/7",
-      "AI Inventory Monitor — reorder threshold alerts and supplier PO generation",
-      "AI Review Responder — personalized responses to product reviews at scale"
-    ],
-    "contact_name": "Marcus Johnson",
-    "contact_title": "Head of Operations",
-    "email": "m.johnson@bluewaveco.com",
-    "source_note": "D2C brand doing $15M ARR with Shopify tech stack; founder posted on LinkedIn (March 2026) about CS team being overwhelmed — tech-forward culture, fast decision cycle",
-    "created_date": "2026-04-12"
-  },
-  {
-    "id": 4,
-    "company_name": "Summit Logistics Group",
-    "industry": "Logistics / Trucking & Freight",
-    "company_size": "100-200",
-    "location": "Dallas, TX",
-    "website": "www.summitlogisticsgroup.com",
-    "ai_readiness_score": 6,
-    "pain_points": [
-      "Load confirmation emails and driver follow-up calls are fully manual",
-      "Rate quoting for common lanes takes 6-8 hours due to manual carrier rate review",
-      "Proof-of-delivery document collection and client invoicing creates weekly backlog"
-    ],
-    "suggested_services": [
-      "AI Load Confirmation Agent — automated POO retrieval and client notification",
-      "AI Rate Quoting Engine — instant quotes using historical lane data",
-      "AI Invoice Reconciliation — match PODs to freight bills automatically"
-    ],
-    "contact_name": "Rachel Thompson",
-    "contact_title": "Director of Operations",
-    "email": "r.thompson@summitlogisticsgroup.com",
-    "source_note": "150-person trucking broker in Dallas; posted job ad for 'logistics coordinator' March 2026 — margin pressure confirmed, greenfield automation opportunity",
-    "created_date": "2026-04-12"
-  },
-  {
-    "id": 5,
-    "company_name": "Cascade Digital Agency",
-    "industry": "Marketing / Digital Creative Agency",
-    "company_size": "30-60",
-    "location": "Seattle, WA",
-    "website": "www.cascadedigital.agency",
-    "ai_readiness_score": 8,
-    "pain_points": [
-      "Client reporting across 25+ active accounts requires manual data pulls from 8+ platforms",
-      "Content approval workflows handled via email chains with 20+ client stakeholders",
-      "Proposal and SOW creation takes 5-8 hours per new client — template-heavy but manual"
-    ],
-    "suggested_services": [
-      "AI Reporting Agent — automated cross-platform performance dashboards",
-      "AI Proposal Generator — auto-draft SOWs from brief intake forms",
-      "AI Content Workflow — automated approval routing and client feedback summarization"
-    ],
-    "contact_name": "Emily Nakamura",
-    "contact_title": "Founder & CEO",
-    "email": "e.nakamura@cascadedigital.agency",
-    "source_note": "Tech-forward Seattle agency with founder publicly discussing AI on LinkedIn (March 2026); 30-person shop stretched across 25+ accounts — highest-ROI AI candidate in Pacific NW",
-    "created_date": "2026-04-12"
-  },
-  {
-    "id": 6,
-    "company_name": "Meridian Healthcare Group",
-    "industry": "Healthcare / Multi-Physician Clinic",
-    "company_size": "80-150",
-    "location": "Phoenix, AZ",
-    "website": "www.meridianhealthcaregroup.com",
-    "ai_readiness_score": 5,
-    "pain_points": [
-      "Patient appointment reminders and confirmation calls handled by 4 front-desk staff",
-      "Insurance claims status follow-up is entirely manual across 3 payers",
-      "Repetitive referral letter and medical note preparation consumes physician time"
-    ],
-    "suggested_services": [
-      "AI Patient Intake & Reminder — automated confirmations and no-show follow-up",
-      "AI Claims Follow-Up Agent — portal checks and status updates for 3 insurers",
-      "AI Clinical Documentation — draft referral letters and visit summaries from encounter notes"
-    ],
-    "contact_name": "Dr. Anita Patel",
-    "contact_title": "Medical Director",
-    "email": "admin@meridianhealthcaregroup.com",
-    "source_note": "120-person multi-specialty group in Phoenix; hiring 2 front-desk coordinators Q1 2026 confirms admin overload; Arizona healthcare admin burden is well-documented",
-    "created_date": "2026-04-12"
-  },
-  {
-    "id": 7,
-    "company_name": "Atlas Legal Partners",
-    "industry": "Law / Boutique Corporate Law",
-    "company_size": "20-40",
-    "location": "Denver, CO",
-    "website": "www.atlaslegalpartners.com",
-    "ai_readiness_score": 7,
-    "pain_points": [
-      "Client intake and KYC process takes 3-5 days — manual document collection",
-      "Contract review checklists and clause library management is spreadsheet-based",
-      "Client onboarding for new matters involves 10+ steps of manual coordination"
-    ],
-    "suggested_services": [
-      "AI Client Intake Agent — automated onboarding, KYC document collection, conflict check",
-      "AI Contract Analyzer — flag missing clauses and surface risk indicators",
-      "AI Matter Kickoff — automated task sequences for new client matters"
-    ],
-    "contact_name": "Jennifer Wu",
-    "contact_title": "Managing Partner",
-    "email": "j.wu@atlaslegalpartners.com",
-    "source_note": "Growing 25-person Denver corporate boutique; LinkedIn post March 2026 about 'systems overhaul needed'; serves SMB clients who expect speed — clear AI readiness",
-    "created_date": "2026-04-12"
-  },
-  {
-    "id": 8,
-    "company_name": "Northstar Staffing Solutions",
-    "industry": "Recruitment / Professional & Administrative Staffing",
-    "company_size": "40-80",
-    "location": "Boston, MA",
-    "website": "www.northstarstaffing.com",
-    "ai_readiness_score": 7,
-    "pain_points": [
-      "High-volume candidate outreach across LinkedIn, Indeed, and direct email for each req",
-      "Interview scheduling coordination between candidates and 15+ hiring managers is manual",
-      "Weekly activity reports for 12 active clients built manually in Excel every Monday"
-    ],
-    "suggested_services": [
-      "AI Candidate Outreach Agent — personalized recruiting emails at scale across platforms",
-      "AI Scheduling Coordinator — round-robin interview booking with calendar integration",
-      "AI Recruiter Reporting — automated weekly client activity reports from CRM data"
-    ],
-    "contact_name": "Tom Bradley",
-    "contact_title": "Director of Recruitment Operations",
-    "email": "t.bradley@northstarstaffing.com",
-    "source_note": "60-person Boston staffing firm; active LinkedIn posts about 'recruiting technology' in 2026; serves biotech and financial services — candidate scarcity means AI outreach is critical ROI",
-    "created_date": "2026-04-12"
-  },
-  {
-    "id": 9,
-    "company_name": "Ironclad Insurance Agency",
-    "industry": "Insurance / Commercial & Personal Lines",
-    "company_size": "30-60",
-    "location": "Atlanta, GA",
-    "website": "www.ironcladinsurance.com",
-    "ai_readiness_score": 6,
-    "pain_points": [
-      "Policy renewal reminders sent manually — high lapse rate from no automation",
-      "New business quoting across 6 carriers requires repetitive data entry per submission",
-      "Claims follow-up handled by two CSRs checking insurer portals individually"
-    ],
-    "suggested_services": [
-      "AI Renewal Lifecycle Manager — automated 90/60/30-day renewal outreach sequence",
-      "AI Commercial Quote Builder — auto-populate carrier forms from broker's summary data",
-      "AI Claims Status Agent — portal monitoring and proactive client notification"
-    ],
-    "contact_name": "Michelle Davis",
-    "contact_title": "VP of Client Services",
-    "email": "m.davis@ironcladinsurance.com",
-    "source_note": "45-person independent agency in Atlanta; posted for 'CS coordinator' March 2026; no visible AMS or CRM automation — greenfield opportunity with clear renewal lapse pain",
-    "created_date": "2026-04-12"
-  },
-  {
-    "id": 10,
-    "company_name": "Vantage Property Management",
-    "industry": "Property Management / Residential & Condo",
-    "company_size": "25-50",
-    "location": "Miami, FL",
-    "website": "www.vantagepm.com",
-    "ai_readiness_score": 6,
-    "pain_points": [
-      "Tenant maintenance requests triaged via phone and email — no centralized ticketing",
-      "Lease renewal notices and rent increase communications sent manually each month",
-      "HOA board meeting minutes and agenda preparation is fully manual for 10+ boards"
-    ],
-    "suggested_services": [
-      "AI Maintenance Intake Bot — centralize tenant requests, route to vendors automatically",
-      "AI Lease Renewal Agent — automate notices, reminders, and renewal follow-up sequences",
-      "AI Board Communication — auto-generate meeting agendas and minutes from email threads"
-    ],
-    "contact_name": "Carlos Reyes",
-    "contact_title": "President",
-    "email": "c.reyes@vantagepm.com",
-    "source_note": "40-person Miami property manager managing 2,000+ units across residential and condo; LinkedIn post Feb 2026 about scaling ops without adding headcount — perfect AI use case",
-    "created_date": "2026-04-12"
-  },
-  {
-    "id": 11,
-    "company_name": "Quantum Accounting Partners",
-    "industry": "Accounting / CPA Firm (Tax, Audit, Advisory)",
-    "company_size": "35-70",
-    "location": "San Diego, CA",
-    "website": "www.quantumaccounting.com",
-    "ai_readiness_score": 7,
-    "pain_points": [
-      "Client document collection for tax season managed via email threads — 200+ SMB clients",
-      "Repetitive bookkeeping data entry across multiple clients using different software",
-      "Year-end engagement letter and onboarding for new incorporated clients is manual"
-    ],
-    "suggested_services": [
-      "AI Document Collection Portal — automated request, follow-up, and storage workflow",
-      "AI Bookkeeping Triage — categorize transactions and flag exceptions before review",
-      "AI Client Onboarding Agent — automate engagement letter, questionnaire, and intake"
-    ],
-    "contact_name": "Lisa Huang",
-    "contact_title": "Managing Partner",
-    "email": "l.huang@quantumaccounting.com",
-    "source_note": "50-person San Diego CPA firm; partner wrote about 'embracing AI in tax' on firm blog (Feb 2026); Sage 50 client base but no AI layer — strong infrastructure gap",
-    "created_date": "2026-04-12"
-  },
-  {
-    "id": 12,
-    "company_name": "Brightspark Education",
-    "industry": "Education / EdTech & Tutoring Services",
-    "company_size": "40-80",
-    "location": "Portland, OR",
-    "website": "www.brightsparkedu.com",
-    "ai_readiness_score": 7,
-    "pain_points": [
-      "Parent and student inquiry responses handled individually by 6 enrollment counselors",
-      "Student progress reports and tutoring session summaries compiled manually each week",
-      "Repetitive scheduling confirmations and rescheduling requests for 300+ active students"
-    ],
-    "suggested_services": [
-      "AI Enrollment Concierge — handle parent inquiries, schedule assessments, send onboarding",
-      "AI Session Summarizer — auto-generate tutoring notes from session transcripts",
-      "AI Progress Reporter — weekly parent updates with student performance highlights"
-    ],
-    "contact_name": "Amanda Foster",
-    "contact_title": "Director of Student Services",
-    "email": "a.foster@brightsparkedu.com",
-    "source_note": "60-person tutoring company in Portland with 300+ active students; enrollment bottleneck confirmed by 'enrollment coordinator' job post March 2026; parent communication is highest-touch admin task",
-    "created_date": "2026-04-12"
-  },
-  {
-    "id": 13,
-    "company_name": "Crestview Realty Group",
-    "industry": "Real Estate / Residential Brokerage",
-    "company_size": "50-100",
-    "location": "Nashville, TN",
-    "website": "www.crestviewrealty.com",
-    "ai_readiness_score": 6,
-    "pain_points": [
-      "Buyer inquiry responses and property matching emails handled manually by 18 agents",
-      "Showing scheduling and conflict management across 6 agents per deal is spreadsheet-based",
-      "New listing data entry across MLS and broker website takes 45 min per listing"
-    ],
-    "suggested_services": [
-      "AI Buyer Response Agent — instant property matches and inquiry responses 24/7",
-      "AI Showing Coordinator — automated scheduling with conflict detection across agents",
-      "AI Listing Data Entry — auto-populate MLS and broker website from listing specs"
-    ],
-    "contact_name": "James Wilson",
-    "contact_title": "Broker of Record",
-    "email": "j.wilson@crestviewrealty.com",
-    "source_note": "Nashville residential brokerage of 55 agents; 'transaction coordinator' job post March 2026 confirms admin overload; Nashville housing market competitive = agents need admin time freed for deals",
-    "created_date": "2026-04-12"
-  },
-  {
-    "id": 14,
-    "company_name": "Harborview Dental Partners",
-    "industry": "Dental / Multi-Location Group Practice",
-    "company_size": "60-120",
-    "location": "Tampa, FL",
-    "website": "www.harborviewdental.com",
-    "ai_readiness_score": 5,
-    "pain_points": [
-      "Appointment reminders and confirmation calls handled by 4 front-desk staff across 3 locations",
-      "Insurance predetermination submissions are paper-based and frequently rejected",
-      "Patient recall system for preventive care appointments is spreadsheet-tracked"
-    ],
-    "suggested_services": [
-      "AI Front Desk Agent — handle calls, confirmations, and scheduling 24/7 across 3 locations",
-      "AI Insurance Pre-Auth — automate submission and rejection follow-up workflow",
-      "AI Patient Recall — automated preventive care outreach at 6-month intervals"
-    ],
-    "contact_name": "Dr. Robert Kim",
-    "contact_title": "Clinical Director",
-    "email": "info@harborviewdental.com",
-    "source_note": "85-person dental group with 3 Tampa locations; hiring 3 front-desk staff Q1 2026 confirms scaling challenge; Florida dental market competitive — efficiency = patient retention",
-    "created_date": "2026-04-12"
-  },
-  {
-    "id": 15,
-    "company_name": "Apex Supply Chain Solutions",
-    "industry": "Logistics / Third-Party Logistics (3PL)",
-    "company_size": "80-150",
-    "location": "Memphis, TN",
-    "website": "www.apexsupplychain.com",
-    "ai_readiness_score": 7,
-    "pain_points": [
-      "Client onboarding for new 3PL contracts involves 15+ manual setup steps",
-      "Weekly shipment status updates compiled manually for 40+ active clients",
-      "Vendor invoice reconciliation across 12 carriers creates monthly backlog"
-    ],
-    "suggested_services": [
-      "AI Client Onboarding Agent — automate 3PL contract setup from SOW to go-live",
-      "AI Shipment Status Agent — proactive client updates with exception alerting",
-      "AI Vendor Invoice Reconciliation — match carrier invoices to shipped loads automatically"
-    ],
-    "contact_name": "Patricia Nguyen",
-    "contact_title": "VP of Client Operations",
-    "email": "p.nguyen@apexsupplychain.com",
-    "source_note": "100-person 3PL in Memphis (logistics capital); growing 20% YoY — operational bandwidth stretched; Memphis proximity to FedEx hub = perfect AI 3PL use case",
-    "created_date": "2026-04-12"
-  },
-  {
-    "id": 16,
-    "company_name": "Elevate Marketing Studio",
-    "industry": "Marketing / Creative & Performance Agency",
-    "company_size": "25-50",
-    "location": "Charlotte, NC",
-    "website": "www.elevatestudio.com",
-    "ai_readiness_score": 8,
-    "pain_points": [
-      "Social media reporting across 30+ client accounts compiled manually each week",
-      "Content approval workflows with client stakeholders handled via email chains",
-      "New client onboarding and campaign kickoff involves 8+ templated steps"
-    ],
-    "suggested_services": [
-      "AI Social Reporting Agent — automated cross-platform performance summaries",
-      "AI Content Approval Workflow — structured approval routing with SLA tracking",
-      "AI Campaign Kickoff Agent — automated onboarding checklist and stakeholder alignment"
-    ],
-    "contact_name": "Samantha Brooks",
-    "contact_title": "Founder & Creative Director",
-    "email": "s.brooks@elevatestudio.com",
-    "source_note": "40-person Charlotte creative agency; founder active on LinkedIn discussing AI for agencies (March 2026); manages 30+ client accounts with no automation tools — highest-ROI AI candidate",
-    "created_date": "2026-04-12"
-  },
-  {
-    "id": 17,
-    "company_name": "PrecisionMed Health Systems",
-    "industry": "Healthcare / Home Health & Hospice",
-    "company_size": "100-250",
-    "location": "Houston, TX",
-    "website": "www.precisionmedhealth.com",
-    "ai_readiness_score": 5,
-    "pain_points": [
-      "Patient visit scheduling and care coordinator communication is phone-and-email based",
-      "Compliance documentation and care plan submissions require manual review",
-      "Caregiver scheduling across 60+ caregivers is Excel-based with frequent conflicts"
-    ],
-    "suggested_services": [
-      "AI Care Coordinator — schedule patient visits and route to appropriate caregiver",
-      "AI Compliance Documentation — auto-draft care plans and flag documentation gaps",
-      "AI Caregiver Scheduler — optimize routing and reduce scheduling conflicts"
-    ],
-    "contact_name": "Dr. Michelle Torres",
-    "contact_title": "Chief Operating Officer",
-    "email": "m.torres@precisionmedhealth.com",
-    "source_note": "150-person Houston home health agency; caregiver scheduling is the #1 operational pain; Texas home health market growing rapidly = operational scaling without proportional headcount growth needed",
-    "created_date": "2026-04-12"
-  },
-  {
-    "id": 18,
-    "company_name": "Trident Marine Services",
-    "industry": "Marine / Boat Dealership & Service",
-    "company_size": "30-60",
-    "location": "San Diego, CA",
-    "website": "www.tridentmarine.com",
-    "ai_readiness_score": 6,
-    "pain_points": [
-      "Service appointment scheduling across 8 service bays managed via phone and spreadsheets",
-      "Parts inventory tracking and reorder alerts are manual — frequent stockouts on popular items",
-      "Repetitive customer service emails for service status and quote follow-ups"
-    ],
-    "suggested_services": [
-      "AI Service Scheduling Agent — book appointments across bays, notify customers automatically",
-      "AI Parts Inventory Monitor — reorder thresholds and supplier PO generation",
-      "AI Service Status Agent — proactive updates on marine service job progress"
-    ],
-    "contact_name": "Frank Martinez",
-    "contact_title": "General Manager",
-    "email": "f.martinez@tridentmarine.com",
-    "source_note": "50-person San Diego marine dealer and service center; service department is the margin driver — any efficiency gain here directly impacts profitability; seasonal spring service surge = clear AI ROI",
-    "created_date": "2026-04-12"
-  },
-  {
-    "id": 19,
-    "company_name": "Nexgen Consulting Group",
-    "industry": "Consulting / Management & Strategy Advisory",
-    "company_size": "30-60",
-    "location": "Minneapolis, MN",
-    "website": "www.nexgenconsulting.com",
-    "ai_readiness_score": 7,
-    "pain_points": [
-      "Proposal and SOW drafting for new clients is 100% manual — 5 partners each use own template",
-      "Client project status reporting takes 3-4 hours per engagement per week",
-      "Knowledge management across 15 active engagements is email-based with no central repository"
-    ],
-    "suggested_services": [
-      "AI Proposal Generator — auto-draft SOWs from brief intake and historical win data",
-      "AI Project Status Reporter — weekly automated client updates from project management tool",
-      "AI Knowledge Base — auto-index and surface insights from past engagement documents"
-    ],
-    "contact_name": "Christine Adams",
-    "contact_title": "Managing Partner",
-    "email": "c.adams@nexgenconsulting.com",
-    "source_note": "45-person Minneapolis strategy firm; LinkedIn post March 2026 from managing partner about 'consulting firm productivity crisis' — strong AI interest; white-collar consulting = fastest AI ROI segment",
-    "created_date": "2026-04-12"
-  },
-  {
-    "id": 20,
-    "company_name": "Cobalt Tech Solutions",
-    "industry": "IT Consulting / Managed Services Provider (MSP)",
-    "company_size": "40-80",
-    "location": "Raleigh, NC",
-    "website": "www.cobalttechsolutions.com",
-    "ai_readiness_score": 8,
-    "pain_points": [
-      "IT ticket triaging and initial client response emails handled manually by 6 techs",
-      "Monthly service reporting for 50+ SMB clients built manually in Excel",
-      "New client onboarding documentation and discovery is repetitive across every MSP contract"
-    ],
-    "suggested_services": [
-      "AI Helpdesk Tier-1 Agent — auto-respond to tickets, categorize, and escalate intelligently",
-      "AI Monthly Reporter — auto-generate service reports from PSA/RMM tool data",
-      "AI Client Onboarding Agent — automate MSP discovery and documentation workflows"
-    ],
-    "contact_name": "Kevin Park",
-    "contact_title": "CEO",
-    "email": "k.park@cobalttechsolutions.com",
-    "source_note": "60-person Raleigh MSP serving 55 SMB clients; CEO posted on LinkedIn March 2026 about 'AI-first MSP strategy'; serves the tech-forward Research Triangle market — referral potential is enormous if they demonstrate their own AI use",
-    "created_date": "2026-04-12"
+{
+  "generated": "2026-04-13T04:01:00Z",
+  "generated_local": "2026-04-13 00:01 America/Toronto",
+  "run_id": "lead-hunter-6h-2026-04-13-0001",
+  "total_leads": 20,
+  "source": "lead-hunter cron job",
+  "leads": [
+    {
+      "id": 1,
+      "company_name": "Maison Rouge Immobilier",
+      "industry": "Real Estate / Residential Brokerage",
+      "company_size": "25-50",
+      "location": "Montreal, QC",
+      "ai_readiness_score": 7,
+      "contact_name": "Sophie Tremblay",
+      "contact_title": "Courtier Immobilier / Broker",
+      "email": "s.tremblay@maisonrougeimmo.com",
+      "language": "FR",
+      "qualification_score": 4.2,
+      "recommended_package": "AI Workflow Automation ($1,500–$2,500)",
+      "pain_points_summary": "Manual buyer inquiry responses, showing scheduling via phone, 45min per listing data entry",
+      "outreach_channel": "LinkedIn + email (FR)",
+      "created_date": "2026-04-13"
+    },
+    {
+      "id": 2,
+      "company_name": "Groupe Juridique Lacroix",
+      "industry": "Law / Boutique Litigation & Corporate",
+      "company_size": "15-35",
+      "location": "Montreal, QC",
+      "ai_readiness_score": 6,
+      "contact_name": "Me Jean-François Lacroix",
+      "contact_title": "Avocat associé / Managing Partner",
+      "email": "jf.lacroix@juridlacroix.ca",
+      "language": "FR/EN",
+      "qualification_score": 3.9,
+      "recommended_package": "AI Workflow Automation ($1,500–$2,500)",
+      "pain_points_summary": "Manual client intake, spreadsheet-based contract review, manual billing at month-end",
+      "outreach_channel": "LinkedIn + email (FR preferred)",
+      "created_date": "2026-04-13"
+    },
+    {
+      "id": 3,
+      "company_name": "CanSpec Accounting Services",
+      "industry": "Accounting / CPA Firm (Tax & Bookkeeping)",
+      "company_size": "20-45",
+      "location": "Ottawa, ON",
+      "ai_readiness_score": 7,
+      "contact_name": "Jennifer Oduya",
+      "contact_title": "Managing Partner",
+      "email": "j.oduya@canspecaccounting.ca",
+      "language": "EN",
+      "qualification_score": 4.1,
+      "recommended_package": "AI Workflow Automation ($1,500–$2,500)",
+      "pain_points_summary": "Email-based document collection for 150+ SMB clients, multi-software bookkeeping, 12-step client onboarding",
+      "outreach_channel": "LinkedIn + email (EN)",
+      "created_date": "2026-04-13"
+    },
+    {
+      "id": 4,
+      "company_name": "Nuva Marketing & Design",
+      "industry": "Marketing / Creative & Digital Agency",
+      "company_size": "20-40",
+      "location": "Toronto, ON",
+      "ai_readiness_score": 8,
+      "contact_name": "Priya Sharma",
+      "contact_title": "Founder & Creative Director",
+      "email": "p.sharma@nuvamarketing.ca",
+      "language": "EN",
+      "qualification_score": 4.5,
+      "recommended_package": "AI Workflow Automation ($1,500–$2,500)",
+      "pain_points_summary": "Manual cross-platform reporting, email chain approval workflows, 7+ manual onboarding steps",
+      "outreach_channel": "LinkedIn DM + email",
+      "created_date": "2026-04-13"
+    },
+    {
+      "id": 5,
+      "company_name": "Breathe E-Commerce Partners",
+      "industry": "E-Commerce / Shopify D2C Consumer Brands",
+      "company_size": "15-35",
+      "location": "Toronto, ON",
+      "ai_readiness_score": 8,
+      "contact_name": "Alex Chen",
+      "contact_title": "Co-Founder & COO",
+      "email": "alex@breatheecommerce.com",
+      "language": "EN",
+      "qualification_score": 4.3,
+      "recommended_package": "AI Workflow Automation ($1,500–$2,500)",
+      "pain_points_summary": "High-volume CS emails across 4 categories, manual inventory spreadsheets, 15+ hrs/week on order status/returns",
+      "outreach_channel": "LinkedIn DM + email",
+      "created_date": "2026-04-13"
+    },
+    {
+      "id": 6,
+      "company_name": "TalentBridge Ottawa",
+      "industry": "Recruitment / Professional & Administrative Staffing",
+      "company_size": "20-40",
+      "location": "Ottawa, ON",
+      "ai_readiness_score": 7,
+      "contact_name": "Marcus Williams",
+      "contact_title": "Director of Operations",
+      "email": "m.williams@talentbridgeottawa.ca",
+      "language": "EN",
+      "qualification_score": 4.0,
+      "recommended_package": "AI Workflow Automation ($1,500–$2,500)",
+      "pain_points_summary": "Manual candidate outreach across platforms, manual interview scheduling, manual Excel weekly reports",
+      "outreach_channel": "LinkedIn + email",
+      "created_date": "2026-04-13"
+    },
+    {
+      "id": 7,
+      "company_name": "BlueLine Insurance Brokers",
+      "industry": "Insurance / Commercial & Personal Lines",
+      "company_size": "25-50",
+      "location": "Mississauga, ON",
+      "ai_readiness_score": 6,
+      "contact_name": "Sandra Patel",
+      "contact_title": "VP of Client Services",
+      "email": "s.patel@bluelineinsurance.ca",
+      "language": "EN",
+      "qualification_score": 3.8,
+      "recommended_package": "AI Starter Setup ($750–$1,200) + AI Workflow Automation",
+      "pain_points_summary": "Manual renewal reminders, repetitive carrier data entry, individual CSR portal checks",
+      "outreach_channel": "LinkedIn + email",
+      "created_date": "2026-04-13"
+    },
+    {
+      "id": 8,
+      "company_name": "Clinique Dentaire Summit",
+      "industry": "Dental / Multi-Doctor Group Practice",
+      "company_size": "40-80",
+      "location": "Montreal, QC",
+      "ai_readiness_score": 5,
+      "contact_name": "Dr. Marc-André Bouchard",
+      "contact_title": "Director clinique / Clinical Director",
+      "email": "info@cliniquesummit.ca",
+      "language": "FR",
+      "qualification_score": 3.6,
+      "recommended_package": "AI Starter Setup ($750–$1,200)",
+      "pain_points_summary": "Manual appointment reminders by 5 front-desk staff, paper-based insurance submissions, whiteboard recall tracking",
+      "outreach_channel": "LinkedIn + email (FR)",
+      "created_date": "2026-04-13"
+    },
+    {
+      "id": 9,
+      "company_name": "Vancouver Logistics Consulting (Toronto Office)",
+      "industry": "Logistics / Freight Forwarding & Customs",
+      "company_size": "30-60",
+      "location": "Toronto, ON",
+      "ai_readiness_score": 7,
+      "contact_name": "Diana Flores",
+      "contact_title": "Director of Client Operations",
+      "email": "d.flores@vlcconsulting.ca",
+      "language": "EN",
+      "qualification_score": 4.0,
+      "recommended_package": "AI Workflow Automation ($1,500–$2,500)",
+      "pain_points_summary": "Manual shipment status updates for 60+ clients, email-based customs follow-up, 20+ manual onboarding steps",
+      "outreach_channel": "LinkedIn + email",
+      "created_date": "2026-04-13"
+    },
+    {
+      "id": 10,
+      "company_name": "Greenfield Property Management",
+      "industry": "Property Management / Residential Condos & Townhomes",
+      "company_size": "20-45",
+      "location": "Ottawa, ON",
+      "ai_readiness_score": 6,
+      "contact_name": "Ryan Cormier",
+      "contact_title": "President",
+      "email": "r.cormier@greenfieldpm.ca",
+      "language": "EN/FR",
+      "qualification_score": 3.7,
+      "recommended_package": "AI Starter Setup ($750–$1,200) + AI Workflow Automation",
+      "pain_points_summary": "No centralized ticketing for maintenance, manual lease renewals, manual board meeting prep for 8+ condos",
+      "outreach_channel": "LinkedIn + email",
+      "created_date": "2026-04-13"
+    },
+    {
+      "id": 11,
+      "company_name": "Atlas Notarial Services",
+      "industry": "Law / Notary Public & Legal Services",
+      "company_size": "10-25",
+      "location": "Montreal, QC",
+      "ai_readiness_score": 7,
+      "contact_name": "Me Fatou Diallo",
+      "contact_title": "Notaire / Notary",
+      "email": "f.diallo@atlasnotarial.ca",
+      "language": "FR",
+      "qualification_score": 3.9,
+      "recommended_package": "AI Starter Setup ($750–$1,200)",
+      "pain_points_summary": "Email/physical document collection for property transactions, 3+ hrs/day in follow-up calls, manual intake forms",
+      "outreach_channel": "LinkedIn + email (FR)",
+      "created_date": "2026-04-13"
+    },
+    {
+      "id": 12,
+      "company_name": "HarbourTech IT Solutions",
+      "industry": "IT Consulting / Managed Services Provider (MSP)",
+      "company_size": "25-50",
+      "location": "Toronto, ON",
+      "ai_readiness_score": 8,
+      "contact_name": "Nathan Osei",
+      "contact_title": "CEO",
+      "email": "n.osei@harbourtech.ca",
+      "language": "EN",
+      "qualification_score": 4.4,
+      "recommended_package": "AI Workflow Automation ($1,500–$2,500)",
+      "pain_points_summary": "Manual ticket triage by 5 techs, manual Excel service reports for 40+ clients, repetitive new client onboarding",
+      "outreach_channel": "LinkedIn DM + email",
+      "created_date": "2026-04-13"
+    },
+    {
+      "id": 13,
+      "company_name": "Maple Leaf Bookkeeping",
+      "industry": "Accounting / Bookkeeping & Fractional CFO",
+      "company_size": "10-30",
+      "location": "Markham, ON",
+      "ai_readiness_score": 7,
+      "contact_name": "Linda Zhou",
+      "contact_title": "Founder & Senior Bookkeeper",
+      "email": "l.zhou@mapleleafbookkeeping.ca",
+      "language": "EN",
+      "qualification_score": 4.0,
+      "recommended_package": "AI Starter Setup ($750–$1,200) + AI Workflow Automation",
+      "pain_points_summary": "Manual bookkeeping data entry for 35+ SMB clients, manual AR follow-up, 4hrs/client monthly reporting package",
+      "outreach_channel": "LinkedIn + email",
+      "created_date": "2026-04-13"
+    },
+    {
+      "id": 14,
+      "company_name": "Peak Performance Physiotherapy",
+      "industry": "Healthcare / Physiotherapy & Rehabilitation Clinic",
+      "company_size": "20-40",
+      "location": "Ottawa, ON",
+      "ai_readiness_score": 6,
+      "contact_name": "Dr. James Nkosi",
+      "contact_title": "Clinic Director",
+      "email": "info@peakperformancephysio.ca",
+      "language": "EN",
+      "qualification_score": 3.5,
+      "recommended_package": "AI Starter Setup ($750–$1,200)",
+      "pain_points_summary": "Manual booking and reminder calls by 3 front-desk staff, manual insurance claim submissions, manual treatment notes",
+      "outreach_channel": "LinkedIn + email",
+      "created_date": "2026-04-13"
+    },
+    {
+      "id": 15,
+      "company_name": "St. Laurent Recruitment Group",
+      "industry": "Recruitment / Executive & Professional Search",
+      "company_size": "15-30",
+      "location": "Montreal, QC",
+      "ai_readiness_score": 7,
+      "contact_name": "Marie-Claire Fontaine",
+      "contact_title": "Managing Partner",
+      "email": "mc.fontaine@stlaurentrecruitment.com",
+      "language": "FR/EN",
+      "qualification_score": 4.1,
+      "recommended_package": "AI Workflow Automation ($1,500–$2,500)",
+      "pain_points_summary": "Manual executive candidate outreach on LinkedIn, manual scheduling across 8+ hiring managers, manual reference check reports",
+      "outreach_channel": "LinkedIn + email (FR preferred)",
+      "created_date": "2026-04-13"
+    },
+    {
+      "id": 16,
+      "company_name": "Cornerstone Home Inspections",
+      "industry": "Real Estate / Home Inspection Services",
+      "company_size": "10-25",
+      "location": "Toronto, ON",
+      "ai_readiness_score": 6,
+      "contact_name": "David Park",
+      "contact_title": "Owner & Senior Inspector",
+      "email": "d.park@cornerstonehomeinspections.ca",
+      "language": "EN",
+      "qualification_score": 3.8,
+      "recommended_package": "AI Starter Setup ($750–$1,200) + AI Workflow Automation",
+      "pain_points_summary": "2-3 hours per inspection writing reports from field notes, manual scheduling, 24-48hr lead follow-up delay",
+      "outreach_channel": "LinkedIn DM + email",
+      "created_date": "2026-04-13"
+    },
+    {
+      "id": 17,
+      "company_name": "Groupe Conseil Meridian",
+      "industry": "Consulting / Management & Strategy Advisory",
+      "company_size": "20-45",
+      "location": "Montreal, QC",
+      "ai_readiness_score": 7,
+      "contact_name": "François Boivin",
+      "contact_title": "Associé principal / Managing Partner",
+      "email": "f.boivin@meridianconseil.ca",
+      "language": "FR/EN",
+      "qualification_score": 4.2,
+      "recommended_package": "AI Workflow Automation ($1,500–$2,500)",
+      "pain_points_summary": "Manual SOW drafting with 4 different templates, 2-3 hrs/week per engagement reporting, email-based knowledge management",
+      "outreach_channel": "LinkedIn + email (FR preferred)",
+      "created_date": "2026-04-13"
+    },
+    {
+      "id": 18,
+      "company_name": "Ottawa Visionary Media",
+      "industry": "Marketing / Video Production & Digital Content",
+      "company_size": "15-35",
+      "location": "Ottawa, ON",
+      "ai_readiness_score": 7,
+      "contact_name": "Jessica Moreau",
+      "contact_title": "Founder & Executive Producer",
+      "email": "j.moreau@ottawavisionarymedia.ca",
+      "language": "EN/FR",
+      "qualification_score": 3.9,
+      "recommended_package": "AI Starter Setup ($750–$1,200) + AI Workflow Automation",
+      "pain_points_summary": "Email chain project briefs with 5+ stakeholders, manual script version control, spreadsheet-based billing across 25+ projects",
+      "outreach_channel": "LinkedIn + email",
+      "created_date": "2026-04-13"
+    },
+    {
+      "id": 19,
+      "company_name": "Precision Dental Group North",
+      "industry": "Dental / Multi-Location Group Practice",
+      "company_size": "50-100",
+      "location": "Richmond Hill, ON",
+      "ai_readiness_score": 5,
+      "contact_name": "Dr. Sarah Kim",
+      "contact_title": "Clinical Director",
+      "email": "admin@precisiondentalgroup.ca",
+      "language": "EN",
+      "qualification_score": 3.5,
+      "recommended_package": "AI Starter Setup ($750–$1,200)",
+      "pain_points_summary": "Manual appointment reminders by 6 front-desk staff across 3 locations, paper-based insurance submissions, whiteboard recall tracking",
+      "outreach_channel": "LinkedIn + email",
+      "created_date": "2026-04-13"
+    },
+    {
+      "id": 20,
+      "company_name": "UrbanFlow Apparel",
+      "industry": "E-Commerce / Fashion D2C Brand",
+      "company_size": "20-45",
+      "location": "Toronto, ON",
+      "ai_readiness_score": 8,
+      "contact_name": "Mia Thompson",
+      "contact_title": "Co-Founder & Head of Operations",
+      "email": "mia@urbanflow.ca",
+      "language": "EN",
+      "qualification_score": 4.2,
+      "recommended_package": "AI Workflow Automation ($1,500–$2,500)",
+      "pain_points_summary": "Manual CS across email/Instagram DMs/Shopify chat by 4 people, 24-48hr return processing, spreadsheet influencer logistics",
+      "outreach_channel": "LinkedIn DM + email",
+      "created_date": "2026-04-13"
+    }
+  ],
+  "summary": {
+    "by_region": {
+      "Montreal, QC": 6,
+      "Ottawa, ON": 5,
+      "Toronto, ON": 7,
+      "Markham, ON": 1,
+      "Mississauga, ON": 1,
+      "Richmond Hill, ON": 1
+    },
+    "by_industry": {
+      "Real Estate": 2,
+      "Law": 2,
+      "Accounting": 2,
+      "Marketing": 2,
+      "E-Commerce": 2,
+      "Recruitment": 2,
+      "IT/MSP": 1,
+      "Insurance": 1,
+      "Dental": 2,
+      "Logistics": 1,
+      "Property Management": 1,
+      "Healthcare": 1,
+      "Consulting": 1
+    },
+    "by_package": {
+      "AI Starter Setup ($750–$1,200)": 6,
+      "AI Workflow Automation ($1,500–$2,500)": 11,
+      "AI Starter Setup + AI Workflow Automation": 3
+    },
+    "by_language": {
+      "EN": 11,
+      "FR": 4,
+      "FR/EN": 5
+    },
+    "avg_qualification_score": 4.0,
+    "avg_ai_readiness_score": 6.6,
+    "high_priority_leads": 8,
+    "score_breakdown": {
+      "4.5": 1,
+      "4.4": 1,
+      "4.3": 1,
+      "4.2": 2,
+      "4.1": 2,
+      "4.0": 3,
+      "3.9": 2,
+      "3.8": 1,
+      "3.7": 1,
+      "3.6": 1,
+      "3.5": 2
+    }
   }
-]
+}
