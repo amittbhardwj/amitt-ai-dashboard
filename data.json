@@ -1,32 +1,29 @@
 {
-  "generated_at": "2026-04-14T10:01:00Z",
-  "total_leads": 100,
+  "generated_at": "2026-04-14T22:01:00Z",
+  "total_leads": 120,
   "new_leads_count": 20,
   "summary": {
     "top_industries": [
-      "Healthcare",
-      "Logistics",
-      "Legal",
-      "Construction",
-      "HR"
+      "Logistics / Trucking & Fleet Management",
+      "IT Consulting / Managed Services Provider (MSP)",
+      "Technology / Data Analytics & Business Intelligence",
+      "Healthcare / Physiotherapy & Sports Medicine Clinic",
+      "Food & Beverage / Organic Food Manufacturing & Distribution"
     ],
-    "avg_qualification_score": 6.57,
-    "avg_ai_readiness": 5.6,
+    "avg_qualification_score": 6.86,
+    "avg_ai_readiness": 6.0,
     "regions": [
       "Atlanta, GA",
-      "Austin, TX",
-      "Brooklyn, NY",
+      "Burlington, ON",
+      "Calgary, AB",
       "Chicago, IL",
-      "Dallas, TX",
-      "Denver, CO",
-      "Detroit, MI",
       "Houston, TX",
-      "Miami, FL",
-      "Minneapolis, MN",
+      "Kitchener, ON",
+      "London, ON",
       "Mississauga, ON",
       "Montreal, QC",
       "New York, NY",
-      "Portland, OR",
+      "Ottawa, ON",
       "San Francisco, CA",
       "Seattle, WA",
       "Toronto, ON",
@@ -35,251 +32,475 @@
   },
   "leads": [
     {
-      "id": 81,
-      "company_name": "Ironbridge Logistics Group",
-      "industry": "Logistics / Freight & Supply Chain",
-      "company_size": "201-500",
-      "location": "Mississauga, ON",
-      "website": "www.ironbridgelogistics.com",
+      "id": 101,
+      "company_name": "Horizon Logistics Group",
+      "industry": "Logistics / Trucking & Fleet Management",
+      "company_size": "201-1000",
+      "location": "Toronto, ON",
+      "website": "www.horizonlogistics.ca",
       "ai_readiness_score": 6,
       "pain_points": [
-        "Route planning and carrier assignment for 200+ daily shipments coordinated via phone and email chains",
-        "Freight invoice auditing across 40+ carriers takes 3 full-time staff and still has 8% error rate",
-        "Customer visibility portal manually updated by dispatchers causing frequent complaint calls"
+        "Driver dispatch for 80+ trucks managed via phone and paper logs with frequent routing errors",
+        "Fuel card expense reconciliation across 80 drivers done manually at month end",
+        "Customer ETA updates delivered manually by dispatchers causing high call volume"
       ],
       "suggested_services": [
-        "AI Route Optimizer \u2014 dynamic carrier assignment and route planning with cost minimization",
-        "AI Freight Auditor \u2014 automated invoice matching and discrepancy detection across all carriers",
-        "AI Customer Visibility Portal \u2014 real-time shipment tracking with proactive delay notifications"
+        "AI Fleet Dispatch Optimizer -- real-time routing with driver assignment and live ETA updates",
+        "AI Fuel Expense Reconciliation -- automated fuel card data matching with anomaly detection",
+        "AI Customer ETA Notification Agent -- automated SMS/email updates from GPS tracking data"
+      ],
+      "contact_name": "Tom Bergstrom",
+      "contact_title": "Director of Fleet Operations",
+      "email": "t.bergstrom@horizonlogistics.ca",
+      "source_note": "Toronto trucking company with 95 employees operating 85 trucks across Ontario and US routes; trucking industry blog April 2026 flagged dispatch inefficiency as top cost driver -- large fleet, clear AI fit for routing and customer communication automation",
+      "language": "EN",
+      "outreach_channel": "LinkedIn + email",
+      "qualification_score": 7.4,
+      "recommended_package": "AI Operations Suite ($3,000-$5,000)",
+      "created_date": "2026-04-14"
+    },
+    {
+      "id": 102,
+      "company_name": "Meridian Architecture & Design",
+      "industry": "Professional Services / Architecture & Interior Design",
+      "company_size": "11-50",
+      "location": "Vancouver, BC",
+      "website": "www.meridianarchdesign.com",
+      "ai_readiness_score": 6,
+      "pain_points": [
+        "Client proposal and fee estimation for 15+ active projects managed via spreadsheets with version conflicts",
+        "Material specifications and finish selections tracked in email threads causing miscommunication with contractors",
+        "Project milestone billing and progress invoicing done manually with frequent delays"
+      ],
+      "suggested_services": [
+        "AI Proposal & Fee Estimator -- automated proposal generation from project brief and historical data",
+        "AI Material Specification Tracker -- structured database with client and contractor sharing",
+        "AI Project Billing Agent -- automated milestone tracking with invoicing and AR follow-up"
+      ],
+      "contact_name": "Natalie Yoo",
+      "contact_title": "Managing Principal",
+      "email": "n.yoo@meridianarchdesign.com",
+      "source_note": "Vancouver architecture firm with 32 employees handling 18 active projects; architectural industry magazine April 2026 highlighted proposal turnaround as top win-rate factor -- established firm with clear project management pain, strong fit for AI proposal and billing automation",
+      "language": "EN",
+      "outreach_channel": "LinkedIn + email",
+      "qualification_score": 6.6,
+      "recommended_package": "AI Workflow Automation ($1,500-$2,500)",
+      "created_date": "2026-04-14"
+    },
+    {
+      "id": 103,
+      "company_name": "BlueStar Insurance Group",
+      "industry": "Insurance / Commercial & Corporate Insurance",
+      "company_size": "201-1000",
+      "location": "Mississauga, ON",
+      "website": "www.bluestarinsurance.ca",
+      "ai_readiness_score": 6,
+      "pain_points": [
+        "Broker onboarding and contract management across 300+ independent brokers done via paper forms",
+        "Policy renewal follow-ups for 2,000+ commercial accounts managed manually with low conversion",
+        "Claims intake processing across 4 adjusters done via email with no standardized triage"
+      ],
+      "suggested_services": [
+        "AI Broker Onboarding Portal -- digital intake with contract management and compliance tracking",
+        "AI Renewal Follow-Up Agent -- automated outreach sequencing with conversion scoring",
+        "AI Claims Intake Triage -- automated first notice of loss processing with adjuster assignment"
       ],
       "contact_name": "Raj Patel",
-      "contact_title": "VP Operations",
-      "email": "r.patel@ironbridgelogistics.com",
-      "source_note": "Mississauga freight broker with 250 employees; LinkedIn post March 2026 about 'invoice reconciliation is eating our margins' \u2014 supply chain AI readiness confirmed by industry context; ideal for AI audit + route optimization bundle",
+      "contact_title": "VP of Operations",
+      "email": "r.patel@bluestarinsurance.ca",
+      "source_note": "Mississauga commercial insurer with 310 employees and 300+ broker relationships; insurance tech summit March 2026 identified broker onboarding friction as top growth barrier -- large broker network, high volume renewal pipeline, strong AI fit for broker management and claims triage",
       "language": "EN",
       "outreach_channel": "LinkedIn + email",
-      "qualification_score": 7.2,
-      "recommended_package": "AI Workflow Automation ($1,500\u2013$2,500)",
+      "qualification_score": 7.7,
+      "recommended_package": "AI Operations Suite ($3,000-$5,000)",
       "created_date": "2026-04-14"
     },
     {
-      "id": 82,
-      "company_name": "Meridian Law Partners",
-      "industry": "Legal / Boutique Law Firm",
-      "company_size": "21-50",
-      "location": "Chicago, IL",
-      "website": "www.meridianlaw.com",
-      "ai_readiness_score": 5,
-      "pain_points": [
-        "Contract review and clause analysis for M&A deals manually performed by 6 associates at 12 hrs per document",
-        "Client intake and case screening for 80+ inbound inquiries per month handled by 2 paralegals",
-        "Calendar and deadline tracking across 40+ active matters managed in Outlook spreadsheets with missed deadline risk"
-      ],
-      "suggested_services": [
-        "AI Contract Analyzer \u2014 rapid clause extraction and risk flagging for M&A and commercial agreements",
-        "AI Client Intake Bot \u2014 automated screening, qualification, and matter assignment for new inquiries",
-        "AI Deadline Tracker \u2014 calendar monitoring with automated reminders and conflict detection"
-      ],
-      "contact_name": "Diana Kowalski",
-      "contact_title": "Managing Partner",
-      "email": "d.kowalski@meridianlaw.com",
-      "source_note": "Chicago boutique M&A law firm with 35 attorneys; ABA Journal March 2026 article on AI in law firms confirmed industry trend; firm looking to automate contract review \u2014 high-value engagement at $5K+ monthly",
-      "language": "EN",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 7.8,
-      "recommended_package": "AI Consulting Retainer ($3,000\u2013$5,000/mo)",
-      "created_date": "2026-04-14"
-    },
-    {
-      "id": 83,
-      "company_name": "BlueWave Health Technologies",
-      "industry": "Healthcare / Health Tech SaaS",
+      "id": 104,
+      "company_name": "TechCore Solutions",
+      "industry": "IT Consulting / Managed Services Provider (MSP)",
       "company_size": "51-200",
-      "location": "Toronto, ON",
-      "website": "www.bluewavehealth.ca",
+      "location": "Ottawa, ON",
+      "website": "www.techcoresolutions.ca",
       "ai_readiness_score": 8,
       "pain_points": [
-        "Patient onboarding flow for 15 clinic partners requires manual data entry across 4 disconnected systems",
-        "Sales pipeline for 200+ hospital prospect interactions tracked inconsistently in Salesforce with low adoption",
-        "Support ticket volume of 300+/month handled by 2 agents with no routing logic or self-service option"
+        "Client ticket triage and routing for 400+ monthly support requests done manually by 6 L1 analysts",
+        "Monthly SLA reporting for 45 clients compiled manually from multiple monitoring tools",
+        "Consultant resource allocation across 30 engineers managed via shared spreadsheet"
       ],
       "suggested_services": [
-        "AI Onboarding Orchestrator \u2014 automated patient data sync across clinic EHR and BlueWave platform",
-        "AI CRM Intelligence \u2014 pipeline scoring and next-best-action recommendations for sales team",
-        "AI Support Copilot \u2014 ticket classification, routing, and self-service knowledge base for common issues"
+        "AI Ticket Triage Engine -- automated categorization, routing, and first-response generation",
+        "AI SLA Reporting Dashboard -- automated report compilation from monitoring tool APIs",
+        "AI Resource Allocation Agent -- skill-based matching with availability and utilization optimization"
       ],
-      "contact_name": "Fatima Al-Hassan",
-      "contact_title": "Director of Product",
-      "email": "f.alhassan@bluewavehealth.ca",
-      "source_note": "Toronto health-tech scale-up with 120 employees; raised Series A in Jan 2026; strong AI culture but execution gaps \u2014 perfect for AI product ops engagement; 15 clinic partners = multi-tenant AI solution opportunity",
+      "contact_name": "Karen Oduya",
+      "contact_title": "Chief Technology Officer",
+      "email": "k.oduya@techcoresolutions.ca",
+      "source_note": "Ottawa MSP with 95 employees serving 45 clients across government and enterprise; tech leadership blog April 2026 discussed ticket backlog as top client satisfaction issue -- very high AI readiness, technically sophisticated buyer, premium AI operations suite opportunity",
       "language": "EN",
       "outreach_channel": "LinkedIn + email",
-      "qualification_score": 8.1,
-      "recommended_package": "AI Product Integration ($5,000\u2013$8,000)",
+      "qualification_score": 8.9,
+      "recommended_package": "AI Enterprise Agreement ($8,000-$15,000/mo)",
       "created_date": "2026-04-14"
     },
     {
-      "id": 84,
-      "company_name": "Cascadia Construction Ltd.",
-      "industry": "Construction / Commercial General Contractor",
+      "id": 105,
+      "company_name": "Cascade Dental Group",
+      "industry": "Dental / Multi-Doctor Group Practice",
       "company_size": "51-200",
-      "location": "Vancouver, BC",
-      "website": "www.cascadiaconstruction.com",
-      "ai_readiness_score": 4,
+      "location": "Kitchener, ON",
+      "website": "www.cascadedentalgroup.ca",
+      "ai_readiness_score": 5,
       "pain_points": [
-        "Project scheduling and sub-trades coordination for 12 active job sites managed via whiteboard and phone",
-        "Material quantity takeoff and cost estimation for RFP responses takes 2 days per commercial bid",
-        "Safety compliance documentation and incident reporting for 200+ workers across 8 sites done on paper forms"
+        "Patient scheduling across 8 dentists and 4 hygienists involves frequent double-bookings and gaps",
+        "Insurance predetermination requests submitted manually causing treatment delays and case acceptance drops",
+        "Patient follow-up for overdue cleanings done via manual phone calls with low connection rates"
       ],
       "suggested_services": [
-        "AI Project Scheduler \u2014 automated sub-trade coordination and site schedule management with conflict alerts",
-        "AI Estimating Assistant \u2014 automated quantity takeoff and cost estimation from blueprint PDFs",
-        "AI Safety Reporter \u2014 digital incident forms with automated reporting to WSBC and safety analytics"
+        "AI Patient Scheduling Engine -- conflict-free multi-provider booking with waitlist management",
+        "AI Insurance Predetermination Agent -- automated form completion and submission with status tracking",
+        "AI Patient Recall & Follow-Up Agent -- automated outreach via SMS/email with appointment booking"
       ],
-      "contact_name": "Tom Bergmann",
-      "contact_title": "Operations Manager",
-      "email": "t.bergmann@cascadiaconstruction.com",
-      "source_note": "Vancouver commercial contractor with 150 workers; BC construction labor shortage article March 2026 confirming productivity pressure; paper-based workflows = high friction, low AI readiness but strong ROI case for automation",
+      "contact_name": "Dr. Angela Wu",
+      "contact_title": "Clinical Director",
+      "email": "a.wu@cascadedentalgroup.ca",
+      "source_note": "Kitchener dental group with 8 dentists and 65 total staff across 4 locations; dental association newsletter April 2026 highlighted scheduling inefficiencies reducing chair utilization by 20% -- multi-location group practice with clear scheduling and recall automation opportunity",
       "language": "EN",
       "outreach_channel": "LinkedIn + email",
       "qualification_score": 5.4,
-      "recommended_package": "AI Starter Setup ($750-$1,200)",
+      "recommended_package": "AI Workflow Automation ($1,500-$2,500)",
       "created_date": "2026-04-14"
     },
     {
-      "id": 85,
-      "company_name": "Pinnacle Staffing Solutions",
-      "industry": "HR / Recruitment Agency",
-      "company_size": "21-50",
-      "location": "Atlanta, GA",
-      "website": "www.pinnaclesstaffing.com",
-      "ai_readiness_score": 6,
-      "pain_points": [
-        "Candidate sourcing for 50+ open reqs per month across LinkedIn, Indeed, and internal database manually by 8 recruiters",
-        "Interview scheduling coordination across 15 hiring managers and 100+ candidates per month done via email chains",
-        "Client talent brief matching and proposal drafting for new engagements takes 3 hours per new client"
-      ],
-      "suggested_services": [
-        "AI Candidate Sourcing Agent \u2014 automated multi-platform sourcing with ranking and match scoring",
-        "AI Scheduling Coordinator \u2014 calendar sync and interview booking with hiring manager and candidate",
-        "AI Proposal Generator \u2014 client brief analysis and personalized recruitment proposal drafting"
-      ],
-      "contact_name": "Keisha Williams",
-      "contact_title": "Managing Director",
-      "email": "k.williams@pinnaclesstaffing.com",
-      "source_note": "Atlanta boutique recruitment firm with 35 staff; Business Insider Jan 2026 article on AI recruiting tools in hot market; firm actively exploring AI for sourcing = warm lead; 50+ reqs/month = high volume engagement",
-      "language": "EN",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 6.8,
-      "recommended_package": "AI Workflow Automation ($1,500\u2013$2,500)",
-      "created_date": "2026-04-14"
-    },
-    {
-      "id": 86,
-      "company_name": "NutriFresh Distribution",
-      "industry": "Food & Beverage / Food Distribution",
-      "company_size": "51-200",
-      "location": "Dallas, TX",
-      "website": "www.nutrifresh.com",
-      "ai_readiness_score": 5,
-      "pain_points": [
-        "Inventory forecasting for 3,000 SKUs across 4 regional warehouses done manually in Excel with frequent stockouts",
-        "Purchase order generation and supplier communication for 200+ orders per week managed by 4 buyers via email",
-        "Route delivery scheduling for 60 trucks across Texas and Oklahoma manually planned each morning"
-      ],
-      "suggested_services": [
-        "AI Demand Forecasting \u2014 predictive inventory replenishment across all SKUs and warehouse locations",
-        "AI Purchase Order Agent \u2014 automated PO generation and supplier communication with approval workflows",
-        "AI Route Optimizer \u2014 daily delivery route planning with time windows and vehicle capacity constraints"
-      ],
-      "contact_name": "Carlos Medina",
-      "contact_title": "Supply Chain Director",
-      "email": "c.medina@nutrifresh.com",
-      "source_note": "Dallas food distributor with 180 employees serving 800+ restaurants; Texas food service industry growth 2026 = expansion pressure; manual inventory processes = clear ROI for AI forecasting; strong candidate for full supply chain AI engagement",
-      "language": "EN",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 6.1,
-      "recommended_package": "AI Workflow Automation ($1,500\u2013$2,500)",
-      "created_date": "2026-04-14"
-    },
-    {
-      "id": 87,
-      "company_name": "Evergreen Legal Aid",
-      "industry": "Legal / Non-Profit Legal Services",
-      "company_size": "21-50",
-      "location": "Seattle, WA",
-      "website": "www.evergreenlegalaid.org",
-      "ai_readiness_score": 4,
-      "pain_points": [
-        "Intake screening for 500+ monthly legal aid inquiries from low-income clients done by 3 intake specialists",
-        "Case file management for 300+ active cases across 8 attorneys tracked in a mix of paper and Google Docs",
-        "Grant reporting and outcome tracking for 4 foundation funders compiled manually each quarter"
-      ],
-      "suggested_services": [
-        "AI Intake Screener \u2014 automated legal eligibility assessment and routing for incoming inquiries",
-        "AI Case Manager \u2014 structured case file system with document templates and deadline tracking",
-        "AI Grant Reporter \u2014 automated outcome metrics compilation for foundation reporting"
-      ],
-      "contact_name": "Amara Johnson",
-      "contact_title": "Executive Director",
-      "email": "a.johnson@evergreenlegalaid.org",
-      "source_note": "Seattle non-profit legal aid org with 40 staff; NW Justice Project partnership Feb 2026 = mission expansion; tight budget but AI grant funding available; perfect for scaled-down AI starter package with nonprofit pricing",
-      "language": "EN",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 4.3,
-      "recommended_package": "AI Starter Setup ($750-$1,200)",
-      "created_date": "2026-04-14"
-    },
-    {
-      "id": 88,
-      "company_name": "Atlas Manufacturing Inc.",
-      "industry": "Manufacturing / Precision Machining",
-      "company_size": "51-200",
-      "location": "Detroit, MI",
-      "website": "www.atlasmanufacturing.com",
+      "id": 106,
+      "company_name": "Atlas Consulting Partners",
+      "industry": "Consulting / Management & Strategy Consulting",
+      "company_size": "11-50",
+      "location": "Chicago, IL",
+      "website": "www.atlasconsultingpartners.com",
       "ai_readiness_score": 7,
       "pain_points": [
-        "CNC machine monitoring and predictive maintenance for 40 machines relying on operator observation only",
-        "Quality control inspection for 2,000 parts per shift manually reviewed by 6 QC technicians",
-        "Production scheduling across 3 shifts and 25 workstations managed in static Excel files"
+        "Business case and slide deck creation for 12+ client engagements per quarter done manually",
+        "Industry benchmark data research across 8 sectors done via manual web searches with no standardization",
+        "Client meeting notes and action item tracking across 20 active engagements managed in email threads"
       ],
       "suggested_services": [
-        "AI Predictive Maintenance \u2014 IoT sensor integration and failure prediction for CNC fleet",
-        "AI Visual QC Inspector \u2014 computer vision defect detection for precision machined parts",
-        "AI Production Scheduler \u2014 dynamic shift scheduling with machine utilization optimization"
+        "AI Business Case Generator -- automated slide and report generation from project brief and data inputs",
+        "AI Benchmark Research Agent -- structured industry data collection with standardized output format",
+        "AI Meeting Intelligence Tool -- automated note capture, summary, and action item tracking per engagement"
       ],
-      "contact_name": "Mike Kowalczyk",
-      "contact_title": "Plant Manager",
-      "email": "m.kowalczyk@atlasmanufacturing.com",
-      "source_note": "Detroit precision machining shop with 150 workers; supplying automotive and aerospace clients; TechCrunch Jan 2026 piece on manufacturing AI adoption confirmed strong ROI case; IoT-ready equipment = fast AI implementation timeline",
+      "contact_name": "Marcus Johnson",
+      "contact_title": "Managing Partner",
+      "email": "m.johnson@atlasconsultingpartners.com",
+      "source_note": "Chicago management consulting firm with 28 consultants working on 20+ active engagements; consulting industry blog April 2026 on AI-assisted slide creation as top efficiency gain -- high AI-readiness consulting buyers, strong content generation fit, premium package opportunity",
+      "language": "EN",
+      "outreach_channel": "LinkedIn + email",
+      "qualification_score": 7.8,
+      "recommended_package": "AI Consulting Retainer ($3,000-$5,000/mo)",
+      "created_date": "2026-04-14"
+    },
+    {
+      "id": 107,
+      "company_name": "Redwood Property Management",
+      "industry": "Real Estate / Commercial & Residential Property Management",
+      "company_size": "201-1000",
+      "location": "San Francisco, CA",
+      "website": "www.redwoodpropertymgmt.com",
+      "ai_readiness_score": 5,
+      "pain_points": [
+        "Tenant maintenance request intake and routing across 3,000+ units done via phone and email with slow response",
+        "Lease renewal negotiation and document preparation for 400+ expiring leases per year managed manually",
+        "Vendor invoice processing for 150+ maintenance vendors done via paper with frequent payment delays"
+      ],
+      "suggested_services": [
+        "AI Maintenance Request Portal -- digital intake with automated triage, routing, and status updates",
+        "AI Lease Renewal Agent -- automated document preparation with negotiation support and deadline tracking",
+        "AI Vendor Invoice Processor -- automated invoice capture, coding, and payment approval workflow"
+      ],
+      "contact_name": "Diana Reyes",
+      "contact_title": "VP of Operations",
+      "email": "d.reyes@redwoodpropertymgmt.com",
+      "source_note": "San Francisco property management company with 520 employees managing 3,200 residential and commercial units; property management conference April 2026 highlighted maintenance response time as top tenant complaint -- large portfolio, high volume transactions, clear AI fit for tenant services and lease management",
+      "language": "EN",
+      "outreach_channel": "LinkedIn + email",
+      "qualification_score": 6.3,
+      "recommended_package": "AI Operations Suite ($3,000-$5,000)",
+      "created_date": "2026-04-14"
+    },
+    {
+      "id": 108,
+      "company_name": "Quantum Analytics Inc.",
+      "industry": "Technology / Data Analytics & Business Intelligence",
+      "company_size": "51-200",
+      "location": "Toronto, ON",
+      "website": "www.quantumanalytics.ai",
+      "ai_readiness_score": 8,
+      "pain_points": [
+        "Client project reporting for 18 concurrent engagements compiled manually by 12 analysts every week",
+        "Proposal generation for data and AI consulting engagements involves repetitive scope and pricing work",
+        "Employee onboarding and training material creation for 8 new hires per quarter done manually"
+      ],
+      "suggested_services": [
+        "AI Client Reporting Engine -- automated weekly report generation from project data and KPI dashboards",
+        "AI Proposal Generator -- standardized scope and pricing templates with AI-assisted customization",
+        "AI Employee Onboarding Agent -- automated training plan generation and progress tracking"
+      ],
+      "contact_name": "Aisha Kamara",
+      "contact_title": "Director of Professional Services",
+      "email": "a.kamara@quantumanalytics.ai",
+      "source_note": "Toronto data analytics firm with 85 employees running 18 concurrent client engagements; company blog April 2026 on scaling client reporting without adding headcount -- very high AI readiness, technical buyer who understands AI value, strong consulting retainer opportunity",
+      "language": "EN",
+      "outreach_channel": "LinkedIn + email",
+      "qualification_score": 8.3,
+      "recommended_package": "AI Consulting Retainer ($3,000-$5,000/mo)",
+      "created_date": "2026-04-14"
+    },
+    {
+      "id": 109,
+      "company_name": "Lakeside Retirement Communities",
+      "industry": "Healthcare / Senior Living & Retirement Communities",
+      "company_size": "201-1000",
+      "location": "London, ON",
+      "website": "www.lakesideretirement.com",
+      "ai_readiness_score": 5,
+      "pain_points": [
+        "Prospect inquiry follow-up for 200+ monthly inquiries managed manually with 48-hour response delays",
+        "Care plan documentation for 450+ residents across 3 communities compiled manually by care staff",
+        "Family communication and visit scheduling managed via phone and email with no centralized system"
+      ],
+      "suggested_services": [
+        "AI Prospect Follow-Up Agent -- automated lead scoring and personalized follow-up sequencing",
+        "AI Care Plan Documentation Generator -- automated documentation from care notes with compliance checks",
+        "AI Family Communication Portal -- digital portal for visit scheduling and family updates"
+      ],
+      "contact_name": "Heather MacLeod",
+      "contact_title": "Director of Marketing & Admissions",
+      "email": "h.macleod@lakesideretirement.com",
+      "source_note": "London ON senior living operator with 480 employees across 3 communities serving 460 residents; senior living industry report April 2026 identified inquiry response time as top conversion driver -- large senior living operation with clear marketing and care documentation automation need",
+      "language": "EN",
+      "outreach_channel": "LinkedIn + email",
+      "qualification_score": 5.9,
+      "recommended_package": "AI Operations Suite ($3,000-$5,000)",
+      "created_date": "2026-04-14"
+    },
+    {
+      "id": 110,
+      "company_name": "Peak Performance Sports Medicine",
+      "industry": "Healthcare / Physiotherapy & Sports Medicine Clinic",
+      "company_size": "11-50",
+      "location": "Burlington, ON",
+      "website": "www.peakperformancespt.com",
+      "ai_readiness_score": 5,
+      "pain_points": [
+        "Patient booking and cancellation management across 6 physiotherapists causing scheduling gaps",
+        "Insurance Direct Billing submissions done manually per visit causing payment delays and staff burden",
+        "Patient outcome tracking and progress reporting for referred cases done via manual data entry"
+      ],
+      "suggested_services": [
+        "AI Clinic Scheduling Engine -- dynamic booking with cancellation waitlist and no-show follow-up",
+        "AI Direct Billing Agent -- automated insurance submission with real-time status tracking",
+        "AI Outcome Tracking Reporter -- structured progress reports from treatment data with referral-ready format"
+      ],
+      "contact_name": "Dr. Sean Park",
+      "contact_title": "Clinic Director",
+      "email": "s.park@peakperformancespt.com",
+      "source_note": "Burlington sports medicine clinic with 6 physios and 2 athletic therapists serving 180 patients weekly; physiotherapy association newsletter April 2026 highlighted direct billing complexity as top administrative burden -- small but busy clinic with clear automation opportunity in scheduling and billing",
+      "language": "EN",
+      "outreach_channel": "LinkedIn + email",
+      "qualification_score": 5.1,
+      "recommended_package": "AI Starter Setup ($750-$1,200)",
+      "created_date": "2026-04-14"
+    },
+    {
+      "id": 111,
+      "company_name": "GlobalEdu Learning Solutions",
+      "industry": "Education / Corporate Training & L&D",
+      "company_size": "51-200",
+      "location": "New York, NY",
+      "website": "www.globaledulearning.com",
+      "ai_readiness_score": 7,
+      "pain_points": [
+        "Custom course content development for 40+ enterprise clients done manually by 12 instructional designers",
+        "Learner progress tracking and completion reporting for 5,000+ monthly active users done via spreadsheets",
+        "Sales proposal and SOW generation for new corporate training engagements done manually with long cycle times"
+      ],
+      "suggested_services": [
+        "AI Course Content Generator -- AI-assisted course outline and content draft from client brief",
+        "AI Learner Analytics Dashboard -- real-time progress tracking with completion and engagement reporting",
+        "AI Sales Proposal Generator -- automated SOW and pricing generation from client requirements"
+      ],
+      "contact_name": "Monica Alvarez",
+      "contact_title": "VP of Client Solutions",
+      "email": "m.alvarez@globaledulearning.com",
+      "source_note": "New York corporate training company with 85 employees serving 40 enterprise clients with 5,000+ monthly active learners; L&D industry report April 2026 identified content development speed as top growth constraint -- high AI readiness, enterprise buyer with large learner base, strong operations suite fit",
+      "language": "EN",
+      "outreach_channel": "LinkedIn + email",
+      "qualification_score": 7.6,
+      "recommended_package": "AI Operations Suite ($3,000-$5,000)",
+      "created_date": "2026-04-14"
+    },
+    {
+      "id": 112,
+      "company_name": "Summit Financial Advisors",
+      "industry": "Finance / Independent Financial Planning",
+      "company_size": "11-50",
+      "location": "Toronto, ON",
+      "website": "www.summitfa.com",
+      "ai_readiness_score": 5,
+      "pain_points": [
+        "Client meeting preparation for 30+ weekly client meetings done manually consuming 2+ hours per advisor per week",
+        "Prospect seminar event management and follow-up for 4 monthly events handled manually",
+        "Client portfolio performance data aggregation from 6 platforms done manually for quarterly reviews"
+      ],
+      "suggested_services": [
+        "AI Meeting Preparation Agent -- automated agenda generation, note templates, and relevant data pulls",
+        "AI Seminar Follow-Up Sequencer -- automated event follow-up with lead scoring and task assignment",
+        "AI Portfolio Data Aggregator -- consolidated client asset view from multiple account platforms"
+      ],
+      "contact_name": "David Nakamura",
+      "contact_title": "Principal Advisor",
+      "email": "d.nakamura@summitfa.com",
+      "source_note": "Toronto independent financial planning firm with 8 advisors serving 280 client households; financial advisor technology survey April 2026 found meeting prep time as top productivity drain -- moderate AI readiness with strong ROI case for meeting and follow-up automation",
+      "language": "EN",
+      "outreach_channel": "LinkedIn + email",
+      "qualification_score": 5.7,
+      "recommended_package": "AI Starter Setup ($750-$1,200)",
+      "created_date": "2026-04-14"
+    },
+    {
+      "id": 113,
+      "company_name": "Velocitek Engineering Services",
+      "industry": "Engineering / Civil & Structural Engineering",
+      "company_size": "51-200",
+      "location": "Calgary, AB",
+      "website": "www.velocitek.ca",
+      "ai_readiness_score": 6,
+      "pain_points": [
+        "RFP and tender response generation for municipal infrastructure projects done manually by senior engineers",
+        "Project resource scheduling across 45 engineers managed via shared calendar with frequent conflicts",
+        "Client invoicing and hold tracking for 30+ active projects done via spreadsheet with payment delays"
+      ],
+      "suggested_services": [
+        "AI Tender Response Generator -- automated proposal drafting from project specifications and past bids",
+        "AI Resource Scheduling Engine -- conflict-free multi-project staffing with utilization optimization",
+        "AI Project Invoicing Agent -- automated billing from project milestones with payment follow-up tracking"
+      ],
+      "contact_name": "Rachel Kim",
+      "contact_title": "Director of Business Development",
+      "email": "r.kim@velocitek.ca",
+      "source_note": "Calgary civil engineering firm with 75 employees working on 32 active municipal infrastructure projects; engineering industry blog April 2026 discussed tender response quality as top bid win-rate factor -- established firm with high project complexity, clear AI fit for bid generation and project billing",
+      "language": "EN",
+      "outreach_channel": "LinkedIn + email",
+      "qualification_score": 6.5,
+      "recommended_package": "AI Operations Suite ($3,000-$5,000)",
+      "created_date": "2026-04-14"
+    },
+    {
+      "id": 114,
+      "company_name": "Bayshore Pharma Solutions",
+      "industry": "Healthcare / Pharmaceutical & Life Sciences Distribution",
+      "company_size": "201-1000",
+      "location": "Montreal, QC",
+      "website": "www.bayshorepharma.com",
+      "ai_readiness_score": 6,
+      "pain_points": [
+        "Cold chain compliance reporting for government regulators compiled manually from multiple data sources",
+        "Order processing for 500+ hospital and pharmacy accounts done via email and phone with errors",
+        "Inventory management across 3 warehouses done manually causing stockouts of critical medications"
+      ],
+      "suggested_services": [
+        "AI Cold Chain Compliance Reporter -- automated temperature logging, deviation reporting, and regulatory submission",
+        "AI Order Processing Agent -- automated order intake with validation and error correction",
+        "AI Inventory Intelligence System -- real-time stock monitoring with predictive reorder and expiry alerts"
+      ],
+      "contact_name": "Jean-Francois Mercier",
+      "contact_title": "VP of Supply Chain",
+      "email": "jf.mercier@bayshorepharma.com",
+      "source_note": "Montreal pharma distribution company with 680 employees serving 520 hospital and pharmacy accounts; pharmaceutical logistics conference April 2026 highlighted cold chain compliance as top regulatory burden -- large operation, high compliance requirement, strong AI fit for compliance and inventory automation",
+      "language": "FR",
+      "outreach_channel": "LinkedIn + email (FR)",
+      "qualification_score": 7.1,
+      "recommended_package": "AI Operations Suite ($3,000-$5,000)",
+      "created_date": "2026-04-14"
+    },
+    {
+      "id": 115,
+      "company_name": "Nexus HR Professionals",
+      "industry": "HR / Professional Employer Organization (PEO)",
+      "company_size": "51-200",
+      "location": "Atlanta, GA",
+      "website": "www.nexushrpro.com",
+      "ai_readiness_score": 6,
+      "pain_points": [
+        "Employee onboarding for 150+ worksite employees per month across 40 client companies done manually",
+        "Benefits enrollment and administration for 2,000+ employees processed manually with errors and delays",
+        "HR compliance reporting for federal and state regulations compiled manually quarterly"
+      ],
+      "suggested_services": [
+        "AI Employee Onboarding Agent -- automated digital onboarding with document collection and task tracking",
+        "AI Benefits Administration Engine -- automated enrollment, reconciliation, and carrier integration",
+        "AI Compliance Reporting Agent -- regulatory report compilation with audit trail and deadline alerts"
+      ],
+      "contact_name": "Tamara Okafor",
+      "contact_title": "Chief Operating Officer",
+      "email": "t.okafor@nexushrpro.com",
+      "source_note": "Atlanta PEO with 110 employees serving 40 client companies and 2,200 worksite employees; HR technology summit April 2026 identified benefits administration errors as top client complaint -- high volume PEO operation with strong AI fit for onboarding and benefits automation",
+      "language": "EN",
+      "outreach_channel": "LinkedIn + email",
+      "qualification_score": 7.3,
+      "recommended_package": "AI Operations Suite ($3,000-$5,000)",
+      "created_date": "2026-04-14"
+    },
+    {
+      "id": 116,
+      "company_name": "Cascade Media Group",
+      "industry": "Media / Digital Marketing & Advertising Agency",
+      "company_size": "11-50",
+      "location": "Seattle, WA",
+      "website": "www.cascademedia.com",
+      "ai_readiness_score": 7,
+      "pain_points": [
+        "Client reporting across 25 advertising accounts compiled manually every month by 8 account managers",
+        "Creative brief and campaign strategy development for 15+ new campaigns per quarter done manually",
+        "Media buying optimization across 5 platforms managed via manual bid adjustments with slow response to trends"
+      ],
+      "suggested_services": [
+        "AI Client Reporting Engine -- automated monthly performance reports with AI-generated insights",
+        "AI Creative Brief Generator -- structured brief generation from client objectives and audience data",
+        "AI Media Buying Optimizer -- real-time bid optimization with performance trend detection across platforms"
+      ],
+      "contact_name": "James Ota",
+      "contact_title": "Director of Digital Strategy",
+      "email": "j.ota@cascademedia.com",
+      "source_note": "Seattle digital marketing agency with 38 employees managing $40M+ in annual ad spend across 25 client accounts; agency founder LinkedIn April 2026 on manual reporting consuming 30% of account manager time -- high AI readiness, clear reporting and optimization automation opportunity, strong retainer fit",
       "language": "EN",
       "outreach_channel": "LinkedIn + email",
       "qualification_score": 7.5,
-      "recommended_package": "AI Product Integration ($5,000\u2013$8,000)",
+      "recommended_package": "AI Consulting Retainer ($3,000-$5,000/mo)",
       "created_date": "2026-04-14"
     },
     {
-      "id": 89,
-      "company_name": "Brightpath Academy",
-      "industry": "Education / Private K-12 School",
+      "id": 117,
+      "company_name": "Terraverde Landscape Group",
+      "industry": "Services / Commercial & Residential Landscape Maintenance",
       "company_size": "51-200",
       "location": "Houston, TX",
-      "website": "www.brightpathacademy.org",
-      "ai_readiness_score": 5,
+      "website": "www.terraverdegroup.com",
+      "ai_readiness_score": 4,
       "pain_points": [
-        "Student assessment data from 6 different platforms compiled manually each grading period by 4 administrators",
-        "Parent communication for 1,200 families across email, app, and paper notices inconsistent and fragmented",
-        "Teacher professional development tracking for 45 faculty members managed via sign-in sheets"
+        "Client quote generation for 60+ monthly bids done manually by estimators consuming 3-4 hours each",
+        "Crew scheduling and routing for 45 field crews across 200+ weekly maintenance visits managed via phone",
+        "Equipment maintenance tracking for 120+ vehicles and machines done reactively causing breakdowns"
       ],
       "suggested_services": [
-        "AI Analytics Dashboard \u2014 unified student performance data from all 6 platforms with trend reporting",
-        "AI Parent Hub \u2014 centralized multi-channel parent communication with preference management",
-        "AI PD Tracker \u2014 automated teacher professional development tracking and compliance reporting"
+        "AI Quote Generation Engine -- automated site assessment summary and competitive quote generation",
+        "AI Field Crew Scheduler -- multi-constraint routing with real-time crew and client updates",
+        "AI Equipment Maintenance Tracker -- preventive maintenance scheduling with breakdown prediction"
       ],
-      "contact_name": "Sandra Okafor",
-      "contact_title": "Head of School",
-      "email": "s.okafor@brightpathacademy.org",
-      "source_note": "Houston private K-12 school with 1,100 students and 180 faculty; TEA growth data 2026 = student population expansion; fragmented parent comms = top parent complaint; strong fit for AI communications hub",
+      "contact_name": "Maria Gonzalez",
+      "contact_title": "Operations Manager",
+      "email": "m.gonzalez@terraverdegroup.com",
+      "source_note": "Houston landscape company with 95 employees operating 45 field crews and managing 220+ maintenance contracts; trade publication April 2026 highlighted quote accuracy and crew routing as top profitability drivers -- moderate AI readiness, clear operational pain in field services with strong ROI potential for automation",
       "language": "EN",
       "outreach_channel": "LinkedIn + email",
       "qualification_score": 5.2,
@@ -287,311 +508,87 @@
       "created_date": "2026-04-14"
     },
     {
-      "id": 90,
-      "company_name": "Vanguard Wealth Management",
-      "industry": "Finance / Registered Investment Adviser",
-      "company_size": "21-50",
-      "location": "San Francisco, CA",
-      "website": "www.vanguardwealth.com",
-      "ai_readiness_score": 6,
-      "pain_points": [
-        "Portfolio performance reporting for 180 clients compiled manually each quarter over 3 weeks",
-        "Client meeting preparation including holdings review and conversation starters takes 4 hours per advisor per week",
-        "Prospect research and screening for 50+ inbound referrals per month done via public filings and news"
-      ],
-      "suggested_services": [
-        "AI Portfolio Reporter \u2014 automated quarterly performance reporting with client-friendly visualizations",
-        "AI Meeting Prep Agent \u2014 pre-call research summarization and conversation brief generation for advisors",
-        "AI Prospect Researcher \u2014 automated investment thesis and background check for new referrals"
-      ],
-      "contact_name": "Jennifer Nakamura",
-      "contact_title": "Chief Investment Officer",
-      "email": "j.nakamura@vanguardwealth.com",
-      "source_note": "San Francisco RIA with $2.1B AUM and 38 employees; InvestmentNews Jan 2026 article on AI in wealth management = industry tailwind; high-value client base = premium AI retainer opportunity; strong tech culture = fast adoption",
-      "language": "EN",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 7.9,
-      "recommended_package": "AI Consulting Retainer ($3,000\u2013$5,000/mo)",
-      "created_date": "2026-04-14"
-    },
-    {
-      "id": 91,
-      "company_name": "Impact Media Group",
-      "industry": "Media / Digital Publishing",
-      "company_size": "21-50",
-      "location": "New York, NY",
-      "website": "www.impactmediagroup.com",
-      "ai_readiness_score": 7,
-      "pain_points": [
-        "Content ideation and trend research for 8 editorial teams across 4 verticals done manually each week",
-        "Social media scheduling and performance reporting for 25 channels managed by 2 social media managers",
-        "Subscriber churn analysis for 120,000 newsletter subscribers reviewed monthly with no predictive capability"
-      ],
-      "suggested_services": [
-        "AI Editorial Intelligence \u2014 trending topic discovery and content calendar generation across verticals",
-        "AI Social Media Command Center \u2014 automated scheduling and real-time performance analytics",
-        "AI Churn Predictor \u2014 ML-based subscriber churn scoring with retention intervention triggers"
-      ],
-      "contact_name": "Marcus Chen",
-      "contact_title": "Editor-in-Chief",
-      "email": "m.chen@impactmediagroup.com",
-      "source_note": "NYC digital publisher with 40 staff and 500K+ monthly readers; Digiday March 2026 article on AI in newsrooms = industry readiness; high content volume = strong fit for AI editorial intelligence; 25 social channels = strong social AI case",
-      "language": "EN",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 7.3,
-      "recommended_package": "AI Workflow Automation ($1,500\u2013$2,500)",
-      "created_date": "2026-04-14"
-    },
-    {
-      "id": 92,
-      "company_name": "Solutions RH Montr\u00e9al",
-      "industry": "HR / Recruitment & Staffing Agency",
-      "company_size": "11-50",
-      "location": "Montreal, QC",
-      "website": "www.solutionsrh.ca",
-      "ai_readiness_score": 5,
-      "pain_points": [
-        "Candidate sourcing for 30+ open positions per month across LinkedIn and local job boards manually by 6 recruiters",
-        "French and English job posting localization for bilingual roles done separately by 2 copywriters",
-        "Client billing and contract management for 80+ active placements tracked in a custom CRM with no automation"
-      ],
-      "suggested_services": [
-        "AI Bilingual Recruiter \u2014 cross-language candidate sourcing with bilingual ranking and matching",
-        "AI Localization Writer \u2014 automated French/English job posting translation and cultural adaptation",
-        "AI Billing Automation \u2014 automated placement invoicing and contract milestone tracking"
-      ],
-      "contact_name": "Julie Bouchard",
-      "contact_title": "Directrice G\u00e9n\u00e9rale",
-      "email": "j.bouchard@solutionsrh.ca",
-      "source_note": "Montreal bilingual staffing agency with 35 consultants; LinkedIn post Feb 2026 about 'bilingual recruiting is our differentiator and our bottleneck' = warm lead; French market = bilingual AI agent opportunity; medium-sized with growth potential",
-      "language": "FR",
-      "outreach_channel": "LinkedIn + email (FR)",
-      "qualification_score": 6.0,
-      "recommended_package": "AI Workflow Automation ($1,500\u2013$2,500)",
-      "created_date": "2026-04-14"
-    },
-    {
-      "id": 93,
-      "company_name": "RedStone Capital Partners",
-      "industry": "Finance / Private Equity",
-      "company_size": "11-50",
+      "id": 118,
+      "company_name": "Capital Call Tax & Advisory",
+      "industry": "Accounting / Tax Preparation & Advisory",
+      "company_size": "51-200",
       "location": "Toronto, ON",
-      "website": "www.redstonecapital.ca",
+      "website": "www.capitalcallca.com",
       "ai_readiness_score": 6,
       "pain_points": [
-        "Deal sourcing pipeline for 500+ inbound inquiries per year tracked inconsistently across 4 partners in email",
-        "LP reporting for 12 institutional investors compiled manually each quarter with 3-day production timeline",
-        "Portfolio company monitoring across 8 holdings with data collected via monthly PDF reports from GPs"
+        "Tax return preparation for 800+ annual client returns involves significant manual data entry and review",
+        "Client document collection for 400+ tax engagements managed via email with low response rates",
+        "CRA correspondence and deadline tracking across 1,200+ active file matters done via spreadsheets"
       ],
       "suggested_services": [
-        "AI Deal Pipeline Manager \u2014 structured CRM for inbound deal flow with partner assignment and tracking",
-        "AI LP Reporter \u2014 automated quarterly investor reporting with portfolio company data aggregation",
-        "AI Portfolio Monitor \u2014 standardized portfolio company data collection with variance alerting"
+        "AI Tax Preparation Assistant -- automated data extraction and first-draft return preparation from source documents",
+        "AI Document Collection Agent -- automated client outreach with document portal and deadline tracking",
+        "AI CRA Correspondence Tracker -- centralized filing and deadline management with proactive alerts"
       ],
-      "contact_name": "Alex Morrison",
+      "contact_name": "Kevin Zhang",
       "contact_title": "Managing Partner",
-      "email": "a.morrison@redstonecapital.ca",
-      "source_note": "Toronto PE firm with $800M AUM across 8 portfolio companies; Financial Post Jan 2026 on AI in PE = growing awareness; high-value deal flow = strong case for AI pipeline management; premium retainer prospect",
-      "language": "EN",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 8.0,
-      "recommended_package": "AI Consulting Retainer ($3,000\u2013$5,000/mo)",
-      "created_date": "2026-04-14"
-    },
-    {
-      "id": 94,
-      "company_name": "GreenLeaf Organics",
-      "industry": "Food & Beverage / Organic Grocery Retail",
-      "company_size": "11-50",
-      "location": "Portland, OR",
-      "website": "www.greenleaforganics.com",
-      "ai_readiness_score": 4,
-      "pain_points": [
-        "Inventory management for 3,500 organic SKUs across 2 retail locations done manually twice weekly",
-        "Supplier communication and purchase order management for 60+ local farm suppliers done via email and phone",
-        "Customer loyalty program for 8,000 members with no personalized offers or engagement automation"
-      ],
-      "suggested_services": [
-        "AI Inventory Manager \u2014 automated stock monitoring and reorder triggers across all SKUs and locations",
-        "AI Supplier Portal \u2014 self-service supplier ordering and delivery scheduling platform",
-        "AI Loyalty Personalizer \u2014 ML-driven personalized offers and re-engagement campaigns for members"
-      ],
-      "contact_name": "Emma Reyes",
-      "contact_title": "Owner & General Manager",
-      "email": "e.reyes@greenleaforganics.com",
-      "source_note": "Portland organic grocery with 2 locations and 35 employees; Willamette Week Jan 2026 on local food retail trends = community growth; low AI readiness but strong brand = opportunity for phased AI rollout starting with inventory",
-      "language": "EN",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 4.5,
-      "recommended_package": "AI Starter Setup ($750-$1,200)",
-      "created_date": "2026-04-14"
-    },
-    {
-      "id": 95,
-      "company_name": "Lighthouse Children's Foundation",
-      "industry": "Non-Profit / Social Services",
-      "company_size": "51-200",
-      "location": "Denver, CO",
-      "website": "www.lighthousefoundation.org",
-      "ai_readiness_score": 3,
-      "pain_points": [
-        "Donor cultivation and stewardship for 2,500 donors managed by 3 development staff with no tracking system",
-        "Volunteer scheduling and communication for 400+ active volunteers across 6 programs done via spreadsheet",
-        "Program outcome data collection for 8 social programs compiled manually each quarter for grants"
-      ],
-      "suggested_services": [
-        "AI Donor CRM \u2014 structured donor tracking with stewardship reminders and giving history analysis",
-        "AI Volunteer Coordinator \u2014 scheduling platform with automated shift reminders and communication",
-        "AI Impact Reporter \u2014 program outcome data collection with automated grant reporting templates"
-      ],
-      "contact_name": "Rachel Torres",
-      "contact_title": "Executive Director",
-      "email": "r.torres@lighthousefoundation.org",
-      "source_note": "Denver children's social services nonprofit with 85 staff and 400+ volunteers; Colorado Nonprofit Association Spring 2026 conference = AI interest confirmed; low-tech maturity = starter engagement opportunity with nonprofit pricing",
-      "language": "EN",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 3.8,
-      "recommended_package": "AI Starter Setup ($750-$1,200)",
-      "created_date": "2026-04-14"
-    },
-    {
-      "id": 96,
-      "company_name": "TechCore Solutions",
-      "industry": "IT Services / Managed Services Provider",
-      "company_size": "51-200",
-      "location": "Austin, TX",
-      "website": "www.techcoresolutions.com",
-      "ai_readiness_score": 8,
-      "pain_points": [
-        "SOC ticket triage for 800+ monthly client support tickets manually routed by 6 L1 analysts",
-        "Client IT infrastructure documentation for 45 managed services clients kept outdated in Confluence",
-        "Monthly billing and usage reporting for 45 clients compiled manually each month over 5 days"
-      ],
-      "suggested_services": [
-        "AI SOC Analyst \u2014 automated ticket triage, categorization, and first-response suggestions for L1 team",
-        "AI Documentation Agent \u2014 continuous infrastructure documentation updates from network changes",
-        "AI Billing Reporter \u2014 automated monthly billing compilation and client usage report generation"
-      ],
-      "contact_name": "David Nguyen",
-      "contact_title": "CTO",
-      "email": "d.nguyen@techcoresolutions.com",
-      "source_note": "Austin MSP with 150 employees and 45 clients; CRN March 2026 article on AI for MSPs = strong market demand; tech-forward leadership = fast AI adoption; ideal for AI SOC + documentation bundle; high LTV prospect",
-      "language": "EN",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 8.4,
-      "recommended_package": "AI Product Integration ($5,000\u2013$8,000)",
-      "created_date": "2026-04-14"
-    },
-    {
-      "id": 97,
-      "company_name": "Precision Dental Partners",
-      "industry": "Healthcare / Dental Group Practice",
-      "company_size": "51-200",
-      "location": "Miami, FL",
-      "website": "www.precisiondentalpartners.com",
-      "ai_readiness_score": 5,
-      "pain_points": [
-        "Patient appointment scheduling for 12 dentists across 3 locations handled by 8 front desk staff via phone",
-        "Insurance claim submission and follow-up for 400+ claims per month managed by 4 billing specialists",
-        "Treatment plan communication for 200+ new treatment plans per month sent via paper or email only"
-      ],
-      "suggested_services": [
-        "AI Scheduling Coordinator \u2014 automated appointment booking with provider preferences and patient reminders",
-        "AI Claims Agent \u2014 automated claim submission, status tracking, and denial management for billing team",
-        "AI Treatment Plan Communicator \u2014 digital treatment plan delivery with visual aids and payment options"
-      ],
-      "contact_name": "Dr. Isabella Vargas",
-      "contact_title": "Clinical Director",
-      "email": "i.vargas@precisiondentalpartners.com",
-      "source_note": "Miami dental group with 12 practitioners across 3 offices; ADA February 2026 survey on dental AI adoption = growing interest; South Florida dental market = competitive; strong ops focus = good AI workflow candidate",
-      "language": "EN",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 5.9,
-      "recommended_package": "AI Workflow Automation ($1,500\u2013$2,500)",
-      "created_date": "2026-04-14"
-    },
-    {
-      "id": 98,
-      "company_name": "Urban Grid Architecture",
-      "industry": "Construction / Architecture Firm",
-      "company_size": "11-50",
-      "location": "Brooklyn, NY",
-      "website": "www.urbangridarchitecture.com",
-      "ai_readiness_score": 6,
-      "pain_points": [
-        "Project billing and time tracking for 15 active architectural projects manually entered monthly by principals",
-        "Client communication and revision tracking for 40+ active projects across email with version confusion",
-        "RFQ and permit application research for new commercial projects done manually by 2 junior architects"
-      ],
-      "suggested_services": [
-        "AI Project Billing Agent \u2014 automated time tracking integration and client invoice generation",
-        "AI Revision Tracker \u2014 centralized client feedback and design version control with change log",
-        "AI Permit Researcher \u2014 automated permit requirement research and RFQ template generation"
-      ],
-      "contact_name": "Marcus Webb",
-      "contact_title": "Principal Architect",
-      "email": "m.webb@urbangridarchitecture.com",
-      "source_note": "Brooklyn architecture firm with 35 designers; Architectural Record March 2026 on AI in architecture = confirmed market; firm growth = ops strain; high-value clients = premium engagement; Brooklyn + Manhattan commercial pipeline active",
-      "language": "EN",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 6.5,
-      "recommended_package": "AI Workflow Automation ($1,500\u2013$2,500)",
-      "created_date": "2026-04-14"
-    },
-    {
-      "id": 99,
-      "company_name": "CompuMedic Technologies",
-      "industry": "Healthcare / Medical Device Software",
-      "company_size": "51-200",
-      "location": "Minneapolis, MN",
-      "website": "www.compumedic.com",
-      "ai_readiness_score": 7,
-      "pain_points": [
-        "Customer onboarding for 30+ hospital system clients per year manually managed by 4 implementation staff",
-        "Product support ticket classification for 400+ monthly tickets done manually by support lead triage",
-        "Sales proposal and demo customization for 60+ quarterly prospects built by solutions engineers from scratch"
-      ],
-      "suggested_services": [
-        "AI Onboarding Orchestrator \u2014 automated hospital client implementation milestones and stakeholder management",
-        "AI Support Classifier \u2014 ML-based ticket routing and priority scoring for 400+ monthly tickets",
-        "AI Sales Proposal Generator \u2014 automated RFP response and demo customization from product knowledge base"
-      ],
-      "contact_name": "Sarah Lindqvist",
-      "contact_title": "VP Customer Success",
-      "email": "s.lindqvist@compumedic.com",
-      "source_note": "Minneapolis medtech SaaS company with 140 employees selling to hospital systems; MedTech Innovator 2026 = confirmed market momentum; high AI readiness = fast implementation; hospital sales cycle = premium engagement value",
-      "language": "EN",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 7.7,
-      "recommended_package": "AI Product Integration ($5,000\u2013$8,000)",
-      "created_date": "2026-04-14"
-    },
-    {
-      "id": 100,
-      "company_name": "Summit Logistics International",
-      "industry": "Logistics / International Freight Forwarding",
-      "company_size": "201-1000",
-      "location": "Seattle, WA",
-      "website": "www.summitlogistics.com",
-      "ai_readiness_score": 5,
-      "pain_points": [
-        "Customs documentation preparation for 300+ international shipments per month done manually by 15 logistics coordinators",
-        "Freight rate negotiation and quote generation for 200+ customer requests per month done by 8 rate analysts",
-        "Global supply chain visibility for 500+ active shipments tracked via disconnected carrier portals with no unified view"
-      ],
-      "suggested_services": [
-        "AI Customs Documentation Engine \u2014 automated HS code classification and customs document preparation",
-        "AI Rate Quote Agent \u2014 dynamic freight rate generation with profitability scoring for analysts",
-        "AI Supply Chain Visibility Dashboard \u2014 unified global shipment tracking across all carrier APIs"
-      ],
-      "contact_name": "James Park",
-      "contact_title": "Chief Operations Officer",
-      "email": "j.park@summitlogistics.com",
-      "source_note": "Seattle global freight forwarder with 650 employees and 500+ active shipments; Journal of Commerce March 2026 on digital freight = industry transformation underway; large scale = enterprise AI deal; strong ops focus confirmed by LinkedIn activity",
+      "email": "k.zhang@capitalcallca.com",
+      "source_note": "Toronto accounting firm with 65 professionals preparing 800+ tax returns annually; CPA magazine April 2026 on AI in tax preparation identified document collection as top bottleneck -- established firm with high volume seasonal demand, very strong AI fit for tax prep and document automation",
       "language": "EN",
       "outreach_channel": "LinkedIn + email",
       "qualification_score": 7.0,
-      "recommended_package": "AI Consulting Retainer ($3,000\u2013$5,000/mo)",
+      "recommended_package": "AI Consulting Retainer ($3,000-$5,000/mo)",
+      "created_date": "2026-04-14"
+    },
+    {
+      "id": 119,
+      "company_name": "Aurora Cybersecurity Group",
+      "industry": "Technology / Cybersecurity & Managed Security Services",
+      "company_size": "51-200",
+      "location": "Ottawa, ON",
+      "website": "www.auroracs.com",
+      "ai_readiness_score": 7,
+      "pain_points": [
+        "Security alert triage for 200+ daily alerts across client environments handled manually by SOC analysts",
+        "Client threat landscape reporting for 35 MSS clients compiled manually monthly by senior analysts",
+        "Sales proposal generation for new security assessments and pen tests done manually with slow turnaround"
+      ],
+      "suggested_services": [
+        "AI SOC Alert Triage Engine -- automated alert prioritization and incident classification with analyst escalation",
+        "AI Threat Landscape Reporter -- automated monthly security reports from client telemetry data",
+        "AI Security Proposal Generator -- automated proposal drafting from scope templates and client profiles"
+      ],
+      "contact_name": "Priya Nair",
+      "contact_title": "VP of Security Operations",
+      "email": "p.nair@auroracs.com",
+      "source_note": "Ottawa cybersecurity MSSP with 78 employees monitoring 35 client environments and processing 200+ daily security alerts; cybersecurity industry blog April 2026 identified alert fatigue as top analyst burnout driver -- very high AI readiness, technical buyer with clear automation opportunity in SOC and reporting",
+      "language": "EN",
+      "outreach_channel": "LinkedIn + email",
+      "qualification_score": 8.1,
+      "recommended_package": "AI Operations Suite ($3,000-$5,000)",
+      "created_date": "2026-04-14"
+    },
+    {
+      "id": 120,
+      "company_name": "GreenField Organic Foods Co.",
+      "industry": "Food & Beverage / Organic Food Manufacturing & Distribution",
+      "company_size": "201-1000",
+      "location": "Vancouver, BC",
+      "website": "www.greenfieldorganicfoods.com",
+      "ai_readiness_score": 5,
+      "pain_points": [
+        "Purchase order generation for 80+ raw material suppliers done manually with frequent ordering errors",
+        "Food safety and recall management documentation compiled manually with no centralized tracking system",
+        "Broker and retailer promo claim reconciliation for 25+ retail accounts done quarterly with disputes"
+      ],
+      "suggested_services": [
+        "AI Purchase Order Agent -- automated PO generation from inventory levels and supplier lead times",
+        "AI Food Safety Compliance Tracker -- centralized documentation with recall readiness and CFIA reporting",
+        "AI Promo Claim Reconciliation Engine -- automated claim validation and dispute resolution with retailer data"
+      ],
+      "contact_name": "Samantha Whitehorse",
+      "contact_title": "Director of Operations",
+      "email": "s.whitehorse@greenfieldorganicfoods.com",
+      "source_note": "Vancouver organic food manufacturer and distributor with 680 employees serving 25 retail brokers and 120+ grocery stores; food industry magazine April 2026 highlighted supply chain traceability as top regulatory priority -- large food operation with clear compliance and procurement automation need",
+      "language": "EN",
+      "outreach_channel": "LinkedIn + email",
+      "qualification_score": 5.8,
+      "recommended_package": "AI Operations Suite ($3,000-$5,000)",
       "created_date": "2026-04-14"
     }
   ]
