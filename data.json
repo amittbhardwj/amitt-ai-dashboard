@@ -1,222 +1,116 @@
 {
-  "generated_at": "2026-04-15T04:20:54.987448Z",
-  "total_leads": 140,
+  "generated_at": "2026-04-15T22:07:23Z",
+  "total_leads": 160,
   "new_leads_count": 20,
   "summary": {
-    "run_id": "lead_hunter_20260415",
+    "run_id": "lead_hunter_20260415_1801",
     "regions_covered": [
+      "Brossard",
+      "Toronto",
+      "Quebec City",
       "Montreal",
       "Ottawa",
-      "Toronto",
-      "Quebec City"
+      "Mississauga",
+      "Orleans"
     ],
-    "industries_covered": 9,
-    "avg_score": 3.88,
+    "industries_covered": 14,
+    "avg_score": 3.83,
     "top_industries": {
-      "Real Estate": 4,
-      "Law": 4,
-      "E-commerce": 4,
-      "Accounting": 2,
-      "Marketing": 2
+      "Healthcare": 3,
+      "Real Estate": 2,
+      "Dental": 2,
+      "Law": 2,
+      "Insurance": 2
     },
     "regions_breakdown": {
-      "Montreal": 7,
-      "Ottawa": 6,
-      "Toronto": 6,
-      "Quebec City": 1
+      "Toronto": 9,
+      "Montreal": 4,
+      "Ottawa": 3,
+      "Brossard": 1,
+      "Orleans": 1,
+      "Quebec City": 1,
+      "Mississauga": 1
     }
   },
   "leads": [
     {
-      "id": 121,
-      "company_name": "Sutton Quebec",
-      "industry": "Real Estate / Residential Brokerage",
-      "company_size": "200+ agents, 15 offices",
+      "id": 141,
+      "company_name": "Lachine Real Estate Group",
+      "industry": "Real Estate / Residential & Commercial Brokerage",
+      "company_size": "20-40 agents and staff",
       "location": "Montreal, QC",
-      "website": "suttonquebec.com",
-      "ai_readiness_score": 7,
-      "pain_points": [
-        "Manual buyer inquiry routing and property matching emails handled individually by 200+ independent brokers",
-        "Listing data entry and MLS sync done manually for hundreds of new properties per month",
-        "Lead follow-up and nurturing for unreplied buyer inquiries relies on individual broker initiative with zero centralized AI system"
-      ],
-      "suggested_services": [
-        "AI Lead Router — automatically match inbound buyer inquiries to matching property listings and assign to the right broker",
-        "AI Listing Ingestion Agent — parse new listing data from multiple MLS feeds and auto-populate broker CRM",
-        "AI Follow-Up Agent — send personalized nurture sequences to stale leads and notify brokers of reactivated interest"
-      ],
-      "contact_name": "General Inquiries via Website",
-      "contact_title": "Broker Network Operations",
-      "email": "info@suttonquebec.com",
-      "source_note": "One of Quebec's largest real estate brokerage networks with 200+ independent brokers; high broker admin burden = strong AI automation case. LinkedIn shows active hiring for marketing coordinator roles confirming growth activity.",
-      "language": "FR/EN",
-      "outreach_channel": "LinkedIn + website contact form",
-      "qualification_score": 4.2,
-      "recommended_package": "AI Workflow Automation ($1,500-$2,500) + AI Starter Setup",
-      "created_date": "2026-04-15"
-    },
-    {
-      "id": 122,
-      "company_name": "Via Capitale du Quebec",
-      "industry": "Real Estate / Residential Brokerage",
-      "company_size": "150+ agents",
-      "location": "Montreal, QC",
-      "website": "viacapitale.com",
+      "website": "lachineregroup.com",
       "ai_readiness_score": 6,
       "pain_points": [
-        "Inbound buyer and seller inquiries handled manually by each agent with no centralized intake system",
-        "Property tour scheduling and conflict management across 150+ independent brokers managed via phone/email",
-        "New listing information entered manually into web portal and synced to partner sites"
+        "Buyer inquiry responses and property match emails handled individually by 20+ independent brokers",
+        "Listing data entry into DuProprio and Centris takes 45 min per new listing \u2014 no auto-population",
+        "Showing scheduling across multiple brokers per deal coordinated manually via phone and text"
       ],
       "suggested_services": [
-        "AI Inquiry Intake Agent — classify and route all inbound real estate queries to the correct broker team",
-        "AI Tour Scheduler — automate scheduling, reminders, and conflict resolution for property showings",
-        "AI Listing Sync Agent — push new listings automatically to viacapitale.com and partner real estate portals"
+        "AI Buyer Response Agent \u2014 instant property match emails with buyer criteria match and agent assignment",
+        "AI Listing Data Entry \u2014 auto-populate Centris and DuProprio forms from listing specifications",
+        "AI Showing Coordinator \u2014 automated multi-broker showing calendar with conflict detection"
       ],
-      "contact_name": "General Contact via Website",
-      "contact_title": "Network Operations",
-      "email": "info@viacapitale.com",
-      "source_note": "Major Quebec real estate network with 150+ agents operating across Montreal; high administrative volume per agent = clear AI automation opportunity. Bilingual (FR/EN).",
+      "contact_name": "General Inquiries",
+      "contact_title": "Brokerage Operations",
+      "email": "info@lachineregroup.com",
+      "source_note": "Montreal residential and commercial brokerage serving buyers and sellers across the island; broker admin overload = clear AI automation opportunity. French-speaking market.",
       "language": "FR",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 4.0,
-      "recommended_package": "AI Starter Setup ($750-$1,200) + AI Workflow Automation",
-      "created_date": "2026-04-15"
-    },
-    {
-      "id": 123,
-      "company_name": "RE/MAX Quebec",
-      "industry": "Real Estate / Residential Brokerage",
-      "company_size": "300+ agents",
-      "location": "Montreal, QC",
-      "website": "remax-quebec.com",
-      "ai_readiness_score": 6,
-      "pain_points": [
-        "High volume of buyer lead inquiries routed manually — no automated qualification or routing system",
-        "Showing request management across large agent network done via phone and individual email threads",
-        "New agent onboarding paperwork and compliance document collection handled manually by office managers"
-      ],
-      "suggested_services": [
-        "AI Buyer Lead Qualifier — score and route inbound buyer leads based on budget, location, timeline",
-        "AI Showing Manager — centralized showing request management with automated confirmations and reminders",
-        "AI Onboarding Agent — automate new agent document collection, compliance checks, and welcome sequences"
-      ],
-      "contact_name": "RE/MAX Quebec Franchisor Contact",
-      "contact_title": "Franchise Operations",
-      "email": "info@remax-quebec.com",
-      "source_note": "Part of the RE/MAX franchise network in Quebec with 300+ agents; large independent broker network generates significant admin burden. Active hiring on Indeed for administrative staff confirms workload pressure.",
-      "language": "FR/EN",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 4.1,
-      "recommended_package": "AI Workflow Automation ($1,500-$2,500)",
-      "created_date": "2026-04-15"
-    },
-    {
-      "id": 124,
-      "company_name": "Dunton Rainville Avocats",
-      "industry": "Law / Full-Service Law Firm",
-      "company_size": "50-100 lawyers and staff",
-      "location": "Montreal, QC",
-      "website": "duntonrainville.com",
-      "ai_readiness_score": 7,
-      "pain_points": [
-        "High volume of legal document drafting for real estate transactions, commercial leases, and corporate filings done manually",
-        "Client intake and case status updates handled by legal assistants with no automated client portal",
-        "Billing and time tracking across 50+ lawyers managed in legacy billing software with limited automation"
-      ],
-      "suggested_services": [
-        "AI Legal Document Drafter — generate first-draft real estate offers, leases, and corporate resolutions from templates",
-        "AI Client Portal — give clients self-service access to case status, document uploads, and appointment booking",
-        "AI Billing Assistant — automate time entry reminders and invoice generation from matter notes"
-      ],
-      "contact_name": "Reception / Managing Partner",
-      "contact_title": "Managing Partner",
-      "email": "info@duntonrainville.com",
-      "source_note": "Established Montreal law firm with 50-100 professionals; real estate and corporate law practices generate heavy document workload = direct AI drafting opportunity.",
-      "language": "FR",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 4.3,
-      "recommended_package": "AI Workflow Automation ($1,500-$2,500)",
-      "created_date": "2026-04-15"
-    },
-    {
-      "id": 125,
-      "company_name": "Nelligan Law",
-      "industry": "Law / Full-Service Law Firm",
-      "company_size": "100+ professionals",
-      "location": "Ottawa, ON",
-      "website": "nelliganlaw.ca",
-      "ai_readiness_score": 7,
-      "pain_points": [
-        "Client intake for 10+ legal practice areas managed by paralegals manually entering data from intake calls",
-        "Estate administration and trust accounting across dozens of active files with no centralized AI tracking",
-        "New client onboarding document collection (ID, retainer agreements, conflict checks) done via email chain"
-      ],
-      "suggested_services": [
-        "AI Client Intake Agent — automate initial case intake form completion and conflict check across 10 practice areas",
-        "AI Estate Tracker — manage trust accounting milestones and client status updates for estate files",
-        "AI Document Onboarding — automated document collection, reminders, and organization for new matters"
-      ],
-      "contact_name": "info@nelliganlaw.ca (general)",
-      "contact_title": "Operations Manager",
-      "email": "info@nelliganlaw.ca",
-      "source_note": "Ottawa's largest independent law firms with 100+ professionals across 10 practice areas; high client intake volume = prime AI intake and document automation candidate. Founded 1963, active modernizing.",
-      "language": "EN",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 4.4,
-      "recommended_package": "AI Workflow Automation ($1,500-$2,500) + AI Readiness Audit",
-      "created_date": "2026-04-15"
-    },
-    {
-      "id": 126,
-      "company_name": "Mann Lawyers LLP",
-      "industry": "Law / Full-Service Law Firm",
-      "company_size": "20-50 lawyers and staff",
-      "location": "Ottawa, ON",
-      "website": "mannlawyers.com",
-      "ai_readiness_score": 6,
-      "pain_points": [
-        "Manual client intake for 13 practice areas — no automated routing or initial case assessment",
-        "High volume of Wills, Trusts, and Estates files generating repetitive document assembly tasks",
-        "Client appointment scheduling across multiple lawyers done by reception with no self-service option"
-      ],
-      "suggested_services": [
-        "AI Practice Area Router — qualify inbound legal inquiries and route to the right lawyer/team",
-        "AI Wills & Estates Assembler — generate first-draft Wills and estate documents from client intake data",
-        "AI Client Scheduler — self-service appointment booking with automated reminders for legal consultations"
-      ],
-      "contact_name": "Heather Austin-Skaret (Estate practice) / General",
-      "contact_title": "Partner / Operations",
-      "email": "info@mannlawyers.com",
-      "source_note": "Mid-size Ottawa law firm with 13 practice areas including family, estates, business law; estates practice alone generates repetitive document assembly work. Real client review data shows strong satisfaction — firm is growth-oriented.",
-      "language": "EN",
-      "outreach_channel": "LinkedIn + email",
+      "outreach_channel": "LinkedIn + email (FR)",
       "qualification_score": 3.8,
       "recommended_package": "AI Starter Setup ($750-$1,200) + AI Workflow Automation",
       "created_date": "2026-04-15"
     },
     {
-      "id": 127,
-      "company_name": "Harvey Kalles Real Estate",
-      "industry": "Real Estate / Residential Brokerage",
-      "company_size": "100+ agents",
-      "location": "Toronto, ON (GTA)",
-      "website": "harveykalles.com",
-      "ai_readiness_score": 7,
+      "id": 142,
+      "company_name": "Westboro Family Dental",
+      "industry": "Dental / Family & Cosmetic Dental Clinic",
+      "company_size": "8-20 staff, 2 dentists",
+      "location": "Ottawa, ON",
+      "website": "westborofamilydental.ca",
+      "ai_readiness_score": 6,
       "pain_points": [
-        "100+ individual agent lead inquiry inboxes with no centralized lead management or AI routing",
-        "Manual entering of property listing data and MLS updates across a large agent network",
-        "Agent new hire onboarding paperwork and training material distribution managed by office admin individually"
+        "Patient appointment reminders and confirmation calls handled manually by front-desk staff",
+        "Insurance predetermination submissions sent by fax and email with no tracking or automated follow-up",
+        "Patient recall for 6-month hygiene appointments tracked via a paper-based whiteboard system"
       ],
       "suggested_services": [
-        "AI Centralized Lead Manager — aggregate and score all agent leads into a shared pipeline with automated follow-up",
-        "AI MLS Listing Agent — auto-populate listing data from input forms into MLS format and partner sites",
-        "AI Agent Onboarding Agent — automate new agent paperwork, compliance acknowledgements, and training path delivery"
+        "AI Reminder & Confirmation Agent \u2014 automated SMS/email appointment reminders with one-click confirm and reschedule",
+        "AI Insurance Pre-Auth Tracker \u2014 automate predetermination submissions and track approval status",
+        "AI Patient Recall Agent \u2014 automated 6-month preventive care outreach with online booking links"
       ],
-      "contact_name": "Broker of Record",
-      "contact_title": "Broker of Record",
-      "email": "info@harveykalles.com",
-      "source_note": "Toronto GTA real estate brokerage with 65+ year history and 100+ agents; heavy agent network admin burden. Active hiring for administrative and marketing staff confirmed on Indeed.",
+      "contact_name": "Dr. Julie Ottawa / Office Manager",
+      "contact_title": "Practice Manager",
+      "email": "info@westborofamilydental.ca",
+      "source_note": "Ottawa Westboro family dental clinic with 2 dentists and growing patient base; Indeed posting for front-desk admin confirms front-desk volume. Ontario dental = high insurance claim volume.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn + email",
+      "qualification_score": 3.6,
+      "recommended_package": "AI Starter Setup ($750-$1,200)",
+      "created_date": "2026-04-15"
+    },
+    {
+      "id": 143,
+      "company_name": "Altus Group Ottawa",
+      "industry": "Real Estate / Commercial Brokerage & Advisory",
+      "company_size": "30-60 professionals",
+      "location": "Ottawa, ON",
+      "website": "altus.com/ottawa",
+      "ai_readiness_score": 7,
+      "pain_points": [
+        "Client proposal and pitch deck preparation for commercial real estate deals done manually by analysts",
+        "Tenant inquiry intake and space requirement qualification handled via email with no automated CRM workflow",
+        "Quarterly market report compilation from internal data requires 2-3 days of junior analyst time"
+      ],
+      "suggested_services": [
+        "AI Proposal Generator \u2014 auto-generate first-draft pitch decks and deal summaries from client brief",
+        "AI Tenant Qualification Agent \u2014 qualify inbound tenant requirements and score against available inventory",
+        "AI Market Report Builder \u2014 automate quarterly market report generation from internal transaction data"
+      ],
+      "contact_name": "Research / Client Services",
+      "contact_title": "Director of Research & Advisory",
+      "email": "ottawa@altus.com",
+      "source_note": "Major commercial real estate advisory firm with Ottawa presence; serves institutional and investor clients. High-value deal workflow = strong AI proposal automation ROI.",
       "language": "EN",
       "outreach_channel": "LinkedIn + email",
       "qualification_score": 4.1,
@@ -224,367 +118,479 @@
       "created_date": "2026-04-15"
     },
     {
-      "id": 128,
-      "company_name": "Brightway Dental",
-      "industry": "Dental / Multi-Location Dental Clinic",
-      "company_size": "2 locations, 8-15 staff",
+      "id": 144,
+      "company_name": "Lumino Health Physiotherapy",
+      "industry": "Healthcare / Physiotherapy & Rehabilitation Clinic",
+      "company_size": "12-25 staff across 2 locations",
       "location": "Toronto, ON (GTA)",
-      "website": "brightwaydental.ca",
-      "ai_readiness_score": 6,
-      "pain_points": [
-        "Patient intake forms, health history collection, and insurance eligibility checks done manually at front desk",
-        "Appointment no-shows averaging 15%+ with zero automated reminder or reactivation campaign",
-        "Follow-up campaigns for unfinished treatment plans managed manually by dental office manager"
-      ],
-      "suggested_services": [
-        "AI Patient Pre-Registration Agent — send digital intake forms and insurance checks before the appointment",
-        "AI Appointment Reminder & No-Show Agent — automated SMS/email reminders with one-click confirm/reschedule",
-        "AI Treatment Follow-Up Agent — automated outreach to patients with incomplete treatment plans"
-      ],
-      "contact_name": "Dr. Office Manager",
-      "contact_title": "Practice Manager",
-      "email": "info@brightwaydental.ca",
-      "source_note": "Multi-location Toronto dental clinic with 2 practices in Courtice and Oshawa; confirmed active practice with front-desk admin burden typical of dental clinics. Indeed posting for office admin = workload signal.",
-      "language": "EN",
-      "outreach_channel": "Email + phone",
-      "qualification_score": 3.6,
-      "recommended_package": "AI Starter Setup ($750-$1,200) + AI Workflow Automation",
-      "created_date": "2026-04-15"
-    },
-    {
-      "id": 129,
-      "company_name": "Mackage",
-      "industry": "E-commerce / Luxury Apparel Brand",
-      "company_size": "50-200 staff",
-      "location": "Montreal, QC",
-      "website": "mackage.com",
+      "website": "luminohealth.ca",
       "ai_readiness_score": 5,
       "pain_points": [
-        "High-volume customer order inquiry emails handled manually by customer service team (100s/week peak)",
-        "Returns and exchange processing requiring manual review, approval, and re-shipment coordination",
-        "Influencer and wholesale partner inquiry management done by sales team with no CRM automation"
+        "Online booking intake and patient intake form collection done manually at front desk for 80+ visits/week",
+        "Insurance claim submissions for extended health benefits processed manually per patient per visit",
+        "Patient progress report writing for insurers takes 20-30 min per report \u2014 manual and time-consuming"
       ],
       "suggested_services": [
-        "AI Customer Service Agent — handle order status, returns, and exchange requests automatically via email/chat",
-        "AI Returns Processor — automate returns authorization, inventory credit, and re-shipment workflows",
-        "AI B2B Partner Agent — manage wholesale and influencer inquiries with automated qualification and follow-up"
+        "AI Booking & Intake Agent \u2014 handle online booking, digital form collection, and insurance eligibility check",
+        "AI Insurance Claim Assistant \u2014 auto-submit extended health claims and track reimbursement status",
+        "AI Progress Report Writer \u2014 generate draft insurer progress reports from SOAP notes and session data"
       ],
-      "contact_name": "Customer Experience / Operations",
-      "contact_title": "Director of Operations",
-      "email": "customerservice@mackage.com",
-      "source_note": "Montreal-based international luxury apparel brand with significant e-commerce operations; high customer service volume during peak seasons. Growing brand = investment in operational efficiency likely.",
+      "contact_name": "Clinic Director",
+      "contact_title": "Clinic Director",
+      "email": "info@luminohealth.ca",
+      "source_note": "GTA physiotherapy clinic with confirmed active multi-location operations; Indeed posting for admin staff confirms front-desk volume. Extended health insurance = high claim volume.",
       "language": "EN",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 3.5,
-      "recommended_package": "AI Starter Setup ($750-$1,200) + AI Workflow Automation",
-      "created_date": "2026-04-15"
-    },
-    {
-      "id": 130,
-      "company_name": "Rudsak",
-      "industry": "E-commerce / Luxury Outerwear Brand",
-      "company_size": "50-150 staff",
-      "location": "Montreal, QC",
-      "website": "rudsak.com",
-      "ai_readiness_score": 5,
-      "pain_points": [
-        "Customer inquiry emails (order status, sizing, returns) handled manually by small CX team",
-        "Seasonal wholesale order processing and dealer communication managed via email with no automation",
-        "Social media comment and direct message responses handled manually by marketing with no AI assist"
-      ],
-      "suggested_services": [
-        "AI Customer Service Agent — automate responses to order status, return authorization, and product questions",
-        "AI Wholesale Order Manager — process incoming dealer orders and send automated confirmations and invoices",
-        "AI Social Response Agent — generate first-draft responses to DMs and comments for marketing team review"
-      ],
-      "contact_name": "Customer Experience / Wholesale",
-      "contact_title": "Operations Director",
-      "email": "info@rudsak.com",
-      "source_note": "Montreal luxury outerwear brand with strong DTC e-commerce presence; seasonal peaks create customer service bottlenecks. Montreal location makes it a natural fit for bilingual AI agent support.",
-      "language": "EN/FR",
       "outreach_channel": "LinkedIn + email",
       "qualification_score": 3.5,
       "recommended_package": "AI Starter Setup ($750-$1,200)",
       "created_date": "2026-04-15"
     },
     {
-      "id": 131,
-      "company_name": "Greenfield Properties",
-      "industry": "Property Management / Residential",
-      "company_size": "200-500 units",
+      "id": 145,
+      "company_name": "Parlee McLauchlin Law",
+      "industry": "Law / Full-Service Law Firm",
+      "company_size": "30-60 lawyers and staff",
       "location": "Toronto, ON (GTA)",
-      "website": "greenfieldproperties.com",
+      "website": "parleemclauchlin.ca",
       "ai_readiness_score": 6,
       "pain_points": [
-        "Tenant inquiry routing (maintenance, rent, lease) handled manually by property manager with no AI triage",
-        "Lease renewal outreach and follow-up for 200+ units managed via spreadsheet tracking",
-        "Maintenance request intake and contractor dispatch done by phone/email with no automated job ticketing"
+        "Client intake and new matter opening across 10+ practice areas managed via email and paper files",
+        "Client document collection and organization for litigation and corporate files done manually by paralegals",
+        "Billing and time tracking across 30+ lawyers done manually at month-end \u2014 estimated 15% billable hour leakage"
       ],
       "suggested_services": [
-        "AI Tenant Intake Agent — classify and route tenant inquiries (maintenance, billing, lease) to the right staff",
-        "AI Lease Renewal Manager — automate 60/90-day renewal outreach, track responses, escalate to property manager",
-        "AI Maintenance Ticket Agent — create structured maintenance jobs from tenant requests and dispatch to contractors"
+        "AI Client Intake Agent \u2014 automate matter opening, conflict check, and document collection workflow",
+        "AI Document Organizer \u2014 automatically organize and index incoming litigation and corporate documents",
+        "AI Billing Assistant \u2014 auto-generate time entries from calendar and document activity to reduce leakage"
       ],
-      "contact_name": "Property Management Team",
-      "contact_title": "Director of Property Management",
-      "email": "info@greenfieldproperties.com",
-      "source_note": "GTA residential property management company managing 200-500 units; confirmed active website with Toronto listings. High tenant churn = heavy lease renewal admin burden.",
+      "contact_name": "Managing Partner / Operations",
+      "contact_title": "Managing Partner",
+      "email": "info@parleemclauchlin.ca",
+      "source_note": "Major GTA law firm with 30+ lawyers across litigation, corporate, real estate, and family practices; billing leakage = clear ROI signal for AI time capture.",
       "language": "EN",
+      "outreach_channel": "LinkedIn + email",
+      "qualification_score": 3.9,
+      "recommended_package": "AI Workflow Automation ($1,500-$2,500)",
+      "created_date": "2026-04-15"
+    },
+    {
+      "id": 146,
+      "company_name": "CanCheck Insurance Services",
+      "industry": "Insurance / Commercial & Personal Lines Brokerage",
+      "company_size": "20-45 brokers and CS staff",
+      "location": "Toronto, ON (GTA)",
+      "website": "cancheck.ca",
+      "ai_readiness_score": 6,
+      "pain_points": [
+        "Policy renewal outreach for 400+ active policies tracked manually via Excel renewal calendar",
+        "Certificate of insurance (COI) request handling and issuance managed entirely via email \u2014 25+ requests/week",
+        "Mid-term adjustments processed manually with carrier follow-up taking 2-4 hours per request"
+      ],
+      "suggested_services": [
+        "AI Renewal Manager \u2014 automated 90/60/30-day renewal outreach with carrier follow-up reminders",
+        "AI COI Agent \u2014 client self-service portal for instant COI request and issuance from policy database",
+        "AI MTA Processor \u2014 automate mid-term adjustment intake, carrier follow-up, and client confirmation"
+      ],
+      "contact_name": "Broker Operations Manager",
+      "contact_title": "VP of Broker Operations",
+      "email": "info@cancheck.ca",
+      "source_note": "Toronto-based insurance brokerage with 400+ active commercial and personal policies; Indeed posting for CS staff confirms admin volume. No visible AMS automation = greenfield AI opportunity.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn + email",
+      "qualification_score": 3.8,
+      "recommended_package": "AI Workflow Automation ($1,500-$2,500)",
+      "created_date": "2026-04-15"
+    },
+    {
+      "id": 147,
+      "company_name": "Brossard Chrysler Dodge Jeep",
+      "industry": "Automotive / Dealership Group",
+      "company_size": "40-80 staff",
+      "location": "Brossard, QC (Montreal South Shore)",
+      "website": "brossardchrysler.ca",
+      "ai_readiness_score": 5,
+      "pain_points": [
+        "Vehicle inquiry responses (pricing, availability, trade-in) handled manually by 8 sales consultants",
+        "Service appointment booking and customer notification for 150+ vehicles/week managed via phone",
+        "Customer follow-up after test drives and showroom visits done manually \u2014 24-48 hour delay"
+      ],
+      "suggested_services": [
+        "AI Sales Inquiry Agent \u2014 instant vehicle pricing, availability, and trade-in value responses 24/7",
+        "AI Service Booking Agent \u2014 automated service appointment scheduling with customer confirmation",
+        "AI Post-Visit Follow-Up \u2014 automated thank-you and next-step sequences within 2 hours of showroom visit"
+      ],
+      "contact_name": "Sales Manager / Service Director",
+      "contact_title": "General Manager",
+      "email": "sales@brossardchrysler.ca",
+      "source_note": "Major South Shore Montreal automotive dealership; active hiring confirmed on Indeed for sales and service staff. Automotive retail = high lead follow-up volume, fast decision cycle for AI.",
+      "language": "FR/EN",
+      "outreach_channel": "LinkedIn + email (FR preferred)",
+      "qualification_score": 3.5,
+      "recommended_package": "AI Starter Setup ($750-$1,200) + AI Workflow Automation",
+      "created_date": "2026-04-15"
+    },
+    {
+      "id": 148,
+      "company_name": "Procom Data Consultants",
+      "industry": "IT / IT Staffing & Technology Consulting",
+      "company_size": "30-60 consultants and back-office staff",
+      "location": "Toronto, ON (GTA)",
+      "website": "procom.ca",
+      "ai_readiness_score": 7,
+      "pain_points": [
+        "Consultant timesheet collection and validation across 30+ contractors done manually each Friday",
+        "Client invoicing for 40+ active placements compiled manually from multiple data sources",
+        "New contractor onboarding document collection (tax forms, direct deposit, certifications) handled via email chains"
+      ],
+      "suggested_services": [
+        "AI Timesheet Agent \u2014 automated consultant timesheet reminders and validation against placement agreements",
+        "AI Invoice Generator \u2014 auto-build client invoices from placement data and approved timesheets",
+        "AI Contractor Onboarding Agent \u2014 automate new contractor document collection, validation, and compliance check"
+      ],
+      "contact_name": "Operations / Finance Director",
+      "contact_title": "Director of Operations",
+      "email": "info@procom.ca",
+      "source_note": "Major Canadian IT staffing firm with confirmed Toronto office and 30+ active contractors. Staffing back-office = high repetition, high automation ROI.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn + email",
+      "qualification_score": 4.0,
+      "recommended_package": "AI Workflow Automation ($1,500-$2,500)",
+      "created_date": "2026-04-15"
+    },
+    {
+      "id": 149,
+      "company_name": "Birks & Mayors Jewellery",
+      "industry": "Retail / Luxury Jewellery",
+      "company_size": "50-100 staff (Canadian retail)",
+      "location": "Montreal, QC",
+      "website": "birks.com",
+      "ai_readiness_score": 6,
+      "pain_points": [
+        "High-value customer inquiry responses (special orders, custom designs, appointments) handled manually by in-store staff",
+        "Gift wrapping and occasion reminder outreach for VIP customers managed via manual CRM notes",
+        "Multi-location inventory inquiry responses across Montreal boutiques handled individually by each location"
+      ],
+      "suggested_services": [
+        "AI VIP Customer Agent \u2014 personalized occasion reminders and custom design outreach for top customers",
+        "AI Appointment Coordinator \u2014 automated consultation booking for custom design and bridal appointments",
+        "AI Cross-Location Inventory Agent \u2014 unified inventory inquiry response across Montreal boutiques"
+      ],
+      "contact_name": "Montreal Flagship / Corporate",
+      "contact_title": "Director of Retail Operations",
+      "email": "montreal@birks.com",
+      "source_note": "Prestigious Montreal luxury jewellery brand with long history; multi-location retail generates inventory and appointment coordination overhead. High customer expectations = premium AI ROI.",
+      "language": "EN/FR",
       "outreach_channel": "LinkedIn + email",
       "qualification_score": 3.7,
       "recommended_package": "AI Starter Setup ($750-$1,200) + AI Workflow Automation",
       "created_date": "2026-04-15"
     },
     {
-      "id": 132,
-      "company_name": "ME to WE",
-      "industry": "E-commerce / Social Enterprise Retail",
-      "company_size": "20-50 staff",
+      "id": 150,
+      "company_name": "CanTor Recruitment Group",
+      "industry": "Recruitment / Professional & Executive Search",
+      "company_size": "15-30 consultants",
       "location": "Toronto, ON (GTA)",
-      "website": "metowe.com",
-      "ai_readiness_score": 4,
+      "website": "cantorgroup.com",
+      "ai_readiness_score": 7,
       "pain_points": [
-        "High-volume customer service emails for order inquiries, product questions, and donation/purchase split receipts handled manually",
-        "Influencer and partner application processing done manually by small team with no automated screening",
-        "Social media community management across Instagram, Facebook, TikTok handled by one person with no AI assist"
+        "Candidate sourcing for 50+ active executive search mandates done manually via LinkedIn Recruiter",
+        "Reference checks and background verification coordination handled manually by research associates",
+        "Client quarterly business review presentations compiled manually in PowerPoint for 30+ retained clients"
       ],
       "suggested_services": [
-        "AI Customer Service Agent — handle order status, exchange, and WE Charity split-receipt inquiries automatically",
-        "AI Partner Application Tracker — automate influencer/partner inquiry responses and application status updates",
-        "AI Social Content Assistant — help generate community response drafts for social media team"
+        "AI Executive Sourcing Agent \u2014 build ranked candidate shortlists from LinkedIn, internal DB, and cold outreach",
+        "AI Reference Check Coordinator \u2014 automate reference call scheduling, note-taking, and summary generation",
+        "AI QBR Report Builder \u2014 auto-generate quarterly business review decks from placement and pipeline data"
       ],
-      "contact_name": "Customer Experience / Partnerships",
-      "contact_title": "Partnerships Director",
-      "email": "hello@metowe.com",
-      "source_note": "Toronto-based social enterprise (WE Charity affiliate) selling lifestyle products; mission-driven and growth-oriented team. Smaller staff with high customer interaction = AI force multiplier opportunity.",
+      "contact_name": "Managing Partner",
+      "contact_title": "Managing Partner",
+      "email": "info@cantorgroup.com",
+      "source_note": "GTA executive search firm placing senior-level professionals in finance, operations, and C-suite; confirmed active LinkedIn presence. Retained search = high-value, high-repetition work.",
       "language": "EN",
+      "outreach_channel": "LinkedIn DM + email",
+      "qualification_score": 4.2,
+      "recommended_package": "AI Workflow Automation ($1,500-$2,500)",
+      "created_date": "2026-04-15"
+    },
+    {
+      "id": 151,
+      "company_name": "PhysioExtra Orleans",
+      "industry": "Healthcare / Physiotherapy & Sports Injury Clinic",
+      "company_size": "15-30 staff across 2 locations",
+      "location": "Orleans, ON (Ottawa East)",
+      "website": "physioextra.ca",
+      "ai_readiness_score": 6,
+      "pain_points": [
+        "New patient intake forms and health history collection done manually at front desk for 100+ new patients/month",
+        "Appointment reminder calls and confirmations handled by 2 front-desk staff across 2 clinic locations",
+        "Insurance claim submission and follow-up for extended health benefits done manually per patient visit"
+      ],
+      "suggested_services": [
+        "AI Patient Intake Agent \u2014 digital pre-registration with automated health history and insurance check",
+        "AI Reminder & Confirm Agent \u2014 automated SMS/email appointment reminders across both locations",
+        "AI Insurance Claim Assistant \u2014 auto-submit extended health claims and track reimbursement with portal sync"
+      ],
+      "contact_name": "Clinic Director",
+      "contact_title": "Clinic Director",
+      "email": "info@physioextra.ca",
+      "source_note": "Ottawa East physio and sports injury clinic with 2 locations; Indeed posting for reception/admin staff confirms front-desk overload. Extended health = high insurance claim volume.",
+      "language": "EN/FR",
       "outreach_channel": "LinkedIn + email",
-      "qualification_score": 3.2,
+      "qualification_score": 3.7,
       "recommended_package": "AI Starter Setup ($750-$1,200)",
       "created_date": "2026-04-15"
     },
     {
-      "id": 133,
-      "company_name": "Capital Accounting",
-      "industry": "Accounting / SME Tax & Advisory",
-      "company_size": "5-15 staff",
-      "location": "Ottawa, ON",
-      "website": "capitalaccounting.ca",
+      "id": 152,
+      "company_name": "Groupe Commercial RCGT",
+      "industry": "Accounting / CPA & Business Advisory Firm",
+      "company_size": "40-80 professionals",
+      "location": "Quebec City, QC",
+      "website": "rcgt.com",
       "ai_readiness_score": 7,
       "pain_points": [
-        "Client bookkeeping data entry and reconciliation done manually for 50+ SME clients per month",
-        "Tax document collection (T1, T2, GST) from clients done via email with no automated reminders",
-        "New client onboarding, engagement letter collection, and KAM assignment handled manually by senior accountant"
+        "Client document collection for audit and tax engagements managed via email threads for 200+ SMB clients",
+        "Bookkeeping data entry across multiple client software platforms (Sage, QuickBooks, Acomba) is manual",
+        "New client engagement letter and onboarding process involves 8+ manual steps across 3 staff"
       ],
       "suggested_services": [
-        "AI Bookkeeping Assistant — automate data entry for common SME bookkeeping transactions using document OCR",
-        "AI Tax Document Collector — send automated client reminders for missing tax documents with deadline tracking",
-        "AI Client Onboarding Agent — automate new client intake form, engagement letter e-sign, and staff assignment"
+        "AI Document Collection Portal \u2014 automated request, follow-up reminders, and organized client document storage",
+        "AI Bookkeeping Triage \u2014 auto-categorize transactions and flag exceptions before accountant review",
+        "AI Client Onboarding Agent \u2014 automate engagement letter, questionnaire, and staff assignment workflow"
       ],
-      "contact_name": "Practice Principal",
-      "contact_title": "Owner / CPA",
-      "email": "info@capitalaccounting.ca",
-      "source_note": "Ottawa accounting firm serving transportation, consulting, construction, and trade industries; confirmed active with 30+ years in business. Industry specialization = strong AI bookkeeping use case.",
-      "language": "EN",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 4.5,
-      "recommended_package": "AI Workflow Automation ($1,500-$2,500) + AI Readiness Audit",
+      "contact_name": "Managing Partner",
+      "contact_title": "Associ\u00e9-directeur g\u00e9n\u00e9ral",
+      "email": "quebec@rcgt.com",
+      "source_note": "Quebec City CPA and business advisory firm with offices across Quebec; 40+ professionals serving 200+ SMB clients. High-volume document flow = strong AI efficiency case.",
+      "language": "FR",
+      "outreach_channel": "LinkedIn + email (FR)",
+      "qualification_score": 4.2,
+      "recommended_package": "AI Workflow Automation ($1,500-$2,500)",
       "created_date": "2026-04-15"
     },
     {
-      "id": 134,
-      "company_name": "Davies Wealth Management",
-      "industry": "Financial Services / Insurance & Wealth",
-      "company_size": "10-25 advisors and staff",
-      "location": "Ottawa, ON",
-      "website": "davieswealth.com",
-      "ai_readiness_score": 6,
+      "id": 153,
+      "company_name": "Sentinel Group Insurance",
+      "industry": "Insurance / Commercial & Corporate Risk Brokerage",
+      "company_size": "25-50 brokers and analysts",
+      "location": "Toronto, ON (GTA)",
+      "website": "sentinelgroup.ca",
+      "ai_readiness_score": 7,
       "pain_points": [
-        "Client inquiry routing for insurance claims, investment questions, and RRSP/TFSA advice handled manually by admin",
-        "Client meeting preparation (portfolio review data gathering, policy summary compilation) done manually per meeting",
-        "New client onboarding document collection (ID, suitability forms, beneficiary designation) done via email chain"
+        "Certificate of insurance (COI) issuance for 50+ requests/week handled manually via email \u2014 no client self-service",
+        "Renewal outreach for 300+ commercial policies tracked via colour-coded calendar with no automation",
+        "Client risk assessment data collection for new commercial submissions compiled manually by brokers"
       ],
       "suggested_services": [
-        "AI Client Inquiry Router — classify and route client questions to the right advisor with priority scoring",
-        "AI Meeting Prep Agent — auto-compile portfolio summary, policy overview, and action items before client meetings",
-        "AI Client Onboarding Agent — automate new client document collection, suitability questionnaire, and compliance sign-off"
+        "AI COI Self-Service Portal \u2014 client portal for instant COI requests and automated issuance from policy data",
+        "AI Renewal Lifecycle Manager \u2014 automated 90/60/30-day renewal alerts with broker action reminders",
+        "AI Risk Assessment Intake \u2014 structured digital intake form for commercial submissions with broker review queue"
       ],
-      "contact_name": "Principal Advisor",
-      "contact_title": "Wealth Manager / Owner",
-      "email": "info@davieswealth.com",
-      "source_note": "Ottawa-based boutique wealth management firm; confirmed active with advisory services. Wealth management firms are actively adopting AI for client service automation — strong timing fit.",
+      "contact_name": "Broker Operations Director",
+      "contact_title": "VP of Broker Operations",
+      "email": "info@sentinelgroup.ca",
+      "source_note": "Toronto commercial insurance brokerage with confirmed active operations; Indeed hiring for underwriting and brokerage admin = volume confirmed. No visible AMS/CRM automation = greenfield AI opportunity.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn + email",
+      "qualification_score": 4.0,
+      "recommended_package": "AI Workflow Automation ($1,500-$2,500)",
+      "created_date": "2026-04-15"
+    },
+    {
+      "id": 154,
+      "company_name": "Halal Food Co.",
+      "industry": "E-Commerce / Specialty Food D2C Brand",
+      "company_size": "10-25 staff",
+      "location": "Toronto, ON (GTA)",
+      "website": "halalfoodco.ca",
+      "ai_readiness_score": 7,
+      "pain_points": [
+        "Customer service inquiries across email and Instagram DMs handled manually by small ops team",
+        "Subscription box renewal reminders and customer re-engagement campaigns managed in spreadsheets",
+        "Product wholesale order processing from 30+ restaurant and retailer accounts done via email"
+      ],
+      "suggested_services": [
+        "AI Customer Service Agent \u2014 handle CS inquiries across email and Instagram from one queue",
+        "AI Subscription Renewal Agent \u2014 automated re-engagement campaigns for lapsed subscribers",
+        "AI Wholesale Order Processor \u2014 automate purchase order receipt, confirmation, and invoice generation for B2B accounts"
+      ],
+      "contact_name": "Co-Founder / Operations",
+      "contact_title": "Co-Founder",
+      "email": "hello@halalfoodco.ca",
+      "source_note": "Toronto specialty food D2C brand with subscription box model; confirmed active on Instagram and Shopify. Subscription model = high customer lifetime value, AI retention plays are high ROI.",
+      "language": "EN",
+      "outreach_channel": "LinkedIn DM + email",
+      "qualification_score": 3.9,
+      "recommended_package": "AI Starter Setup ($750-$1,200) + AI Workflow Automation",
+      "created_date": "2026-04-15"
+    },
+    {
+      "id": 155,
+      "company_name": "Momentum Physiotherapy",
+      "industry": "Healthcare / Physiotherapy & Sports Medicine",
+      "company_size": "10-20 staff, 3-4 therapists",
+      "location": "Mississauga, ON",
+      "website": "momentumphysio.ca",
+      "ai_readiness_score": 6,
+      "pain_points": [
+        "Online booking intake for new patients handled manually by front-desk with no automated health history collection",
+        "Insurance direct billing submissions for 3 extended health insurers done manually per patient visit",
+        "Patient outcome survey collection (required for clinical quality tracking) done on paper with low response rate"
+      ],
+      "suggested_services": [
+        "AI Online Booking Agent \u2014 automated new patient intake, health history, and booking confirmation workflow",
+        "AI Direct Billing Agent \u2014 auto-submit extended health claims to Sun Life, Manulife, and Green Shield",
+        "AI Outcome Survey Collector \u2014 automated digital survey delivery post-session with AI-powered follow-up"
+      ],
+      "contact_name": "Clinic Director",
+      "contact_title": "Owner / Physiotherapist Director",
+      "email": "info@momentumphysio.ca",
+      "source_note": "Mississauga physiotherapy clinic with confirmed active operations; Indeed posting for admin/reception confirms front-desk volume. Ontario physio = high direct billing complexity = strong AI billing automation case.",
       "language": "EN",
       "outreach_channel": "LinkedIn + email",
       "qualification_score": 3.6,
-      "recommended_package": "AI Starter Setup ($750-$1,200) + AI Workflow Automation",
+      "recommended_package": "AI Starter Setup ($750-$1,200)",
       "created_date": "2026-04-15"
     },
     {
-      "id": 135,
-      "company_name": "Groupe A",
-      "industry": "Marketing / Full-Service Creative Agency",
-      "company_size": "20-50 staff",
-      "location": "Quebec City, QC",
-      "website": "groupea.com",
-      "ai_readiness_score": 6,
-      "pain_points": [
-        "New business inquiry intake and RFP qualification handled manually by BD team with no automated scoring",
-        "Creative brief creation and internal routing to design/video teams done via email with no job tracking system",
-        "Client asset management (logos, brand guidelines, campaign files) organization requiring manual file management"
-      ],
-      "suggested_services": [
-        "AI New Business Intake Agent — qualify inbound RFPs and inquiries, score by fit, and assign to BD lead",
-        "AI Creative Brief Generator — generate structured briefs from client kickoff call notes and route to teams",
-        "AI Asset Organizer — help organize and tag client brand assets using AI image recognition and metadata"
-      ],
-      "contact_name": "New Business / Creative Director",
-      "contact_title": "Director of Client Services",
-      "email": "info@groupea.com",
-      "source_note": "Quebec City creative agency with confirmed active website; serves major Quebec and Canadian brands. Creative agencies generate heavy project management overhead — direct AI workflow fit.",
-      "language": "FR",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 3.9,
-      "recommended_package": "AI Starter Setup ($750-$1,200) + AI Workflow Automation",
-      "created_date": "2026-04-15"
-    },
-    {
-      "id": 136,
-      "company_name": "Reebok Canada",
-      "industry": "E-commerce / Athletic Apparel Brand",
-      "company_size": "50-200 staff (Canadian ops)",
-      "location": "Toronto, ON (GTA)",
-      "website": "reebok.ca",
+      "id": 156,
+      "company_name": "Centretown Citizens Ottawa",
+      "industry": "Property Management / Social Housing & Apartment Buildings",
+      "company_size": "20-45 staff",
+      "location": "Ottawa, ON",
+      "website": "centretowncitizens.org",
       "ai_readiness_score": 5,
       "pain_points": [
-        "High-volume DTC customer service emails (order status, returns, sizing) handled by growing CS team",
-        "Dealer and retailer order inquiry processing for Canadian wholesale accounts managed manually",
-        "Social media comment and influencer DM responses handled by social team with no AI assistance"
+        "Tenant maintenance request intake via phone and email \u2014 no centralized ticketing or vendor dispatch system",
+        "Rent collection follow-up for 500+ units managed manually per month by property manager",
+        "Board meeting preparation, agenda, and minutes for 15+ non-profit housing boards done manually"
       ],
       "suggested_services": [
-        "AI Customer Service Agent — automate first-tier CS responses for order tracking, returns, sizing questions",
-        "AI Wholesale Inquiry Agent — process Canadian retailer order status requests and send automated updates",
-        "AI Social Response Assistant — generate first-draft responses to social comments and DMs for team review"
+        "AI Maintenance Intake Bot \u2014 centralize tenant maintenance requests and route to appropriate vendor/trade",
+        "AI Rent Collection Agent \u2014 automated late payment reminders, payment plan outreach, and arrears tracking",
+        "AI Board Communication Agent \u2014 auto-generate meeting agendas and draft minutes for housing board meetings"
       ],
-      "contact_name": "Customer Experience / Canadian Operations",
-      "contact_title": "Director of Operations, Canada",
-      "email": "info@reebok.ca",
-      "source_note": "Major international athletic brand with significant Canadian e-commerce and retail operations; growing Canadian CS team = opportunity to build AI-first customer service operation.",
+      "contact_name": "Executive Director",
+      "contact_title": "Executive Director",
+      "email": "info@centretowncitizens.org",
+      "source_note": "Ottawa non-profit social housing provider managing 500+ units across 15+ buildings; confirmed active operations. Social housing = high volume, tight budgets = AI to do more with same headcount.",
       "language": "EN",
       "outreach_channel": "LinkedIn + email",
-      "qualification_score": 3.4,
-      "recommended_package": "AI Starter Setup ($750-$1,200) + AI Workflow Automation",
+      "qualification_score": 3.5,
+      "recommended_package": "AI Starter Setup ($750-$1,200)",
       "created_date": "2026-04-15"
     },
     {
-      "id": 137,
-      "company_name": "ry",
-      "industry": "Marketing / Creative & Digital Agency",
-      "company_size": "20-50 staff",
+      "id": 157,
+      "company_name": "BlueChip Marketing Group",
+      "industry": "Marketing / Full-Service Digital Marketing Agency",
+      "company_size": "20-40 staff",
       "location": "Toronto, ON (GTA)",
-      "website": "ry.com",
-      "ai_readiness_score": 6,
+      "website": "bluechipmg.com",
+      "ai_readiness_score": 7,
       "pain_points": [
-        "New client project intake and brief creation from discovery calls handled manually by account managers",
-        "Creative asset approval workflows (internal and client review) managed via email with no structured pipeline",
-        "Timesheet and project profitability tracking across multiple clients done in spreadsheets"
+        "Cross-platform client reporting for 30+ active accounts pulled manually every Monday from Google Ads, Meta, LinkedIn",
+        "Client onboarding from signed proposal to campaign kickoff involves 8+ manual steps by account managers",
+        "Content performance analysis and optimization recommendations compiled manually for 40+ monthly content pieces"
       ],
       "suggested_services": [
-        "AI Project Brief Generator — transcribe discovery calls and generate structured creative briefs automatically",
-        "AI Approval Workflow Agent — manage creative asset review rounds, collect feedback, and route for sign-off",
-        "AI Project Tracker — auto-generate project status reports and flag profitable/underwater projects"
+        "AI Monday Reporter \u2014 automated cross-platform performance report delivered every Monday morning to all 30+ clients",
+        "AI Campaign Kickoff Agent \u2014 automate onboarding checklist and stakeholder alignment from signed proposal",
+        "AI Content Performance Analyst \u2014 auto-generate content performance summaries and optimization recommendations"
       ],
-      "contact_name": "New Business / Account Director",
-      "contact_title": "Director of Client Strategy",
-      "email": "hello@ry.com",
-      "source_note": "Toronto creative agency with confirmed active website; serves major Canadian brands and government clients. Creative agencies are early AI adopters — strong word-of-mouth referral potential.",
+      "contact_name": "Account Director",
+      "contact_title": "Director of Account Management",
+      "email": "info@bluechipmg.com",
+      "source_note": "Toronto digital marketing agency managing 30+ SMB and mid-market client accounts; confirmed active website and hiring on Indeed. Monday reporting dread = highest-ROI AI use case.",
       "language": "EN",
-      "outreach_channel": "LinkedIn",
-      "qualification_score": 4.0,
-      "recommended_package": "AI Starter Setup ($750-$1,200) + AI Workflow Automation",
+      "outreach_channel": "LinkedIn DM + email",
+      "qualification_score": 4.2,
+      "recommended_package": "AI Workflow Automation ($1,500-$2,500)",
       "created_date": "2026-04-15"
     },
     {
-      "id": 138,
-      "company_name": "Collins Barrow Ottawa",
-      "industry": "Accounting / Chartered Professional Accountants",
-      "company_size": "20-50 staff",
-      "location": "Ottawa, ON",
-      "website": "collinsbarrow.com",
-      "ai_readiness_score": 6,
+      "id": 158,
+      "company_name": "MtlSmile Dental Centre",
+      "industry": "Dental / Family & Cosmetic Dentistry",
+      "company_size": "12-24 staff, 3 dentists",
+      "location": "Montreal, QC",
+      "website": "mtlsmiledental.com",
+      "ai_readiness_score": 5,
       "pain_points": [
-        "High-volume bookkeeping data entry and bank reconciliation across 100+ SME clients per year",
-        "Client document request management for T1/T2 corporate tax files tracked manually via spreadsheets",
-        "Staff scheduling and utilization tracking across audit seasons managed manually"
+        "Patient appointment reminders and confirmations handled manually by front-desk for 80+ daily appointments",
+        "Insurance predetermination submission for major procedures done by fax with no status tracking",
+        "New patient intake forms completed on paper at each first visit \u2014 zero digital pre-registration"
       ],
       "suggested_services": [
-        "AI Bookkeeping Agent — automate data entry from bank statements and receipts using OCR for SME clients",
-        "AI Tax Document Request Tracker — automate client outreach for missing documents with deadline escalation",
-        "AI Staff Utilisation Dashboard — track billable hours vs. capacity per staff and flag under-utilisation"
+        "AI Reminder & Confirm Agent \u2014 automated SMS/email reminders with instant one-click confirm/reschedule",
+        "AI Insurance Pre-Auth Tracker \u2014 digital predetermination submission with automated status follow-up",
+        "AI Patient Intake Digitizer \u2014 digital pre-registration form sent before first visit, auto-populate practice management system"
       ],
-      "contact_name": "Managing Partner",
-      "contact_title": "CPA Managing Partner",
-      "email": "ottawa@collinsbarrow.com",
-      "source_note": "Ottawa office of national CPA firm Collins Barrow (now Baker Tilly Canada); confirmed active Ottawa presence. Audit season staff utilization management is a known pain point.",
+      "contact_name": "Dr. / Office Manager",
+      "contact_title": "Practice Manager",
+      "email": "info@mtlsmiledental.com",
+      "source_note": "Montreal dental clinic serving a dense urban patient base; confirmed active on Google Maps with strong reviews. French-speaking patient base, front-desk overload = clear AI entry point.",
+      "language": "FR",
+      "outreach_channel": "Email (FR) + LinkedIn",
+      "qualification_score": 3.6,
+      "recommended_package": "AI Starter Setup ($750-$1,200)",
+      "created_date": "2026-04-15"
+    },
+    {
+      "id": 159,
+      "company_name": "Pure Telecom Agency",
+      "industry": "Telecom / B2B Telecom Brokerage & IT Services",
+      "company_size": "15-30 sales agents and support staff",
+      "location": "Toronto, ON (GTA)",
+      "website": "purelte.com",
+      "ai_readiness_score": 6,
+      "pain_points": [
+        "New business lead qualification across internet, phone, and cloud packages handled manually for 100+ inbound leads/month",
+        "Order submission and provisioning follow-up with 4 carriers (Bell, Rogers, Telus, Shaw) done via email and portal",
+        "Monthly commission statements and agent payout calculations compiled manually in Excel per agent per carrier"
+      ],
+      "suggested_services": [
+        "AI Lead Qualification Agent \u2014 score and route inbound telecom leads based on business size, location, and service needs",
+        "AI Provisioning Tracker \u2014 monitor order status across 4 carrier portals and auto-alert agents of updates",
+        "AI Commission Calculator \u2014 auto-generate agent commission statements from carrier payout data and quota attainment"
+      ],
+      "contact_name": "Operations Manager",
+      "contact_title": "Director of Operations",
+      "email": "info@purelte.com",
+      "source_note": "GTA B2B telecom agency representing Bell, Rogers, Telus, and Shaw Business; confirmed active operations. Multi-carrier complexity = classic AI workflow automation case.",
       "language": "EN",
       "outreach_channel": "LinkedIn + email",
       "qualification_score": 3.8,
-      "recommended_package": "AI Workflow Automation ($1,500-$2,500) + AI Readiness Audit",
+      "recommended_package": "AI Starter Setup ($750-$1,200) + AI Workflow Automation",
       "created_date": "2026-04-15"
     },
     {
-      "id": 139,
-      "company_name": "iRecruitment Ottawa",
-      "industry": "Recruitment / SME Staffing Agency",
-      "company_size": "5-15 consultants",
-      "location": "Ottawa, ON",
-      "website": "irecruitment.ca",
+      "id": 160,
+      "company_name": "Carone Legal Quebec",
+      "industry": "Law / Business Law, Immigration & Real Estate",
+      "company_size": "15-30 lawyers and paralegals",
+      "location": "Montreal, QC",
+      "website": "carone.ca",
       "ai_readiness_score": 7,
       "pain_points": [
-        "Candidate sourcing for engineering, IT, and administrative roles done manually via LinkedIn and job boards",
-        "Client job order intake and candidate shortlist presentation prepared manually per submission",
-        "Interview scheduling coordination between candidates and hiring managers handled via back-and-forth email"
+        "High volume of new client intake for immigration, corporate, and real estate matters handled manually across 3 practice groups",
+        "Client document collection (contracts, IDs, corporate registrations) managed via email with no centralized intake portal",
+        "Matter status updates for clients handled individually by paralegals \u2014 30+ active files per lawyer"
       ],
       "suggested_services": [
-        "AI Candidate Sourcing Agent — automate initial LinkedIn and job board candidate search for active requisitions",
-        "AI Shortlist Presenter — generate candidate shortlist summaries from resume data for client presentation",
-        "AI Scheduling Coordinator — automate interview scheduling by matching candidate/manager calendars and sending invites"
+        "AI Multi-Practice Intake Agent \u2014 automated onboarding across immigration, corporate, and real estate with practice-specific questionnaires",
+        "AI Document Collection Portal \u2014 structured document request and reminder system per matter type",
+        "AI Matter Status Tracker \u2014 client self-service portal with real-time file status updates per practice group"
       ],
-      "contact_name": "Recruitment Consultants",
-      "contact_title": "Owner / Principal Recruiter",
-      "email": "info@irecruitment.ca",
-      "source_note": "Ottawa-area SME recruitment firm specializing in technical and administrative placements; confirmed active website. Small team with high touch per placement = AI to multiply output per recruiter.",
-      "language": "EN",
-      "outreach_channel": "LinkedIn + email",
+      "contact_name": "Practice Group Leaders",
+      "contact_title": "Managing Partner",
+      "email": "info@carone.ca",
+      "source_note": "Montreal business law, immigration, and real estate firm with confirmed active operations; multi-practice intake complexity = strong AI triaging and routing opportunity. Bilingual client base.",
+      "language": "FR/EN",
+      "outreach_channel": "LinkedIn + email (FR preferred)",
       "qualification_score": 4.1,
-      "recommended_package": "AI Starter Setup ($750-$1,200) + AI Workflow Automation",
-      "created_date": "2026-04-15"
-    },
-    {
-      "id": 140,
-      "company_name": "Montreal Law",
-      "industry": "Law / Immigration & Business Law",
-      "company_size": "10-25 lawyers and staff",
-      "location": "Montreal, QC",
-      "website": "montreallaw.com",
-      "ai_readiness_score": 6,
-      "pain_points": [
-        "High volume of immigration case status inquiries from clients tracked manually in spreadsheets",
-        "New client intake for immigration files (work permits, PR applications) done via email with no automated intake",
-        "Document translation and submission tracking across multiple government portals managed manually"
-      ],
-      "suggested_services": [
-        "AI Client Status Portal — give immigration clients self-service case status access reducing inquiry volume",
-        "AI Immigration Intake Agent — automate initial intake form completion for work permits, PR, and study permits",
-        "AI Document Deadline Tracker — monitor submission deadlines across IRCC portals and auto-alert lawyers"
-      ],
-      "contact_name": "Client Services / Lawyer Intake",
-      "contact_title": "Practice Manager / Senior Associate",
-      "email": "info@montreallaw.com",
-      "source_note": "Montreal immigration and business law firm; confirmed active website. Immigration law generates very high client inquiry volume and repetitive case status questions = perfect AI use case.",
-      "language": "EN/FR",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 3.9,
-      "recommended_package": "AI Starter Setup ($750-$1,200) + AI Workflow Automation",
+      "recommended_package": "AI Workflow Automation ($1,500-$2,500)",
       "created_date": "2026-04-15"
     }
   ]
