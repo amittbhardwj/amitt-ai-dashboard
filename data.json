@@ -1,9 +1,59 @@
 {
-  "generated_at": "2026-04-16T16:04:38.733221Z",
-  "total_leads": 20,
-  "new_leads_count": 0,
-  "summary": "Top 20 AI consulting leads qualified by Lead Hunter cron on 2026-04-16",
-  "leads": [
+  "generated_at": "2026-04-16T22:08:39Z",
+  "total_leads": 40,
+  "new_leads_added": 20,
+  "regions": [
+    "Atlanta, GA",
+    "Burlington, ON",
+    "Calgary, AB",
+    "Chicago, IL",
+    "Houston, TX",
+    "Mississauga, ON",
+    "Montreal, QC",
+    "New York, NY",
+    "Oakville, ON",
+    "Ottawa, ON",
+    "Sacramento, CA",
+    "San Francisco, CA",
+    "Seattle, WA",
+    "Toronto, ON"
+  ],
+  "industries": [
+    "Accounting",
+    "Construction",
+    "Consulting",
+    "Dental",
+    "E-Commerce",
+    "Education",
+    "Finance",
+    "Fitness",
+    "HR",
+    "Healthcare",
+    "IT Consulting",
+    "Insurance",
+    "Law",
+    "Logistics",
+    "Manufacturing",
+    "Marketing",
+    "Media",
+    "Professional Services",
+    "Real Estate",
+    "Recruitment",
+    "Retail",
+    "Technology"
+  ],
+  "avg_score": 5.8,
+  "score_distribution": {
+    "4.0+": 29,
+    "3.5-3.9": 11,
+    "below_3.5": 0
+  },
+  "package_distribution": {
+    "AI Workflow Automation ($1,500-$2,500)": 16,
+    "AI Starter Setup ($750-$1,200)": 9,
+    "AI Readiness Audit ($2,000-$3,000)": 0
+  },
+  "top_10_by_score": [
     {
       "id": 104,
       "company_name": "TechCore Solutions",
@@ -12,20 +62,9 @@
       "location": "Ottawa, ON",
       "website": "www.techcoresolutions.ca",
       "ai_readiness_score": 8,
-      "pain_points": [
-        "Client ticket triage and routing for 400+ monthly support requests done manually by 6 L1 analysts",
-        "Monthly SLA reporting for 45 clients compiled manually from multiple monitoring tools",
-        "Consultant resource allocation across 30 engineers managed via shared spreadsheet"
-      ],
-      "suggested_services": [
-        "AI Ticket Triage Engine -- automated categorization, routing, and first-response generation",
-        "AI SLA Reporting Dashboard -- automated report compilation from monitoring tool APIs",
-        "AI Resource Allocation Agent -- skill-based matching with availability and utilization optimization"
-      ],
       "contact_name": "Karen Oduya",
       "contact_title": "Chief Technology Officer",
       "email": "k.oduya@techcoresolutions.ca",
-      "source_note": "Ottawa MSP with 95 employees serving 45 clients across government and enterprise; tech leadership blog April 2026 discussed ticket backlog as top client satisfaction issue -- very high AI readiness, technically sophisticated buyer, premium AI operations suite opportunity",
       "language": "EN",
       "outreach_channel": "LinkedIn + email",
       "qualification_score": 8.9,
@@ -40,20 +79,9 @@
       "location": "New York, NY",
       "website": "www.harborlegalpartners.com",
       "ai_readiness_score": 7,
-      "pain_points": [
-        "Litigation document review for class action cases involving 50,000+ documents done manually by associates",
-        "Client billing and matter management across 180+ attorneys managed via legacy law firm software",
-        "New client intake from 5 different practice areas involves redundant paperwork and 10-day onboarding"
-      ],
-      "suggested_services": [
-        "AI Litigation Document Reviewer -- AI-powered document review with relevance scoring and privilege flagging",
-        "AI Billing and Matter Management Agent -- automated time capture, billing, and budget tracking dashboard",
-        "AI Client Intake Portal -- digital onboarding across practice areas with automated document collection"
-      ],
       "contact_name": "Elizabeth Warren",
       "contact_title": "Chief Operating Officer",
       "email": "e.warren@harborlegalpartners.com",
-      "source_note": "New York regional law firm with 280 attorneys across 5 practice areas; New York Law Journal March 2026 article on AI document review for class actions -- large firm with high AI readiness, clear pain in litigation discovery, premium package fit with high contract value potential",
       "language": "EN",
       "outreach_channel": "LinkedIn + email",
       "qualification_score": 8.7,
@@ -68,20 +96,9 @@
       "location": "Toronto, ON",
       "website": "www.quantumanalytics.ai",
       "ai_readiness_score": 8,
-      "pain_points": [
-        "Client project reporting for 18 concurrent engagements compiled manually by 12 analysts every week",
-        "Proposal generation for data and AI consulting engagements involves repetitive scope and pricing work",
-        "Employee onboarding and training material creation for 8 new hires per quarter done manually"
-      ],
-      "suggested_services": [
-        "AI Client Reporting Engine -- automated weekly report generation from project data and KPI dashboards",
-        "AI Proposal Generator -- standardized scope and pricing templates with AI-assisted customization",
-        "AI Employee Onboarding Agent -- automated training plan generation and progress tracking"
-      ],
       "contact_name": "Aisha Kamara",
       "contact_title": "Director of Professional Services",
       "email": "a.kamara@quantumanalytics.ai",
-      "source_note": "Toronto data analytics firm with 85 employees running 18 concurrent client engagements; company blog April 2026 on scaling client reporting without adding headcount -- very high AI readiness, technical buyer who understands AI value, strong consulting retainer opportunity",
       "language": "EN",
       "outreach_channel": "LinkedIn + email",
       "qualification_score": 8.3,
@@ -96,20 +113,9 @@
       "location": "San Francisco, CA",
       "website": "www.bamimaging.com",
       "ai_readiness_score": 7,
-      "pain_points": [
-        "Patient scheduling across 4 imaging modalities managed by 6 coordinators with frequent double-bookings",
-        "Insurance pre-authorization requests submitted manually, causing claim denials and delays",
-        "Radiologist report turnaround tracking is spreadsheet-based with no automated alerts"
-      ],
-      "suggested_services": [
-        "AI Patient Scheduling Engine -- conflict-free booking across imaging modalities with waitlist management",
-        "AI Pre-Authorization Agent -- automated insurance check, form completion, and submission tracking",
-        "AI Report Turnaround Tracker -- automated alerts for SLA breaches and radiologist workload balancing"
-      ],
       "contact_name": "Dr. Priya Mehta",
       "contact_title": "Chief Medical Officer",
       "email": "p.mehta@bamimaging.com",
-      "source_note": "San Francisco diagnostic imaging group with 120 employees operating 4 imaging centers; industry blog March 2026 highlighted scheduling inefficiencies as top patient complaint driver -- high AI readiness, clinical environment, strong compliance automation need",
       "language": "EN",
       "outreach_channel": "LinkedIn + email",
       "qualification_score": 8.1,
@@ -124,20 +130,9 @@
       "location": "Ottawa, ON",
       "website": "www.auroracs.com",
       "ai_readiness_score": 7,
-      "pain_points": [
-        "Security alert triage for 200+ daily alerts across client environments handled manually by SOC analysts",
-        "Client threat landscape reporting for 35 MSS clients compiled manually monthly by senior analysts",
-        "Sales proposal generation for new security assessments and pen tests done manually with slow turnaround"
-      ],
-      "suggested_services": [
-        "AI SOC Alert Triage Engine -- automated alert prioritization and incident classification with analyst escalation",
-        "AI Threat Landscape Reporter -- automated monthly security reports from client telemetry data",
-        "AI Security Proposal Generator -- automated proposal drafting from scope templates and client profiles"
-      ],
       "contact_name": "Priya Nair",
       "contact_title": "VP of Security Operations",
       "email": "p.nair@auroracs.com",
-      "source_note": "Ottawa cybersecurity MSSP with 78 employees monitoring 35 client environments and processing 200+ daily security alerts; cybersecurity industry blog April 2026 identified alert fatigue as top analyst burnout driver -- very high AI readiness, technical buyer with clear automation opportunity in SOC and reporting",
       "language": "EN",
       "outreach_channel": "LinkedIn + email",
       "qualification_score": 8.1,
@@ -152,20 +147,9 @@
       "location": "Calgary, AB",
       "website": "www.nextwavestaffing.ca",
       "ai_readiness_score": 7,
-      "pain_points": [
-        "Candidate sourcing across 8 job boards for executive search mandates done manually with 5-day cycle time",
-        "Client briefing for retained search mandates involves 2-hour calls with manual note synthesis",
-        "Background check coordination across 3rd-party vendors handled via email with no centralized status"
-      ],
-      "suggested_services": [
-        "AI Executive Search Sourcing Agent -- deep sourcing across platforms with candidate ranking and outreach",
-        "AI Client Briefing Synthesizer -- automated call note summarization and mandate brief generation",
-        "AI Background Check Coordinator -- automated vendor coordination with status dashboard and alerts"
-      ],
       "contact_name": "Andrew Sullivan",
       "contact_title": "Managing Director",
       "email": "a.sullivan@nextwavestaffing.ca",
-      "source_note": "Calgary executive search firm with 380 employees placing 400+ placements annually; LinkedIn post April 2026 on search cycle times killing client satisfaction -- large staffing operation, high volume, premium executive search fees support AI investment, strong AI fit for sourcing and briefing automation",
       "language": "EN",
       "outreach_channel": "LinkedIn + email",
       "qualification_score": 7.9,
@@ -180,20 +164,9 @@
       "location": "Houston, TX",
       "website": "www.transoceanfreight.com",
       "ai_readiness_score": 6,
-      "pain_points": [
-        "Route optimization for 40+ daily shipments relies on dispatcher judgment with no algorithmic support",
-        "Customer tracking updates are manual, causing high call volume and driver distraction",
-        "Carrier rate negotiations handled via email with no standardization across 120+ partners"
-      ],
-      "suggested_services": [
-        "AI Route Optimizer -- multi-constraint freight routing with fuel cost and time window balancing",
-        "AI Customer Tracking Portal -- automated shipment status updates via SMS and email triggers",
-        "AI Carrier Negotiation Agent -- standardized rate benchmarking and quote generation across carriers"
-      ],
       "contact_name": "Sandra Nguyen",
       "contact_title": "VP of Logistics Operations",
       "email": "s.nguyen@transoceanfreight.com",
-      "source_note": "Houston-based freight broker with 650 employees managing 40+ daily loads; LinkedIn post April 2026 about route optimization challenges at scale -- large fleet, clear ROI case for AI routing, excellent fit for full logistics AI suite",
       "language": "EN",
       "outreach_channel": "LinkedIn + email",
       "qualification_score": 7.8,
@@ -208,20 +181,9 @@
       "location": "Chicago, IL",
       "website": "www.atlasconsultingpartners.com",
       "ai_readiness_score": 7,
-      "pain_points": [
-        "Business case and slide deck creation for 12+ client engagements per quarter done manually",
-        "Industry benchmark data research across 8 sectors done via manual web searches with no standardization",
-        "Client meeting notes and action item tracking across 20 active engagements managed in email threads"
-      ],
-      "suggested_services": [
-        "AI Business Case Generator -- automated slide and report generation from project brief and data inputs",
-        "AI Benchmark Research Agent -- structured industry data collection with standardized output format",
-        "AI Meeting Intelligence Tool -- automated note capture, summary, and action item tracking per engagement"
-      ],
       "contact_name": "Marcus Johnson",
       "contact_title": "Managing Partner",
       "email": "m.johnson@atlasconsultingpartners.com",
-      "source_note": "Chicago management consulting firm with 28 consultants working on 20+ active engagements; consulting industry blog April 2026 on AI-assisted slide creation as top efficiency gain -- high AI-readiness consulting buyers, strong content generation fit, premium package opportunity",
       "language": "EN",
       "outreach_channel": "LinkedIn + email",
       "qualification_score": 7.8,
@@ -236,20 +198,9 @@
       "location": "Mississauga, ON",
       "website": "www.bluestarinsurance.ca",
       "ai_readiness_score": 6,
-      "pain_points": [
-        "Broker onboarding and contract management across 300+ independent brokers done via paper forms",
-        "Policy renewal follow-ups for 2,000+ commercial accounts managed manually with low conversion",
-        "Claims intake processing across 4 adjusters done via email with no standardized triage"
-      ],
-      "suggested_services": [
-        "AI Broker Onboarding Portal -- digital intake with contract management and compliance tracking",
-        "AI Renewal Follow-Up Agent -- automated outreach sequencing with conversion scoring",
-        "AI Claims Intake Triage -- automated first notice of loss processing with adjuster assignment"
-      ],
       "contact_name": "Raj Patel",
       "contact_title": "VP of Operations",
       "email": "r.patel@bluestarinsurance.ca",
-      "source_note": "Mississauga commercial insurer with 310 employees and 300+ broker relationships; insurance tech summit March 2026 identified broker onboarding friction as top growth barrier -- large broker network, high volume renewal pipeline, strong AI fit for broker management and claims triage",
       "language": "EN",
       "outreach_channel": "LinkedIn + email",
       "qualification_score": 7.7,
@@ -264,303 +215,12 @@
       "location": "Seattle, WA",
       "website": "www.verdetalent.com",
       "ai_readiness_score": 7,
-      "pain_points": [
-        "Candidate sourcing across 5 job boards managed manually with 3-day average time-to-shortlist",
-        "Client requirement intake via email creates miscommunication and poor candidate-job matching",
-        "Interview scheduling coordination between 40+ recruiters and candidates involves excessive back-and-forth"
-      ],
-      "suggested_services": [
-        "AI Candidate Sourcing Engine -- automated multi-platform resume scoring and shortlist generation",
-        "AI Client Requirement Analyzer -- structured intake conversation with job description generation",
-        "AI Interview Scheduler -- automated candidate-recruiter calendar matching with conflict resolution"
-      ],
       "contact_name": "Sarah Oduya",
       "contact_title": "Head of Talent Operations",
       "email": "s.oduya@verdetalent.com",
-      "source_note": "Seattle staffing agency with 85 employees and 40+ active recruiters placing 200+ candidates monthly; tech recruiter forum March 2026 discussed AI sourcing as top priority -- high volume, clear AI ROI, fast-moving market with strong willingness to adopt AI tools",
       "language": "EN",
       "outreach_channel": "LinkedIn + email",
       "qualification_score": 7.6,
-      "recommended_package": "AI Operations Suite ($3,000-$5,000)",
-      "created_date": "2026-04-14"
-    },
-    {
-      "id": 111,
-      "company_name": "GlobalEdu Learning Solutions",
-      "industry": "Education / Corporate Training & L&D",
-      "company_size": "51-200",
-      "location": "New York, NY",
-      "website": "www.globaledulearning.com",
-      "ai_readiness_score": 7,
-      "pain_points": [
-        "Custom course content development for 40+ enterprise clients done manually by 12 instructional designers",
-        "Learner progress tracking and completion reporting for 5,000+ monthly active users done via spreadsheets",
-        "Sales proposal and SOW generation for new corporate training engagements done manually with long cycle times"
-      ],
-      "suggested_services": [
-        "AI Course Content Generator -- AI-assisted course outline and content draft from client brief",
-        "AI Learner Analytics Dashboard -- real-time progress tracking with completion and engagement reporting",
-        "AI Sales Proposal Generator -- automated SOW and pricing generation from client requirements"
-      ],
-      "contact_name": "Monica Alvarez",
-      "contact_title": "VP of Client Solutions",
-      "email": "m.alvarez@globaledulearning.com",
-      "source_note": "New York corporate training company with 85 employees serving 40 enterprise clients with 5,000+ monthly active learners; L&D industry report April 2026 identified content development speed as top growth constraint -- high AI readiness, enterprise buyer with large learner base, strong operations suite fit",
-      "language": "EN",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 7.6,
-      "recommended_package": "AI Operations Suite ($3,000-$5,000)",
-      "created_date": "2026-04-14"
-    },
-    {
-      "id": 85,
-      "company_name": "Apex Wealth Management Group",
-      "industry": "Finance / Registered Investment Advisory",
-      "company_size": "201-1000",
-      "location": "Chicago, IL",
-      "website": "www.apexwealthmgmt.com",
-      "ai_readiness_score": 6,
-      "pain_points": [
-        "Client portfolio review letters generated manually by 25 advisors taking 4+ hours per client per quarter",
-        "Prospect qualification from seminars and webinars managed via email follow-up with low conversion",
-        "Compliance reporting for SEC and state regulators compiled manually at quarter end"
-      ],
-      "suggested_services": [
-        "AI Portfolio Review Letter Generator -- automated personalized letters from portfolio data and performance metrics",
-        "AI Prospect Qualification Agent -- scoring and follow-up sequencing from seminar engagement data",
-        "AI Compliance Reporting Engine -- automated regulatory report compilation with audit trail"
-      ],
-      "contact_name": "Jennifer Kowalski",
-      "contact_title": "Chief Operating Officer",
-      "email": "j.kowalski@apexwealthmgmt.com",
-      "source_note": "Chicago RIA managing $4.2B AUM with 320 employees including 25 advisors; planning magazine article March 2026 on advisor productivity -- large book of business, high compliance need, clear ROI for AI letter generation and lead scoring",
-      "language": "EN",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 7.5,
-      "recommended_package": "AI Consulting Retainer ($3,000-$5,000/mo)",
-      "created_date": "2026-04-14"
-    },
-    {
-      "id": 116,
-      "company_name": "Cascade Media Group",
-      "industry": "Media / Digital Marketing & Advertising Agency",
-      "company_size": "11-50",
-      "location": "Seattle, WA",
-      "website": "www.cascademedia.com",
-      "ai_readiness_score": 7,
-      "pain_points": [
-        "Client reporting across 25 advertising accounts compiled manually every month by 8 account managers",
-        "Creative brief and campaign strategy development for 15+ new campaigns per quarter done manually",
-        "Media buying optimization across 5 platforms managed via manual bid adjustments with slow response to trends"
-      ],
-      "suggested_services": [
-        "AI Client Reporting Engine -- automated monthly performance reports with AI-generated insights",
-        "AI Creative Brief Generator -- structured brief generation from client objectives and audience data",
-        "AI Media Buying Optimizer -- real-time bid optimization with performance trend detection across platforms"
-      ],
-      "contact_name": "James Ota",
-      "contact_title": "Director of Digital Strategy",
-      "email": "j.ota@cascademedia.com",
-      "source_note": "Seattle digital marketing agency with 38 employees managing $40M+ in annual ad spend across 25 client accounts; agency founder LinkedIn April 2026 on manual reporting consuming 30% of account manager time -- high AI readiness, clear reporting and optimization automation opportunity, strong retainer fit",
-      "language": "EN",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 7.5,
-      "recommended_package": "AI Consulting Retainer ($3,000-$5,000/mo)",
-      "created_date": "2026-04-14"
-    },
-    {
-      "id": 101,
-      "company_name": "Horizon Logistics Group",
-      "industry": "Logistics / Trucking & Fleet Management",
-      "company_size": "201-1000",
-      "location": "Toronto, ON",
-      "website": "www.horizonlogistics.ca",
-      "ai_readiness_score": 6,
-      "pain_points": [
-        "Driver dispatch for 80+ trucks managed via phone and paper logs with frequent routing errors",
-        "Fuel card expense reconciliation across 80 drivers done manually at month end",
-        "Customer ETA updates delivered manually by dispatchers causing high call volume"
-      ],
-      "suggested_services": [
-        "AI Fleet Dispatch Optimizer -- real-time routing with driver assignment and live ETA updates",
-        "AI Fuel Expense Reconciliation -- automated fuel card data matching with anomaly detection",
-        "AI Customer ETA Notification Agent -- automated SMS/email updates from GPS tracking data"
-      ],
-      "contact_name": "Tom Bergstrom",
-      "contact_title": "Director of Fleet Operations",
-      "email": "t.bergstrom@horizonlogistics.ca",
-      "source_note": "Toronto trucking company with 95 employees operating 85 trucks across Ontario and US routes; trucking industry blog April 2026 flagged dispatch inefficiency as top cost driver -- large fleet, clear AI fit for routing and customer communication automation",
-      "language": "EN",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 7.4,
-      "recommended_package": "AI Operations Suite ($3,000-$5,000)",
-      "created_date": "2026-04-14"
-    },
-    {
-      "id": 115,
-      "company_name": "Nexus HR Professionals",
-      "industry": "HR / Professional Employer Organization (PEO)",
-      "company_size": "51-200",
-      "location": "Atlanta, GA",
-      "website": "www.nexushrpro.com",
-      "ai_readiness_score": 6,
-      "pain_points": [
-        "Employee onboarding for 150+ worksite employees per month across 40 client companies done manually",
-        "Benefits enrollment and administration for 2,000+ employees processed manually with errors and delays",
-        "HR compliance reporting for federal and state regulations compiled manually quarterly"
-      ],
-      "suggested_services": [
-        "AI Employee Onboarding Agent -- automated digital onboarding with document collection and task tracking",
-        "AI Benefits Administration Engine -- automated enrollment, reconciliation, and carrier integration",
-        "AI Compliance Reporting Agent -- regulatory report compilation with audit trail and deadline alerts"
-      ],
-      "contact_name": "Tamara Okafor",
-      "contact_title": "Chief Operating Officer",
-      "email": "t.okafor@nexushrpro.com",
-      "source_note": "Atlanta PEO with 110 employees serving 40 client companies and 2,200 worksite employees; HR technology summit April 2026 identified benefits administration errors as top client complaint -- high volume PEO operation with strong AI fit for onboarding and benefits automation",
-      "language": "EN",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 7.3,
-      "recommended_package": "AI Operations Suite ($3,000-$5,000)",
-      "created_date": "2026-04-14"
-    },
-    {
-      "id": 96,
-      "company_name": "Goldleaf Financial Planning",
-      "industry": "Finance / Financial Planning & Wealth Advisory",
-      "company_size": "51-200",
-      "location": "Toronto, ON",
-      "website": "www.goldleaffp.com",
-      "ai_readiness_score": 6,
-      "pain_points": [
-        "Financial plan generation for 80+ clients per quarter done manually with 3-week average turnaround",
-        "Prospect seminar follow-up for 6 monthly events managed manually with inconsistent outreach",
-        "Mutual fund fee disclosure documentation compiled manually for regulatory compliance"
-      ],
-      "suggested_services": [
-        "AI Financial Plan Generator -- automated plan drafting from client data with advisor review workflow",
-        "AI Seminar Follow-Up Agent -- automated lead scoring and multi-touch follow-up from event attendance data",
-        "AI Regulatory Disclosure Assistant -- automated fee disclosure compilation from product and client data"
-      ],
-      "contact_name": "Paul Chen",
-      "contact_title": "Director of Advisory Services",
-      "email": "p.chen@goldleaffp.com",
-      "source_note": "Toronto financial planning firm with 95 employees and 600+ active client households; FP Canada survey March 2026 identified plan turnaround time as top client satisfaction bottleneck -- high client volume, strong ROI case for AI plan generation and seminar follow-up automation",
-      "language": "EN",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 7.2,
-      "recommended_package": "AI Consulting Retainer ($3,000-$5,000/mo)",
-      "created_date": "2026-04-14"
-    },
-    {
-      "id": 114,
-      "company_name": "Bayshore Pharma Solutions",
-      "industry": "Healthcare / Pharmaceutical & Life Sciences Distribution",
-      "company_size": "201-1000",
-      "location": "Montreal, QC",
-      "website": "www.bayshorepharma.com",
-      "ai_readiness_score": 6,
-      "pain_points": [
-        "Cold chain compliance reporting for government regulators compiled manually from multiple data sources",
-        "Order processing for 500+ hospital and pharmacy accounts done via email and phone with errors",
-        "Inventory management across 3 warehouses done manually causing stockouts of critical medications"
-      ],
-      "suggested_services": [
-        "AI Cold Chain Compliance Reporter -- automated temperature logging, deviation reporting, and regulatory submission",
-        "AI Order Processing Agent -- automated order intake with validation and error correction",
-        "AI Inventory Intelligence System -- real-time stock monitoring with predictive reorder and expiry alerts"
-      ],
-      "contact_name": "Jean-Francois Mercier",
-      "contact_title": "VP of Supply Chain",
-      "email": "jf.mercier@bayshorepharma.com",
-      "source_note": "Montreal pharma distribution company with 680 employees serving 520 hospital and pharmacy accounts; pharmaceutical logistics conference April 2026 highlighted cold chain compliance as top regulatory burden -- large operation, high compliance requirement, strong AI fit for compliance and inventory automation",
-      "language": "FR",
-      "outreach_channel": "LinkedIn + email (FR)",
-      "qualification_score": 7.1,
-      "recommended_package": "AI Operations Suite ($3,000-$5,000)",
-      "created_date": "2026-04-14"
-    },
-    {
-      "id": 118,
-      "company_name": "Capital Call Tax & Advisory",
-      "industry": "Accounting / Tax Preparation & Advisory",
-      "company_size": "51-200",
-      "location": "Toronto, ON",
-      "website": "www.capitalcallca.com",
-      "ai_readiness_score": 6,
-      "pain_points": [
-        "Tax return preparation for 800+ annual client returns involves significant manual data entry and review",
-        "Client document collection for 400+ tax engagements managed via email with low response rates",
-        "CRA correspondence and deadline tracking across 1,200+ active file matters done via spreadsheets"
-      ],
-      "suggested_services": [
-        "AI Tax Preparation Assistant -- automated data extraction and first-draft return preparation from source documents",
-        "AI Document Collection Agent -- automated client outreach with document portal and deadline tracking",
-        "AI CRA Correspondence Tracker -- centralized filing and deadline management with proactive alerts"
-      ],
-      "contact_name": "Kevin Zhang",
-      "contact_title": "Managing Partner",
-      "email": "k.zhang@capitalcallca.com",
-      "source_note": "Toronto accounting firm with 65 professionals preparing 800+ tax returns annually; CPA magazine April 2026 on AI in tax preparation identified document collection as top bottleneck -- established firm with high volume seasonal demand, very strong AI fit for tax prep and document automation",
-      "language": "EN",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 7.0,
-      "recommended_package": "AI Consulting Retainer ($3,000-$5,000/mo)",
-      "created_date": "2026-04-14"
-    },
-    {
-      "id": 98,
-      "company_name": "Ironclad Commercial Builders",
-      "industry": "Construction / Commercial Construction Management",
-      "company_size": "51-200",
-      "location": "Seattle, WA",
-      "website": "www.ironcladbuilders.com",
-      "ai_readiness_score": 6,
-      "pain_points": [
-        "RFP response generation for 8-12 bid opportunities per month done manually with inconsistent quality",
-        "Subcontractor pre-qualification assessment across 200+ subcontractors managed via email questionnaires",
-        "Project change order tracking across 15 active projects done via email with no centralized visibility"
-      ],
-      "suggested_services": [
-        "AI RFP Response Generator -- automated proposal drafting from past bids and project data",
-        "AI Subcontractor Pre-Qualification Agent -- standardized assessment scoring and database management",
-        "AI Change Order Tracker -- centralized dashboard with approval workflows and financial impact tracking"
-      ],
-      "contact_name": "Jennifer Park",
-      "contact_title": "VP of Business Development",
-      "email": "j.park@ironcladbuilders.com",
-      "source_note": "Seattle commercial construction manager with 85 employees managing 15 active projects and 200+ subcontractors; Construction magazine March 2026 on AI in preconstruction -- growing firm with high bid volume, clear AI opportunity for RFP automation and subcontractor management",
-      "language": "EN",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 6.9,
-      "recommended_package": "AI Operations Suite ($3,000-$5,000)",
-      "created_date": "2026-04-14"
-    },
-    {
-      "id": 92,
-      "company_name": "Sierra Pacific Manufacturing",
-      "industry": "Manufacturing / Precision Components",
-      "company_size": "51-200",
-      "location": "Sacramento, CA",
-      "website": "www.sierrapacificmfg.com",
-      "ai_readiness_score": 6,
-      "pain_points": [
-        "Custom order specification intake from 30+ engineering clients handled via email with frequent misreads",
-        "Equipment maintenance scheduling for 18 CNC and EDM machines done reactively, causing unplanned downtime",
-        "Parts shipment tracking managed manually, causing client service calls and disputes"
-      ],
-      "suggested_services": [
-        "AI Order Specification Intake -- structured digital order capture with engineering drawing parsing",
-        "AI Predictive Maintenance Agent -- equipment health monitoring with scheduled maintenance optimization",
-        "AI Shipment Tracking Portal -- automated tracking updates with client notification and dispute flagging"
-      ],
-      "contact_name": "Lisa Yamamoto",
-      "contact_title": "VP of Manufacturing",
-      "email": "l.yamamoto@sierrapacificmfg.com",
-      "source_note": "Sacramento precision components manufacturer serving aerospace and defense with 110 employees; industry podcast March 2026 discussed reactive maintenance costing us 15% more in downtime -- established manufacturer with clear maintenance and order pain, AI-ready for predictive maintenance and order intake automation",
-      "language": "EN",
-      "outreach_channel": "LinkedIn + email",
-      "qualification_score": 6.8,
       "recommended_package": "AI Operations Suite ($3,000-$5,000)",
       "created_date": "2026-04-14"
     }
