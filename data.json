@@ -561,7 +561,7 @@
   },
   {
     "id": 120,
-    "company_name": "Renard & Associ\u00e9s Ressources Humaines",
+    "company_name": "Renard & Associés Ressources Humaines",
     "industry": "HR / Professional Employer Organization (PEO) & Staffing",
     "company_size": "20-40",
     "location": "Montreal, QC",
@@ -578,7 +578,7 @@
       "AI Compliance Monitor -- automated compliance checks with client alerting and remediation workflow"
     ],
     "contact_name": "Sophie Renard",
-    "contact_title": "Directrice G\u00e9n\u00e9rale",
+    "contact_title": "Directrice Générale",
     "email": "srenard@renardrh.ca",
     "source_note": "Montreal bilingual PEO serving 15 SMB clients with 50+ worksite employees per quarter; LinkedIn March 2026 about onboarding automation pain = clear AI readiness signal; Montreal bilingual market = PEO space underserved by AI consultants",
     "language": "FR/EN",
@@ -661,8 +661,8 @@
       "AI Reference Check Coordinator -- schedule, collect, and summarize reference check responses automatically",
       "AI Debrief Writer -- auto-generate interview debrief documents and offer summaries from consultant notes"
     ],
-    "contact_name": "Marc-\u00c9tienne Bouchard",
-    "contact_title": "Associ\u00e9 Principal",
+    "contact_name": "Marc-Étienne Bouchard",
+    "contact_title": "Associé Principal",
     "email": "mbouchard@meridianrecruitment.ca",
     "source_note": "Montreal retained search firm placing senior executives across Quebec and Ontario; LinkedIn post Feb 2026 about 'sourcing is our biggest time sink' = clear AI automation opportunity; premium retained search = high-value AI consulting deal",
     "language": "FR",
@@ -701,7 +701,7 @@
   },
   {
     "id": 125,
-    "company_name": "Parfum\u00e9me Cosmetics & Beauty",
+    "company_name": "Parfuméme Cosmetics & Beauty",
     "industry": "Retail / E-Commerce & Direct-to-Consumer Beauty Brand",
     "company_size": "15-30",
     "location": "Montreal, QC",
@@ -841,7 +841,7 @@
   },
   {
     "id": 130,
-    "company_name": "\u00c9ditions Lumi\u00e8re Montreal",
+    "company_name": "Éditions Lumière Montreal",
     "industry": "Media / Independent Publishing House",
     "company_size": "10-22",
     "location": "Montreal, QC",
@@ -858,7 +858,7 @@
       "AI Royalty Calculator -- auto-generate royalty statements from sales data feeds per author twice yearly"
     ],
     "contact_name": "Pierre-Luc Martineau",
-    "contact_title": "Directeur G\u00e9n\u00e9ral",
+    "contact_title": "Directeur Général",
     "email": "plmartineau@editionslumiere.ca",
     "source_note": "Montreal indie publisher with 80+ active authors and 500+ annual manuscript submissions; hiring editorial coordinator March 2026 = submission volume and coordination confirmed; Quebec publishing = niche, high-cultural-value AI opportunity",
     "language": "FR",
@@ -997,7 +997,7 @@
       "AI CRA Correspondence Tracker -- centralize tax authority communications with automated deadline alerts",
       "AI Client CRM & Engagement Manager -- automated engagement letter generation and client relationship management"
     ],
-    "contact_name": "Fran\u00e7ois Bergeron",
+    "contact_name": "François Bergeron",
     "contact_title": "Managing Partner",
     "email": "fbergeron@canproaccountants.ca",
     "source_note": "Montreal CPA firm serving 40+ SMB clients with 25+ bookkeeping accounts; LinkedIn post Feb 2026 about 'month-end is killing us' = clear automation opportunity; Quebec SMB market = bilingual, underserved for AI accounting automation",
@@ -1996,7 +1996,7 @@
     "website": "novatrex.ca",
     "ai_readiness_score": 4,
     "pain_points": [
-      "Multiple divisions (National civil/excavation, EcoVrac bulk transport, CSPL quarry, M\u00e9canipro heavy mechanics, \u00c9quipement Expert) create complex project tracking needs",
+      "Multiple divisions (National civil/excavation, EcoVrac bulk transport, CSPL quarry, Mécanipro heavy mechanics, Équipement Expert) create complex project tracking needs",
       "Aggregate materials pricing and logistics coordination is done manually",
       "Equipment maintenance scheduling across multiple divisions lacks centralized system"
     ],
@@ -2829,7 +2829,7 @@
   },
   {
     "id": 213,
-    "company_name": "Demers & Associ\u00e9s Notaires",
+    "company_name": "Demers & Associés Notaires",
     "industry": "Law / Notarial Practice",
     "company_size": "15-30",
     "location": "Montreal, QC",
@@ -2845,8 +2845,8 @@
       "Client scheduling AI chatbot",
       "AI data extraction for forms"
     ],
-    "contact_name": "Me Jean-Fran\u00e7ois Demers",
-    "contact_title": "Notaire propri\u00e9taire",
+    "contact_name": "Me Jean-François Demers",
+    "contact_title": "Notaire propriétaire",
     "email": "jf.demers@demersnotaires.ca",
     "source_note": "Montreal notarial firm with 20+ employees processing high-volume standardized documents manually",
     "language": "FR",
@@ -2874,7 +2874,7 @@
       "Automated bank reconciliation workflow"
     ],
     "contact_name": "Mario Levesque",
-    "contact_title": "CPA, Associ\u00e9 principal",
+    "contact_title": "CPA, Associé principal",
     "email": "m.levesque@comptable-levesque.ca",
     "source_note": "Montreal CPA firm with 25 employees handling repetitive data entry during peak tax season",
     "language": "FR",
@@ -2885,7 +2885,7 @@
   },
   {
     "id": 215,
-    "company_name": "Agence Orbit m\u00e9dia inc.",
+    "company_name": "Agence Orbit média inc.",
     "industry": "Marketing / Digital Agency",
     "company_size": "10-15",
     "location": "Montreal, QC",
@@ -2902,7 +2902,7 @@
       "AI client brief intake and brief summarization"
     ],
     "contact_name": "Sofia Roy",
-    "contact_title": "Directrice g\u00e9n\u00e9rale",
+    "contact_title": "Directrice générale",
     "email": "sofia@orbitmedia.ca",
     "source_note": "Montreal digital agency with 12 employees managing multiple client accounts with repetitive content workflows",
     "language": "FR",
@@ -2930,7 +2930,7 @@
       "Automated CMA report generation"
     ],
     "contact_name": "Patrick Gagnon",
-    "contact_title": "Courtier immobilier agr\u00e9\u00e9",
+    "contact_title": "Courtier immobilier agréé",
     "email": "p.gagnon@apeximmobilier.ca",
     "source_note": "Montreal real estate brokerage with 22 agents manually duplicating listing data across multiple systems",
     "language": "FR",
@@ -2958,7 +2958,7 @@
       "Digital AI-assisted patient intake form"
     ],
     "contact_name": "Dr. Caroline Dorion",
-    "contact_title": "Dentiste propri\u00e9taire",
+    "contact_title": "Dentiste propriétaire",
     "email": "c.dorion@cliniquedentaireedorion.ca",
     "source_note": "Montreal dental clinic with 8 staff manually handling appointment reminders and insurance paperwork",
     "language": "FR",
@@ -2985,8 +2985,8 @@
       "AI data entry automation across carrier portals",
       "AI claim status inquiry chatbot"
     ],
-    "contact_name": "Fran\u00e7ois Lambert",
-    "contact_title": "Directeur g\u00e9n\u00e9ral",
+    "contact_name": "François Lambert",
+    "contact_title": "Directeur général",
     "email": "f.lambert@brodeur-lambert.ca",
     "source_note": "Montreal insurance brokerage with 18 brokers managing renewals and carrier portals manually",
     "language": "FR",
@@ -2997,7 +2997,7 @@
   },
   {
     "id": 219,
-    "company_name": "Solutions RH Montr\u00e9al inc.",
+    "company_name": "Solutions RH Montréal inc.",
     "industry": "Recruitment / Staffing Agency",
     "company_size": "10-15",
     "location": "Montreal, QC",
@@ -3013,8 +3013,8 @@
       "AI interview scheduling assistant",
       "Automated job posting across multiple boards"
     ],
-    "contact_name": "Nathalie Beaupr\u00e9",
-    "contact_title": "Directrice des op\u00e9rations",
+    "contact_name": "Nathalie Beaupré",
+    "contact_title": "Directrice des opérations",
     "email": "n.beaupre@solutionsrhmontreal.ca",
     "source_note": "Montreal staffing agency with 12 recruiters spending hours manually screening CVs each week",
     "language": "FR",
@@ -3405,8 +3405,8 @@
       "AI automated client follow-up sequencing after viewings",
       "AI CMA report generation with automated comparable data pulling"
     ],
-    "contact_name": "Jean-Fran\u00e7ois Bouchard",
-    "contact_title": "Courtier Propri\u00e9taire",
+    "contact_name": "Jean-François Bouchard",
+    "contact_title": "Courtier Propriétaire",
     "email": "jf.bouchard@immobiliersoliveau.ca",
     "source_note": "Montreal residential brokerage with 14 agents spending hours per week on manual listing data entry and client follow-up; Centris posting done by admin staff with no automation",
     "language": "FR",
@@ -4089,7 +4089,7 @@
   },
   {
     "id": 258,
-    "company_name": "La Cr\u00e8me des Talents",
+    "company_name": "La Crème des Talents",
     "industry": "Recruitment / Professional Staffing",
     "company_size": "1-10",
     "location": "Montreal QC",
@@ -4105,7 +4105,7 @@
       "AI Social Media Scheduler -- automated content calendar and posting for candidate attraction",
       "AI Relationship Nurture Sequences -- automated follow-up sequences for candidates and clients"
     ],
-    "contact_name": "La Cr\u00e8me des Talents",
+    "contact_name": "La Crème des Talents",
     "contact_title": "Owner/Manager",
     "email": "info@lacremedestalents.com",
     "source_note": "Small Montreal staffing firm; high-touch model means manual work scales poorly; good candidate for AI starter package to automate social and follow-up",
@@ -4506,5 +4506,565 @@
     "qualification_score": 6.1,
     "recommended_package": "AI Workflow Automation ($1,500-$2,500)",
     "created_date": "2026-04-19"
+  },
+  {
+    "id": 273,
+    "company_name": "Sutton Place Realty",
+    "industry": "Real Estate / Residential Brokerage",
+    "company_size": "51-200",
+    "location": "Montreal, QC",
+    "website": "suttonplace-realty.ca",
+    "ai_readiness_score": 6,
+    "pain_points": [
+      "High volume of repetitive email inquiries from leads that need qualification before agent response",
+      "Manual data entry of property showings, offers, and client interactions into CRM systems",
+      "Time-consuming preparation of comparative market analysis reports for clients"
+    ],
+    "suggested_services": [
+      "AI-powered lead qualification chatbot to filter serious buyers from casual inquiries",
+      "Automated CRM data entry through voice-to-text showing summary transcription",
+      "AI-assisted CMA report generation from MLS data integration"
+    ],
+    "contact_name": "Marc Tremblay",
+    "contact_title": "Operations Director",
+    "email": "mtremblay@suttonplace-realty.ca",
+    "source_note": "Large Montreal brokerage with multiple offices, clear automation potential in lead handling",
+    "language": "FR",
+    "outreach_channel": "LinkedIn Direct Message",
+    "qualification_score": 4.2,
+    "recommended_package": "AI Workflow Automation ($1,500-$2,500)",
+    "created_date": "2026-04-20"
+  },
+  {
+    "id": 274,
+    "company_name": "Leblanc & Associés Notaires",
+    "industry": "Law / Notarial Services",
+    "company_size": "11-50",
+    "location": "Montreal, QC",
+    "website": "leblancnotaires.ca",
+    "ai_readiness_score": 4,
+    "pain_points": [
+      "Extensive document preparation time for real estate transactions and contracts",
+      "Manual client intake and information collection processes",
+      "Scheduling conflicts and appointment management across multiple notaries"
+    ],
+    "suggested_services": [
+      "AI document drafting assistant for standard real estate and corporate contracts",
+      "Automated client intake forms with data extraction and structured database entry",
+      "Smart scheduling system with client self-booking and conflict detection"
+    ],
+    "contact_name": "Sophie Leblanc",
+    "contact_title": "Managing Partner",
+    "email": "sleblanc@leblancnotaires.ca",
+    "source_note": "Established Montreal notary firm, strong fit for document automation",
+    "language": "FR",
+    "outreach_channel": "Email to firm info address",
+    "qualification_score": 3.8,
+    "recommended_package": "AI Starter Setup ($750-$1,200)",
+    "created_date": "2026-04-20"
+  },
+  {
+    "id": 275,
+    "company_name": "FLS Management Services",
+    "industry": "Accounting / Bookkeeping Firm",
+    "company_size": "11-50",
+    "location": "Toronto, ON (GTA)",
+    "website": "flsmanagement.ca",
+    "ai_readiness_score": 7,
+    "pain_points": [
+      "Manual data entry of receipts and invoices into accounting software",
+      "Repetitive client bookkeeping queries about transaction categorization",
+      "Time-intensive preparation of monthly/quarterly financial statements"
+    ],
+    "suggested_services": [
+      "AI receipt and invoice data extraction with automatic categorization",
+      "Client portal with AI chatbot for common bookkeeping questions",
+      "Automated financial statement preparation from raw transaction data"
+    ],
+    "contact_name": "David Chen",
+    "contact_title": "Senior Partner",
+    "email": "dchen@flsmanagement.ca",
+    "source_note": "Toronto accounting firm actively scaling, high automation potential in bookkeeping workflows",
+    "language": "EN",
+    "outreach_channel": "LinkedIn Direct Message",
+    "qualification_score": 4.5,
+    "recommended_package": "AI Workflow Automation ($1,500-$2,500)",
+    "created_date": "2026-04-20"
+  },
+  {
+    "id": 276,
+    "company_name": "BlueSky Digital Marketing",
+    "industry": "Marketing / Digital Agency",
+    "company_size": "1-10",
+    "location": "Ottawa, ON",
+    "website": "blueskydigital.ca",
+    "ai_readiness_score": 8,
+    "pain_points": [
+      "Repetitive client reporting tasks requiring manual data aggregation from multiple platforms",
+      "Content creation bottlenecks for social media and blog posts",
+      "Proposal and pitch deck preparation consuming senior staff time"
+    ],
+    "suggested_services": [
+      "AI-powered marketing reporting dashboard with automated data pulling",
+      "AI content generation tools for social media captions and blog drafts",
+      "Automated proposal generation with custom templates and ROI calculators"
+    ],
+    "contact_name": "Jennifer Oduya",
+    "contact_title": "Founder & Creative Director",
+    "email": "joduya@blueskydigital.ca",
+    "source_note": "Small but digitally-forward Ottawa agency, already using multiple tools, ready for AI integration",
+    "language": "EN",
+    "outreach_channel": "Email direct",
+    "qualification_score": 4.8,
+    "recommended_package": "AI Workflow Automation ($1,500-$2,500)",
+    "created_date": "2026-04-20"
+  },
+  {
+    "id": 277,
+    "company_name": "UrbanFit Athletics",
+    "industry": "E-commerce / Retail",
+    "company_size": "1-10",
+    "location": "Toronto, ON (GTA)",
+    "website": "urbanfitathletics.com",
+    "ai_readiness_score": 5,
+    "pain_points": [
+      "High volume of customer service inquiries about order status and product questions",
+      "Manual inventory tracking and reorder decisions",
+      "Repetitive email responses to common FAQ categories"
+    ],
+    "suggested_services": [
+      "AI customer service chatbot for order status and product inquiries",
+      "Predictive inventory management with automated reorder alerts",
+      "AI-powered email response system for common customer service scenarios"
+    ],
+    "contact_name": "Marcus Webb",
+    "contact_title": "Owner",
+    "email": "mwebb@urbanfitathletics.com",
+    "source_note": "Toronto e-commerce brand with high customer service volume, clear automation opportunity",
+    "language": "EN",
+    "outreach_channel": "Email to contact form",
+    "qualification_score": 3.9,
+    "recommended_package": "AI Starter Setup ($750-$1,200)",
+    "created_date": "2026-04-20"
+  },
+  {
+    "id": 278,
+    "company_name": "NorthStar Staffing Solutions",
+    "industry": "Recruitment / Staffing Agency",
+    "company_size": "11-50",
+    "location": "Ottawa, ON",
+    "website": "northstarstaffing.ca",
+    "ai_readiness_score": 6,
+    "pain_points": [
+      "Manual screening of high volumes of resume submissions against job descriptions",
+      "Time-consuming interview scheduling coordination between candidates and hiring managers",
+      "Repetitive candidate communication for status updates and follow-ups"
+    ],
+    "suggested_services": [
+      "AI resume screening and candidate-job matching system",
+      "Automated interview scheduling with calendar integration",
+      "AI candidate communication system for status updates and follow-up sequences"
+    ],
+    "contact_name": "Patricia Nguyen",
+    "contact_title": "Director of Operations",
+    "email": "pnguyen@northstarstaffing.ca",
+    "source_note": "Ottawa staffing agency with clear manual screening bottlenecks, high volume of candidate processing",
+    "language": "EN",
+    "outreach_channel": "LinkedIn Direct Message",
+    "qualification_score": 4.3,
+    "recommended_package": "AI Workflow Automation ($1,500-$2,500)",
+    "created_date": "2026-04-20"
+  },
+  {
+    "id": 279,
+    "company_name": "Heritage Insurance Brokers",
+    "industry": "Insurance Brokerage",
+    "company_size": "11-50",
+    "location": "Montreal, QC",
+    "website": "heritageinsurance.ca",
+    "ai_readiness_score": 4,
+    "pain_points": [
+      "Manual policy document review and data entry into multiple carrier systems",
+      "Repetitive client communications about renewals, claims, and coverage questions",
+      "High volume of paperwork for new client onboarding and documentation"
+    ],
+    "suggested_services": [
+      "AI document extraction for policy review and data entry automation",
+      "Client communication AI for renewal reminders and claims follow-up",
+      "Automated new client onboarding workflow with document collection"
+    ],
+    "contact_name": "René Bouchard",
+    "contact_title": "General Manager",
+    "email": "rbouchard@heritageinsurance.ca",
+    "source_note": "Established Montreal insurance brokerage, large volume of repetitive client communications",
+    "language": "BILINGUAL",
+    "outreach_channel": "Email to general inquiries",
+    "qualification_score": 3.7,
+    "recommended_package": "AI Starter Setup ($750-$1,200)",
+    "created_date": "2026-04-20"
+  },
+  {
+    "id": 280,
+    "company_name": "Riverside Dental Clinic",
+    "industry": "Dental / Medical Clinic",
+    "company_size": "1-10",
+    "location": "Ottawa, ON",
+    "website": "riversidedentalottawa.ca",
+    "ai_readiness_score": 5,
+    "pain_points": [
+      "High volume of appointment scheduling and reminder calls consuming front desk time",
+      "Manual patient intake and medical history collection processes",
+      "Insurance claim submission and follow-up work consuming administrative hours"
+    ],
+    "suggested_services": [
+      "AI-powered phone chatbot for appointment booking and patient inquiries",
+      "Automated patient intake forms with medical history pre-population",
+      "AI-assisted insurance claim tracking and automated follow-up system"
+    ],
+    "contact_name": "Dr. Amanda Chen",
+    "contact_title": "Practice Owner",
+    "email": "adental@riversidedentalottawa.ca",
+    "source_note": "Ottawa dental clinic with overwhelmed front desk staff, visible administrative burden",
+    "language": "EN",
+    "outreach_channel": "Email to clinic",
+    "qualification_score": 3.8,
+    "recommended_package": "AI Starter Setup ($750-$1,200)",
+    "created_date": "2026-04-20"
+  },
+  {
+    "id": 281,
+    "company_name": "ClearView Property Management",
+    "industry": "Property Management Company",
+    "company_size": "11-50",
+    "location": "Toronto, ON (GTA)",
+    "website": "clearviewpropertymanagement.com",
+    "ai_readiness_score": 6,
+    "pain_points": [
+      "High volume of tenant maintenance requests requiring manual triage and dispatch",
+      "Repetitive lease renewal communications and document preparation",
+      "Multiple vendor and contractor coordination consuming property manager time"
+    ],
+    "suggested_services": [
+      "AI maintenance request triage with automatic priority routing",
+      "Automated lease renewal workflows with document generation",
+      "AI vendor coordination assistant for scheduling and follow-up"
+    ],
+    "contact_name": "Robert Martinez",
+    "contact_title": "VP Operations",
+    "email": "rmartinez@clearviewpropertymanagement.com",
+    "source_note": "GTA property management firm managing hundreds of units, clear operational bottlenecks",
+    "language": "EN",
+    "outreach_channel": "LinkedIn Direct Message",
+    "qualification_score": 4.1,
+    "recommended_package": "AI Workflow Automation ($1,500-$2,500)",
+    "created_date": "2026-04-20"
+  },
+  {
+    "id": 282,
+    "company_name": "Catalyst Consulting Group",
+    "industry": "Professional Consulting",
+    "company_size": "1-10",
+    "location": "Montreal, QC",
+    "website": "catalystconsultinggroup.ca",
+    "ai_readiness_score": 5,
+    "pain_points": [
+      "Manual research and competitive analysis for client proposals",
+      "Repetitive client status update reports and meeting preparation",
+      "Project documentation and reporting consuming senior consultant hours"
+    ],
+    "suggested_services": [
+      "AI research assistant for competitive analysis and market intelligence",
+      "Automated client status reporting with data integration",
+      "AI-powered meeting preparation with agenda generation and document summarization"
+    ],
+    "contact_name": "Isabelle Fortier",
+    "contact_title": "Managing Partner",
+    "email": "ifortier@catalystconsultinggroup.ca",
+    "source_note": "Montreal boutique consulting firm with senior staff doing too much administrative work",
+    "language": "FR",
+    "outreach_channel": "Email direct",
+    "qualification_score": 3.6,
+    "recommended_package": "AI Starter Setup ($750-$1,200)",
+    "created_date": "2026-04-20"
+  },
+  {
+    "id": 283,
+    "company_name": "Royal Elite Realty",
+    "industry": "Real Estate / Residential Brokerage",
+    "company_size": "51-200",
+    "location": "Toronto, ON (GTA)",
+    "website": "royaleliterealty.ca",
+    "ai_readiness_score": 6,
+    "pain_points": [
+      "High agent turnover generating constant onboarding and training needs",
+      "Manual lead distribution and tracking across large agent network",
+      "Repetitive listing input across multiple real estate board systems"
+    ],
+    "suggested_services": [
+      "AI onboarding assistant for new agent training and documentation",
+      "Automated lead distribution system with performance-based routing",
+      "Single-point listing entry with AI-powered syndication to multiple boards"
+    ],
+    "contact_name": "Frank DeLuca",
+    "contact_title": "Director of Technology",
+    "email": "fdeluca@royaleliterealty.ca",
+    "source_note": "Large GTA real estate brokerage with significant operational scale and agent management needs",
+    "language": "EN",
+    "outreach_channel": "LinkedIn Direct Message",
+    "qualification_score": 4.4,
+    "recommended_package": "AI Readiness Audit + Roadmap ($2,000-$3,000)",
+    "created_date": "2026-04-20"
+  },
+  {
+    "id": 284,
+    "company_name": "Ottawa Legal Partners LLP",
+    "industry": "Law Firm",
+    "company_size": "11-50",
+    "website": "ottawalegalpartners.ca",
+    "ai_readiness_score": 4,
+    "pain_points": [
+      "Manual legal research and case law summarization consuming associate hours",
+      "High volume of client billing and invoicing work for small administrative team",
+      "Repetitive contract review and markup for standard transaction types"
+    ],
+    "suggested_services": [
+      "AI legal research assistant with document summarization",
+      "Automated client billing and invoice generation system",
+      "AI contract review and markup tool for standard transactions"
+    ],
+    "contact_name": "Carol Whitmore",
+    "contact_title": "Office Manager",
+    "email": "cwhitmore@ottawalegalpartners.ca",
+    "source_note": "Ottawa law firm with visible administrative overhead, strong automation potential in research and billing",
+    "language": "EN",
+    "outreach_channel": "Email to firm",
+    "qualification_score": 3.5,
+    "recommended_package": "AI Starter Setup ($750-$1,200)",
+    "created_date": "2026-04-20",
+    "location": "Ottawa, ON"
+  },
+  {
+    "id": 285,
+    "company_name": "Precision Bookkeeping Solutions",
+    "industry": "Accounting / Bookkeeping Firm",
+    "company_size": "1-10",
+    "location": "Ottawa, ON",
+    "website": "precisionbookkeeping.ca",
+    "ai_readiness_score": 7,
+    "pain_points": [
+      "Manual transaction categorization across multiple client accounts",
+      "Repetitive client questions about financial data interpretation",
+      "Time-intensive month-end reconciliation processes"
+    ],
+    "suggested_services": [
+      "AI transaction categorization with learning from client-specific rules",
+      "Client portal with AI Q&A for financial data questions",
+      "Automated month-end reconciliation with exception flagging"
+    ],
+    "contact_name": "Karen Mehta",
+    "contact_title": "Owner",
+    "email": "kmehta@precisionbookkeeping.ca",
+    "source_note": "Small but organized Ottawa bookkeeping firm using cloud software, high readiness for AI integration",
+    "language": "EN",
+    "outreach_channel": "Email direct",
+    "qualification_score": 4.6,
+    "recommended_package": "AI Workflow Automation ($1,500-$2,500)",
+    "created_date": "2026-04-20"
+  },
+  {
+    "id": 286,
+    "company_name": "Nexus Creative Agency",
+    "industry": "Marketing / Digital Agency",
+    "company_size": "11-50",
+    "location": "Montreal, QC",
+    "website": "nexuscreative.quebec",
+    "ai_readiness_score": 7,
+    "pain_points": [
+      "Manual performance reporting across Google Ads, Meta, and multiple social platforms",
+      "Content approval workflows involving multiple client stakeholders",
+      "Repetitive client onboarding documentation and campaign setup tasks"
+    ],
+    "suggested_services": [
+      "AI-powered cross-platform reporting dashboard with automated data pulls",
+      "AI-assisted content approval workflow with stakeholder notification tracking",
+      "Automated client onboarding workflows with document generation"
+    ],
+    "contact_name": "Antoine Dubois",
+    "contact_title": "Co-founder & Strategy Director",
+    "email": "adubois@nexuscreative.quebec",
+    "source_note": "Montreal digital agency with 20+ staff, actively managing multiple client accounts, high automation potential",
+    "language": "FR",
+    "outreach_channel": "LinkedIn Direct Message",
+    "qualification_score": 4.5,
+    "recommended_package": "AI Workflow Automation ($1,500-$2,500)",
+    "created_date": "2026-04-20"
+  },
+  {
+    "id": 287,
+    "company_name": "Artisan Home Goods",
+    "industry": "E-commerce / Retail",
+    "company_size": "1-10",
+    "location": "Montreal, QC",
+    "website": "artisanhomegoods.ca",
+    "ai_readiness_score": 5,
+    "pain_points": [
+      "High volume of customer emails requiring personalized responses",
+      "Manual product description writing and SEO optimization for new listings",
+      "Inventory management and supplier communication consuming owner time"
+    ],
+    "suggested_services": [
+      "AI email response system for common customer inquiries with personalization",
+      "AI product description generator with SEO optimization",
+      "Automated inventory alerts and supplier reorder triggers"
+    ],
+    "contact_name": "Marie-Claire Fontaine",
+    "contact_title": "Founder",
+    "email": "mcfontaine@artisanhomegoods.ca",
+    "source_note": "Montreal artisan e-commerce brand, founder-led with manual processes throughout",
+    "language": "FR",
+    "outreach_channel": "Email to contact",
+    "qualification_score": 3.7,
+    "recommended_package": "AI Starter Setup ($750-$1,200)",
+    "created_date": "2026-04-20"
+  },
+  {
+    "id": 288,
+    "company_name": "Peak Careers Staffing",
+    "industry": "Recruitment / Staffing Agency",
+    "company_size": "11-50",
+    "location": "Toronto, ON (GTA)",
+    "website": "peakcareersstaffing.com",
+    "ai_readiness_score": 6,
+    "pain_points": [
+      "Manual candidate sourcing and initial outreach for specialized roles",
+      "High volume of interview scheduling changes and rescheduling handling",
+      "Repetitive reference check follow-up and documentation processes"
+    ],
+    "suggested_services": [
+      "AI candidate sourcing assistant with personalized outreach message generation",
+      "Automated interview scheduling with change management and reminders",
+      "AI-assisted reference check workflow with automated follow-up sequences"
+    ],
+    "contact_name": "Diana Kowalski",
+    "contact_title": "Operations Manager",
+    "email": "dkowalski@peakcareersstaffing.com",
+    "source_note": "GTA staffing agency specializing in technical roles, high volume of specialized recruiting work",
+    "language": "EN",
+    "outreach_channel": "LinkedIn Direct Message",
+    "qualification_score": 4.2,
+    "recommended_package": "AI Workflow Automation ($1,500-$2,500)",
+    "created_date": "2026-04-20"
+  },
+  {
+    "id": 289,
+    "company_name": "Summit Insurance Group",
+    "industry": "Insurance Brokerage",
+    "company_size": "11-50",
+    "location": "Toronto, ON (GTA)",
+    "website": "summitinsurancegroup.ca",
+    "ai_readiness_score": 5,
+    "pain_points": [
+      "Manual quote generation requiring data entry into multiple carrier systems",
+      "Repetitive policy review and coverage comparison documents for clients",
+      "Client onboarding documentation requiring manual follow-up and tracking"
+    ],
+    "suggested_services": [
+      "AI-assisted quote generation with cross-carrier comparison output",
+      "Automated coverage comparison documents for client presentations",
+      "Client onboarding workflow with automated document collection and reminders"
+    ],
+    "contact_name": "Michael Brennan",
+    "contact_title": "Senior Broker",
+    "email": "mbrennan@summitinsurancegroup.ca",
+    "source_note": "GTA insurance brokerage actively modernizing operations, clear fit for AI document workflows",
+    "language": "EN",
+    "outreach_channel": "Email direct",
+    "qualification_score": 3.9,
+    "recommended_package": "AI Starter Setup ($750-$1,200)",
+    "created_date": "2026-04-20"
+  },
+  {
+    "id": 290,
+    "company_name": "Metro Dental Wellness",
+    "industry": "Dental / Medical Clinic",
+    "company_size": "11-50",
+    "location": "Montreal, QC",
+    "website": "metrodentalwellness.ca",
+    "ai_readiness_score": 5,
+    "pain_points": [
+      "High call volume for appointment booking and patient inquiries overwhelming front desk",
+      "Manual insurance pre-authorization processes for treatments",
+      "Patient follow-up for overdue preventive care appointments"
+    ],
+    "suggested_services": [
+      "AI phone system for appointment booking with queue management",
+      "Automated insurance pre-authorization document preparation",
+      "AI patient outreach for preventive care reminder campaigns"
+    ],
+    "contact_name": "Dr. François Lambert",
+    "contact_title": "Clinical Director",
+    "email": "flambert@metrodentalwellness.ca",
+    "source_note": "Multi-dentist Montreal clinic with administrative bottleneck at patient communication",
+    "language": "BILINGUAL",
+    "outreach_channel": "Email to clinic contact",
+    "qualification_score": 3.8,
+    "recommended_package": "AI Starter Setup ($750-$1,200)",
+    "created_date": "2026-04-20"
+  },
+  {
+    "id": 291,
+    "company_name": "Guardian Property Services",
+    "industry": "Property Management Company",
+    "company_size": "11-50",
+    "location": "Ottawa, ON",
+    "website": "guardianpropertyservices.ca",
+    "ai_readiness_score": 6,
+    "pain_points": [
+      "High volume of tenant communication across email, phone, and portal requiring central management",
+      "Manual rent collection follow-up and late payment tracking",
+      "Vendor invoice processing and approval workflows consuming property manager time"
+    ],
+    "suggested_services": [
+      "AI-powered tenant communication hub with smart routing and response suggestions",
+      "Automated rent collection reminders and late payment escalation workflows",
+      "AI vendor invoice processing with automated approval routing"
+    ],
+    "contact_name": "Sarah Thompson",
+    "contact_title": "Portfolio Manager",
+    "email": "sthompson@guardianpropertyservices.ca",
+    "source_note": "Ottawa property management firm managing mixed residential portfolio, high communication volume",
+    "language": "EN",
+    "outreach_channel": "LinkedIn Direct Message",
+    "qualification_score": 4.0,
+    "recommended_package": "AI Workflow Automation ($1,500-$2,500)",
+    "created_date": "2026-04-20"
+  },
+  {
+    "id": 292,
+    "company_name": "Strategic Insight Consultants",
+    "industry": "Professional Consulting",
+    "company_size": "1-10",
+    "location": "Toronto, ON (GTA)",
+    "website": "strategicinsightconsultants.com",
+    "ai_readiness_score": 5,
+    "pain_points": [
+      "Manual market research and data gathering for client engagements",
+      "Client presentation preparation requiring significant senior staff time",
+      "Repetitive project status reporting and client communications"
+    ],
+    "suggested_services": [
+      "AI market research assistant with data synthesis and summary generation",
+      "AI-assisted presentation preparation with auto-populated slide content",
+      "Automated client project status reporting with milestone tracking"
+    ],
+    "contact_name": "William Tanaka",
+    "contact_title": "Principal Consultant",
+    "email": "wtanaka@strategicinsightconsultants.com",
+    "source_note": "GTA boutique consulting firm, principal doing too much research and admin work personally",
+    "language": "EN",
+    "outreach_channel": "Email direct",
+    "qualification_score": 3.5,
+    "recommended_package": "AI Starter Setup ($750-$1,200)",
+    "created_date": "2026-04-20"
   }
 ]
